@@ -32,7 +32,7 @@ WCS configuration partially represented as a type.
 
 • **CDELT1**: *number*
 
-*Defined in [wcs-dict.ts:33](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/wcs-dict.ts#L33)*
+*Defined in [wcs-dict.ts:33](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/wcs-dict.ts#L33)*
 
 [deg] Coordinate increment at reference.
 
@@ -42,7 +42,7 @@ ___
 
 • **CDELT2**: *number*
 
-*Defined in [wcs-dict.ts:38](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/wcs-dict.ts#L38)*
+*Defined in [wcs-dict.ts:38](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/wcs-dict.ts#L38)*
 
 [deg] Coordinate increment at reference.
 
@@ -52,7 +52,7 @@ ___
 
 • **CRPIX1**: *number*
 
-*Defined in [wcs-dict.ts:23](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/wcs-dict.ts#L23)*
+*Defined in [wcs-dict.ts:23](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/wcs-dict.ts#L23)*
 
 Pixel coordinate of reference point.
 
@@ -62,7 +62,7 @@ ___
 
 • **CRPIX2**: *number*
 
-*Defined in [wcs-dict.ts:28](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/wcs-dict.ts#L28)*
+*Defined in [wcs-dict.ts:28](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/wcs-dict.ts#L28)*
 
 Pixel coordinate of reference point.
 
@@ -72,7 +72,7 @@ ___
 
 • **CRVAL1**: *number*
 
-*Defined in [wcs-dict.ts:63](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/wcs-dict.ts#L63)*
+*Defined in [wcs-dict.ts:63](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/wcs-dict.ts#L63)*
 
 [deg] Coordinate value at reference point.
 
@@ -82,7 +82,7 @@ ___
 
 • **CRVAL2**: *number*
 
-*Defined in [wcs-dict.ts:68](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/wcs-dict.ts#L68)*
+*Defined in [wcs-dict.ts:68](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/wcs-dict.ts#L68)*
 
 [deg] Coordinate value at reference point.
 
@@ -92,7 +92,7 @@ ___
 
 • **CTYPE1**: *string*
 
-*Defined in [wcs-dict.ts:53](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/wcs-dict.ts#L53)*
+*Defined in [wcs-dict.ts:53](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/wcs-dict.ts#L53)*
 
 galactic longitude, Mollweide's projection.
 
@@ -102,7 +102,7 @@ ___
 
 • **CTYPE2**: *string*
 
-*Defined in [wcs-dict.ts:58](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/wcs-dict.ts#L58)*
+*Defined in [wcs-dict.ts:58](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/wcs-dict.ts#L58)*
 
 galactic latitude, Mollweide's projection.
 
@@ -112,7 +112,7 @@ ___
 
 • **CUNIT1**: *"deg" | "rad"*
 
-*Defined in [wcs-dict.ts:43](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/wcs-dict.ts#L43)*
+*Defined in [wcs-dict.ts:43](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/wcs-dict.ts#L43)*
 
 Units of coordinate increment and value.
 
@@ -122,7 +122,7 @@ ___
 
 • **CUNIT2**: *"deg" | "rad"*
 
-*Defined in [wcs-dict.ts:48](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/wcs-dict.ts#L48)*
+*Defined in [wcs-dict.ts:48](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/wcs-dict.ts#L48)*
 
 Units of coordinate increment and value.
 
@@ -132,7 +132,7 @@ ___
 
 • **NAXIS1**: *number*
 
-*Defined in [wcs-dict.ts:8](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/wcs-dict.ts#L8)*
+*Defined in [wcs-dict.ts:8](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/wcs-dict.ts#L8)*
 
 Image width.
 
@@ -142,7 +142,7 @@ ___
 
 • **NAXIS2**: *number*
 
-*Defined in [wcs-dict.ts:13](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/wcs-dict.ts#L13)*
+*Defined in [wcs-dict.ts:13](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/wcs-dict.ts#L13)*
 
 Image height.
 
@@ -152,6 +152,6 @@ ___
 
 • **WCSAXES**: *number*
 
-*Defined in [wcs-dict.ts:18](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/wcs-dict.ts#L18)*
+*Defined in [wcs-dict.ts:18](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/wcs-dict.ts#L18)*
 
 Number of coordinate axes.

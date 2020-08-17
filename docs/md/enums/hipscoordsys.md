@@ -18,7 +18,7 @@ Possible values are icrs or galactic.
 
 • **Galactic**: = "galactic"
 
-*Defined in [hips-coordsys.ts:15](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-coordsys.ts#L15)*
+*Defined in [hips-coordsys.ts:15](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/hips-coordsys.ts#L15)*
 
 Galaxy plane
 
@@ -28,6 +28,6 @@ ___
 
 • **Icrs**: = "icrs"
 
-*Defined in [hips-coordsys.ts:10](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-coordsys.ts#L10)*
+*Defined in [hips-coordsys.ts:10](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/hips-coordsys.ts#L10)*
 
 Earth plane
