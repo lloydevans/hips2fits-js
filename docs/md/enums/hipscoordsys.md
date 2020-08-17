@@ -1,4 +1,4 @@
-[hips2fits-js](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/README.md) › [HipsCoordsys](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipscoordsys.md)
+[hips2fits-js](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/README.md) › [HipsCoordsys](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipscoordsys.md)
 
 # Enumeration: HipsCoordsys
 
@@ -9,8 +9,8 @@ Possible values are icrs or galactic.
 
 ### Enumeration members
 
-* [Galactic](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipscoordsys.md#galactic)
-* [Icrs](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipscoordsys.md#icrs)
+* [Galactic](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipscoordsys.md#galactic)
+* [Icrs](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipscoordsys.md#icrs)
 
 ## Enumeration members
 

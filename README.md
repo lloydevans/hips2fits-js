@@ -1,4 +1,4 @@
-[hips2fits-js](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/README.md)
+[hips2fits-js](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/README.md)
 
 # hips2fits-js
 
@@ -19,28 +19,28 @@ It is ES5 compatible, however it does not provide any polyfills.
 
 ### Enumerations
 
-* [HipsCoordsys](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipscoordsys.md)
-* [HipsImageFormat](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsimageformat.md)
-* [HipsProjection](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md)
-* [HipsService](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsservice.md)
-* [HipsStretch](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsstretch.md)
+* [HipsCoordsys](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipscoordsys.md)
+* [HipsImageFormat](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsimageformat.md)
+* [HipsProjection](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md)
+* [HipsService](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsservice.md)
+* [HipsStretch](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsstretch.md)
 
 ### Interfaces
 
-* [HipsOptions](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/hipsoptions.md)
-* [WcsDict](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/wcsdict.md)
+* [HipsOptions](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md)
+* [WcsDict](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/wcsdict.md)
 
 ### Functions
 
-* [getImage](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/README.md#getimage)
-* [getImageUrl](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/README.md#getimageurl)
-* [parseWcs](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/README.md#parsewcs)
+* [getImage](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/README.md#getimage)
+* [getImageUrl](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/README.md#getimageurl)
+* [parseWcs](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/README.md#parsewcs)
 
 ## Functions
 
 ###  getImage
 
-▸ **getImage**(`options`: [HipsOptions](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/hipsoptions.md), `endPoint?`: string): *Promise‹Uint8Array›*
+▸ **getImage**(`options`: [HipsOptions](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md), `endPoint?`: string): *Promise‹Uint8Array›*
 
 Defined in get-image.ts:57
 
@@ -88,7 +88,7 @@ const {
 
 Name | Type | Description |
 ------ | ------ | ------ |
-`options` | [HipsOptions](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/hipsoptions.md) | Options object configuring the Hips image generated. |
+`options` | [HipsOptions](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md) | Options object configuring the Hips image generated. |
 `endPoint?` | string | Base URL endpoint.  |
 
 **Returns:** *Promise‹Uint8Array›*
@@ -97,7 +97,7 @@ ___
 
 ###  getImageUrl
 
-▸ **getImageUrl**(`options`: [HipsOptions](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/hipsoptions.md), `endPoint`: string): *string*
+▸ **getImageUrl**(`options`: [HipsOptions](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md), `endPoint`: string): *string*
 
 Defined in get-image-url.ts:55
 
@@ -145,7 +145,7 @@ window.addEventListener("load", function () {
 
 Name | Type | Default | Description |
 ------ | ------ | ------ | ------ |
-`options` | [HipsOptions](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/hipsoptions.md) | - | Options object configuring the Hips image generated. |
+`options` | [HipsOptions](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md) | - | Options object configuring the Hips image generated. |
 `endPoint` | string | DEFAULT_ENDPOINT | Base URL endpoint.  |
 
 **Returns:** *string*
@@ -154,7 +154,7 @@ ___
 
 ###  parseWcs
 
-▸ **parseWcs**(`wcsString`: string): *[WcsDict](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/wcsdict.md)*
+▸ **parseWcs**(`wcsString`: string): *[WcsDict](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/wcsdict.md)*
 
 Defined in parse-wcs.ts:30
 
@@ -188,4 +188,4 @@ Name | Type | Description |
 ------ | ------ | ------ |
 `wcsString` | string |   |
 
-**Returns:** *[WcsDict](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/wcsdict.md)*
+**Returns:** *[WcsDict](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/wcsdict.md)*

@@ -1,4 +1,4 @@
-[hips2fits-js](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/README.md) › [HipsProjection](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md)
+[hips2fits-js](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/README.md) › [HipsProjection](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md)
 
 # Enumeration: HipsProjection
 
@@ -9,27 +9,27 @@ Compulsory if wcs is not provided.
 
 ### Enumeration members
 
-* [Air](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#air)
-* [Ait](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#ait)
-* [Arc](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#arc)
-* [Azp](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#azp)
-* [Car](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#car)
-* [Cea](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#cea)
-* [Csc](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#csc)
-* [Cyp](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#cyp)
-* [Hpx](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#hpx)
-* [Mer](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#mer)
-* [Mol](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#mol)
-* [Par](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#par)
-* [Qsc](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#qsc)
-* [Sfl](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#sfl)
-* [Sin](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#sin)
-* [Stg](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#stg)
-* [Szp](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#szp)
-* [Tan](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#tan)
-* [Tsc](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#tsc)
-* [Xph](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#xph)
-* [Zea](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsprojection.md#zea)
+* [Air](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#air)
+* [Ait](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#ait)
+* [Arc](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#arc)
+* [Azp](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#azp)
+* [Car](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#car)
+* [Cea](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#cea)
+* [Csc](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#csc)
+* [Cyp](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#cyp)
+* [Hpx](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#hpx)
+* [Mer](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#mer)
+* [Mol](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#mol)
+* [Par](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#par)
+* [Qsc](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#qsc)
+* [Sfl](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#sfl)
+* [Sin](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#sin)
+* [Stg](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#stg)
+* [Szp](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#szp)
+* [Tan](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#tan)
+* [Tsc](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#tsc)
+* [Xph](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#xph)
+* [Zea](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md#zea)
 
 ## Enumeration members
 
