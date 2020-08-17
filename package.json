@@ -1,6 +1,6 @@
 {
   "name": "hips2fits-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple utility for requesting data from the EDS hips2fits service.",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",

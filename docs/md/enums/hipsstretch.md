@@ -22,7 +22,7 @@ Only applicable to jpg/png output formats.
 
 • **Asinh**: = "asinh"
 
-*Defined in [hips-stretch.ts:31](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/hips-stretch.ts#L31)*
+*Defined in [hips-stretch.ts:31](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-stretch.ts#L31)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **Linear**: = "linear"
 
-*Defined in [hips-stretch.ts:16](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/hips-stretch.ts#L16)*
+*Defined in [hips-stretch.ts:16](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-stretch.ts#L16)*
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 • **Log**: = "log"
 
-*Defined in [hips-stretch.ts:26](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/hips-stretch.ts#L26)*
+*Defined in [hips-stretch.ts:26](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-stretch.ts#L26)*
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 • **Power**: = "power"
 
-*Defined in [hips-stretch.ts:11](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/hips-stretch.ts#L11)*
+*Defined in [hips-stretch.ts:11](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-stretch.ts#L11)*
 
 ___
 
@@ -54,4 +54,4 @@ ___
 
 • **Sqrt**: = "sqrt"
 
-*Defined in [hips-stretch.ts:21](https://github.com/lloydevans/node-hips2fits/blob/a60c4f4/src/hips-stretch.ts#L21)*
+*Defined in [hips-stretch.ts:21](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-stretch.ts#L21)*
