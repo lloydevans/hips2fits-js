@@ -18,7 +18,7 @@
     "docs-html": "npx typedoc --options build/typedoc.html.js --plugin none",
     "docs-readme": "node ./build/build-readme.js",
     "eslint": "npx --no-install eslint src/**/*.{js,ts}",
-    "version": "npm run build && npm run docs && npm i && git add ."
+    "version": "npm run build && npm run docs && npm i && git add . -A"
   },
   "repository": {
     "type": "git",
