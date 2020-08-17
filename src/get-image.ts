@@ -43,12 +43,13 @@ const HIPS_SERVICE_DEFAULT: HipsService = HipsService.CDS_P_DSS2_color;
  *       dec: 0,
  *       fov: 360,
  *     });
+ *
+ *     await writeFile("image.png", data);
  *   } catch (error) {
  *     console.log(error);
  *     return;
  *   }
  *
- *   await writeFile("image.png", data);
  * })();
  * ```
  *
