@@ -1,4 +1,4 @@
-[hips2fits-js](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/README.md) › [HipsStretch](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/enums/hipsstretch.md)
+[hips2fits-js](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/README.md) › [HipsStretch](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsstretch.md)
 
 # Enumeration: HipsStretch
 
@@ -10,11 +10,11 @@ Only applicable to jpg/png output formats.
 
 ### Enumeration members
 
-* [Asinh](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/enums/hipsstretch.md#asinh)
-* [Linear](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/enums/hipsstretch.md#linear)
-* [Log](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/enums/hipsstretch.md#log)
-* [Power](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/enums/hipsstretch.md#power)
-* [Sqrt](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/enums/hipsstretch.md#sqrt)
+* [Asinh](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsstretch.md#asinh)
+* [Linear](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsstretch.md#linear)
+* [Log](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsstretch.md#log)
+* [Power](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsstretch.md#power)
+* [Sqrt](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsstretch.md#sqrt)
 
 ## Enumeration members
 

@@ -1,4 +1,4 @@
-[hips2fits-js](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/README.md) › [HipsImageFormat](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/enums/hipsimageformat.md)
+[hips2fits-js](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/README.md) › [HipsImageFormat](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsimageformat.md)
 
 # Enumeration: HipsImageFormat
 
@@ -11,9 +11,9 @@ min_cut, max_cut and stretch.
 
 ### Enumeration members
 
-* [Fits](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/enums/hipsimageformat.md#fits)
-* [Jpg](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/enums/hipsimageformat.md#jpg)
-* [Png](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/enums/hipsimageformat.md#png)
+* [Fits](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsimageformat.md#fits)
+* [Jpg](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsimageformat.md#jpg)
+* [Png](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/enums/hipsimageformat.md#png)
 
 ## Enumeration members
 

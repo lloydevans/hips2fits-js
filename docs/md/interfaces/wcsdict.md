@@ -1,4 +1,4 @@
-[hips2fits-js](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/README.md) › [WcsDict](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/interfaces/wcsdict.md)
+[hips2fits-js](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/README.md) › [WcsDict](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/wcsdict.md)
 
 # Interface: WcsDict
 
@@ -12,19 +12,19 @@ WCS configuration partially represented as a type.
 
 ### Properties
 
-* [CDELT1](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/interfaces/wcsdict.md#cdelt1)
-* [CDELT2](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/interfaces/wcsdict.md#cdelt2)
-* [CRPIX1](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/interfaces/wcsdict.md#crpix1)
-* [CRPIX2](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/interfaces/wcsdict.md#crpix2)
-* [CRVAL1](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/interfaces/wcsdict.md#crval1)
-* [CRVAL2](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/interfaces/wcsdict.md#crval2)
-* [CTYPE1](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/interfaces/wcsdict.md#ctype1)
-* [CTYPE2](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/interfaces/wcsdict.md#ctype2)
-* [CUNIT1](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/interfaces/wcsdict.md#cunit1)
-* [CUNIT2](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/interfaces/wcsdict.md#cunit2)
-* [NAXIS1](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/interfaces/wcsdict.md#naxis1)
-* [NAXIS2](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/interfaces/wcsdict.md#naxis2)
-* [WCSAXES](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/interfaces/wcsdict.md#wcsaxes)
+* [CDELT1](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/wcsdict.md#cdelt1)
+* [CDELT2](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/wcsdict.md#cdelt2)
+* [CRPIX1](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/wcsdict.md#crpix1)
+* [CRPIX2](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/wcsdict.md#crpix2)
+* [CRVAL1](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/wcsdict.md#crval1)
+* [CRVAL2](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/wcsdict.md#crval2)
+* [CTYPE1](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/wcsdict.md#ctype1)
+* [CTYPE2](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/wcsdict.md#ctype2)
+* [CUNIT1](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/wcsdict.md#cunit1)
+* [CUNIT2](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/wcsdict.md#cunit2)
+* [NAXIS1](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/wcsdict.md#naxis1)
+* [NAXIS2](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/wcsdict.md#naxis2)
+* [WCSAXES](https://github.com/lloydevans/hips2fits-js/tree/master/docs/api/md/interfaces/wcsdict.md#wcsaxes)
 
 ## Properties
 
