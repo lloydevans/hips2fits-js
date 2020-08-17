@@ -21,7 +21,7 @@ min_cut, max_cut and stretch.
 
 • **Fits**: = "fits"
 
-Defined in hips-image-format.ts:11
+*Defined in [hips-image-format.ts:11](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-image-format.ts#L11)*
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 • **Jpg**: = "jpg"
 
-Defined in hips-image-format.ts:16
+*Defined in [hips-image-format.ts:16](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-image-format.ts#L16)*
 
 ___
 
@@ -37,4 +37,4 @@ ___
 
 • **Png**: = "png"
 
-Defined in hips-image-format.ts:21
+*Defined in [hips-image-format.ts:21](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-image-format.ts#L21)*

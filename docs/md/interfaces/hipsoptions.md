@@ -36,7 +36,7 @@ Options object used to configure a request to the hips2fits service.
 
 • **cmap**? : *string*
 
-Defined in hips-options.ts:122
+*Defined in [hips-options.ts:122](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-options.ts#L122)*
 
 Name of the color map.
 Only applicable to jpg/png output formats Any colormap supported by
@@ -49,7 +49,7 @@ ___
 
 • **coordsys**? : *[HipsCoordsys](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/enums/hipscoordsys.md)*
 
-Defined in hips-options.ts:63
+*Defined in [hips-options.ts:63](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-options.ts#L63)*
 
 Coordinate frame system to be used for the projection.
 Possible values are icrs or galactic.
@@ -61,7 +61,7 @@ ___
 
 • **dec**? : *number*
 
-Defined in hips-options.ts:56
+*Defined in [hips-options.ts:56](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-options.ts#L56)*
 
 Declination in decimal degrees of the center of the output image.
 Compulsory if neither wcs or object are provided.
@@ -72,7 +72,7 @@ ___
 
 • **format**? : *[HipsImageFormat](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/enums/hipsimageformat.md)*
 
-Defined in hips-options.ts:90
+*Defined in [hips-options.ts:90](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-options.ts#L90)*
 
 Format of the output image.
 Allowed values are fits (default), jpg and png In case of jpg or png
@@ -85,7 +85,7 @@ ___
 
 • **fov**? : *number*
 
-Defined in hips-options.ts:44
+*Defined in [hips-options.ts:44](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-options.ts#L44)*
 
 Size (FoV) of the cutout on the sky, in decimal degrees.
 
@@ -95,7 +95,7 @@ ___
 
 • **height**? : *number*
 
-Defined in hips-options.ts:33
+*Defined in [hips-options.ts:33](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-options.ts#L33)*
 
 Height in pixels of the output image
 
@@ -105,7 +105,7 @@ ___
 
 • **hips**: *[HipsService](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/enums/hipsservice.md)*
 
-Defined in hips-options.ts:17
+*Defined in [hips-options.ts:17](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-options.ts#L17)*
 
 ID or keyword identifying the HiPS to use. Compulsory If multiple HiPS
 surveys match, one is chosen randomly
@@ -116,7 +116,7 @@ ___
 
 • **inverseLongitude**? : *boolean*
 
-Defined in hips-options.ts:82
+*Defined in [hips-options.ts:82](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-options.ts#L82)*
 
 Set to true if you want longitudes to be increasing from left to right.
 Mostly useful for planetary HiPS maps.
@@ -127,7 +127,7 @@ ___
 
 • **maxCut**? : *string*
 
-Defined in hips-options.ts:106
+*Defined in [hips-options.ts:106](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-options.ts#L106)*
 
 Maximal value considered for contrast adjustment normalization
 Only applicable to jpg/png output formats Can be given as a percentile
@@ -140,7 +140,7 @@ ___
 
 • **minCut**? : *string*
 
-Defined in hips-options.ts:98
+*Defined in [hips-options.ts:98](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-options.ts#L98)*
 
 Minimal value considered for contrast adjustment normalization.
 Only applicable to jpg/png output formats Can be given as a percentile
@@ -153,7 +153,7 @@ ___
 
 • **object**? : *number*
 
-Defined in hips-options.ts:76
+*Defined in [hips-options.ts:76](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-options.ts#L76)*
 
 Name of the object the output image will be centered on.
 The name will be resolved to coordinated by the Sesame service.
@@ -165,7 +165,7 @@ ___
 
 • **projection**? : *[HipsProjection](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/enums/hipsprojection.md)*
 
-Defined in hips-options.ts:39
+*Defined in [hips-options.ts:39](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-options.ts#L39)*
 
 Name of the requested projection, eg: SIN, TAN, MOL, AIT, CAR, CEA, STG
 Compulsory if wcs is not provided.
@@ -176,7 +176,7 @@ ___
 
 • **ra**? : *number*
 
-Defined in hips-options.ts:50
+*Defined in [hips-options.ts:50](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-options.ts#L50)*
 
 Right ascension in decimal degrees of the center of the output image.
 Compulsory if neither wcs or object are provided.
@@ -187,7 +187,7 @@ ___
 
 • **rotationAngle**? : *number*
 
-Defined in hips-options.ts:69
+*Defined in [hips-options.ts:69](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-options.ts#L69)*
 
 Angle value (in decimal degrees) to be applied to the projection.
 Default value is 0.
@@ -198,7 +198,7 @@ ___
 
 • **stretch**? : *[HipsStretch](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/enums/hipsstretch.md)*
 
-Defined in hips-options.ts:114
+*Defined in [hips-options.ts:114](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-options.ts#L114)*
 
 Stretch function used for contrast adjustmnt.
 Only applicable to jpg/png output formats Possible values are: power,
@@ -211,7 +211,7 @@ ___
 
 • **wcs**? : *string | [WcsDict](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/wcsdict.md)*
 
-Defined in hips-options.ts:23
+*Defined in [hips-options.ts:23](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-options.ts#L23)*
 
 The WCS definition of the cutout, defined as a key-value dictionary
 JSON string
@@ -222,6 +222,6 @@ ___
 
 • **width**? : *number*
 
-Defined in hips-options.ts:28
+*Defined in [hips-options.ts:28](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/hips-options.ts#L28)*
 
 Width in pixels of the output image

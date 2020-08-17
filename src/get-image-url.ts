@@ -18,6 +18,7 @@ const DEFAULT_ENDPOINT =
  *   getImageUrl,
  *   HipsImageFormat,
  *   HipsProjection,
+ *   HipsService,
  *   HipsStretch,
  *   HipsCoordsys,
  * } from "hips2fits-js";
@@ -27,16 +28,16 @@ const DEFAULT_ENDPOINT =
  * let height = 512;
  *
  * url = getImageUrl({
- *   hips: "CDS/P/DSS2/color",
+ *   hips: HipsService.CDS_P_DSS2_color,
+ *   coordsys: HipsCoordsys.Icrs,
+ *   projection: HipsProjection.Car,
+ *   stretch: HipsStretch.Asinh,
+ *   format: HipsImageFormat.Png,
  *   width,
  *   height,
  *   ra: 0,
  *   dec: 0,
  *   fov: 360,
- *   coordsys: HipsCoordsys.Icrs,
- *   projection: HipsProjection.Car,
- *   stretch: HipsStretch.Asinh,
- *   format: HipsImageFormat.Png,
  * });
  *
  * let img = new Image();

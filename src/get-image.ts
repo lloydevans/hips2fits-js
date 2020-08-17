@@ -22,6 +22,7 @@ const HIPS_SERVICE_DEFAULT: HipsService = HipsService.CDS_P_DSS2_color;
  *   getImage,
  *   HipsImageFormat,
  *   HipsProjection,
+ *   HipsService,
  *   HipsStretch,
  *   HipsCoordsys,
  * } = require("hips2fits-js");
@@ -31,16 +32,16 @@ const HIPS_SERVICE_DEFAULT: HipsService = HipsService.CDS_P_DSS2_color;
  *
  *   try {
  *     data = await getImage({
- *       hips: "CDS/P/DSS2/color",
+ *       hips: HipsService.CDS_P_DSS2_color,
+ *       coordsys: HipsCoordsys.Icrs,
+ *       projection: HipsProjection.Car,
+ *       stretch: HipsStretch.Asinh,
+ *       format: HipsImageFormat.Png,
  *       width: 2048 / 4,
  *       height: 1024 / 4,
  *       ra: 0,
  *       dec: 0,
  *       fov: 360,
- *       coordsys: HipsCoordsys.Icrs,
- *       projection: HipsProjection.Car,
- *       stretch: HipsStretch.Asinh,
- *       format: HipsImageFormat.Png,
  *     });
  *   } catch (error) {
  *     console.log(error);

@@ -44,7 +44,7 @@ It's a simple setup - Use the `getImage` or `getImageUrl` functions, which take 
 
 ▸ **getImage**(`options`: [HipsOptions](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md), `endPoint?`: string): *Promise‹Uint8Array›*
 
-Defined in get-image.ts:57
+*Defined in [get-image.ts:58](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/get-image.ts#L58)*
 
 Get an image from the hips2fits service.
 
@@ -57,6 +57,7 @@ const {
   getImage,
   HipsImageFormat,
   HipsProjection,
+  HipsService,
   HipsStretch,
   HipsCoordsys,
 } = require("hips2fits-js");
@@ -66,16 +67,16 @@ const {
 
   try {
     data = await getImage({
-      hips: "CDS/P/DSS2/color",
+      hips: HipsService.CDS_P_DSS2_color,
+      coordsys: HipsCoordsys.Icrs,
+      projection: HipsProjection.Car,
+      stretch: HipsStretch.Asinh,
+      format: HipsImageFormat.Png,
       width: 2048 / 4,
       height: 1024 / 4,
       ra: 0,
       dec: 0,
       fov: 360,
-      coordsys: HipsCoordsys.Icrs,
-      projection: HipsProjection.Car,
-      stretch: HipsStretch.Asinh,
-      format: HipsImageFormat.Png,
     });
   } catch (error) {
     console.log(error);
@@ -101,7 +102,7 @@ ___
 
 ▸ **getImageUrl**(`options`: [HipsOptions](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md), `endPoint`: string): *string*
 
-Defined in get-image-url.ts:55
+*Defined in [get-image-url.ts:56](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/get-image-url.ts#L56)*
 
 Get an image URL from the hips2fits service.
 
@@ -112,6 +113,7 @@ import {
   getImageUrl,
   HipsImageFormat,
   HipsProjection,
+  HipsService,
   HipsStretch,
   HipsCoordsys,
 } from "hips2fits-js";
@@ -121,16 +123,16 @@ let width = 1024;
 let height = 512;
 
 url = getImageUrl({
-  hips: "CDS/P/DSS2/color",
+  hips: HipsService.CDS_P_DSS2_color,
+  coordsys: HipsCoordsys.Icrs,
+  projection: HipsProjection.Car,
+  stretch: HipsStretch.Asinh,
+  format: HipsImageFormat.Png,
   width,
   height,
   ra: 0,
   dec: 0,
   fov: 360,
-  coordsys: HipsCoordsys.Icrs,
-  projection: HipsProjection.Car,
-  stretch: HipsStretch.Asinh,
-  format: HipsImageFormat.Png,
 });
 
 let img = new Image();
@@ -158,7 +160,7 @@ ___
 
 ▸ **parseWcs**(`wcsString`: string): *[WcsDict](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/wcsdict.md)*
 
-Defined in parse-wcs.ts:30
+*Defined in [parse-wcs.ts:30](https://github.com/lloydevans/node-hips2fits/blob/c8ddffe/src/parse-wcs.ts#L30)*
 
 Parse a WCS configuration string.
 
