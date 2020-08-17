@@ -1,4 +1,4 @@
-import { WcsDict } from "./wcs-dict";
+import type { WcsDict } from "./wcs-dict";
 
 /**
  * Parse a WCS configuration string.

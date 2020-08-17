@@ -1,9 +1,9 @@
-import { HipsCoordsys } from "./hips-coordsys";
-import { HipsImageFormat } from "./hips-image-format";
-import { HipsProjection } from "./hips-projection";
-import { HipsService } from "./hips-service";
-import { HipsStretch } from "./hips-stretch";
-import { WcsDict } from "./wcs-dict";
+import type { HipsCoordsys } from "./hips-coordsys";
+import type { HipsImageFormat } from "./hips-image-format";
+import type { HipsProjection } from "./hips-projection";
+import type { HipsService } from "./hips-service";
+import type { HipsStretch } from "./hips-stretch";
+import type { WcsDict } from "./wcs-dict";
 
 /**
  * Options object used to configure a request to the hips2fits service.
