@@ -1,4 +1,4 @@
-[hips2fits-js](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/README.md) › [HipsOptions](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md)
+[hips2fits-js](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/README.md) › [HipsOptions](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md)
 
 # Interface: HipsOptions
 
@@ -12,23 +12,23 @@ Options object used to configure a request to the hips2fits service.
 
 ### Properties
 
-* [cmap](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md#optional-cmap)
-* [coordsys](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md#optional-coordsys)
-* [dec](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md#optional-dec)
-* [format](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md#optional-format)
-* [fov](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md#optional-fov)
-* [height](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md#optional-height)
-* [hips](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md#hips)
-* [inverseLongitude](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md#optional-inverselongitude)
-* [maxCut](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md#optional-maxcut)
-* [minCut](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md#optional-mincut)
-* [object](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md#optional-object)
-* [projection](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md#optional-projection)
-* [ra](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md#optional-ra)
-* [rotationAngle](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md#optional-rotationangle)
-* [stretch](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md#optional-stretch)
-* [wcs](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md#optional-wcs)
-* [width](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/hipsoptions.md#optional-width)
+* [cmap](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md#optional-cmap)
+* [coordsys](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md#optional-coordsys)
+* [dec](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md#optional-dec)
+* [format](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md#optional-format)
+* [fov](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md#optional-fov)
+* [height](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md#optional-height)
+* [hips](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md#hips)
+* [inverseLongitude](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md#optional-inverselongitude)
+* [maxCut](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md#optional-maxcut)
+* [minCut](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md#optional-mincut)
+* [object](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md#optional-object)
+* [projection](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md#optional-projection)
+* [ra](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md#optional-ra)
+* [rotationAngle](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md#optional-rotationangle)
+* [stretch](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md#optional-stretch)
+* [wcs](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md#optional-wcs)
+* [width](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md#optional-width)
 
 ## Properties
 
@@ -47,7 +47,7 @@ ___
 
 ### `Optional` coordsys
 
-• **coordsys**? : *[HipsCoordsys](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipscoordsys.md)*
+• **coordsys**? : *[HipsCoordsys](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/enums/hipscoordsys.md)*
 
 Defined in hips-options.ts:63
 
@@ -70,7 +70,7 @@ ___
 
 ### `Optional` format
 
-• **format**? : *[HipsImageFormat](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsimageformat.md)*
+• **format**? : *[HipsImageFormat](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/enums/hipsimageformat.md)*
 
 Defined in hips-options.ts:90
 
@@ -103,7 +103,7 @@ ___
 
 ###  hips
 
-• **hips**: *[HipsService](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsservice.md)*
+• **hips**: *[HipsService](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/enums/hipsservice.md)*
 
 Defined in hips-options.ts:17
 
@@ -163,7 +163,7 @@ ___
 
 ### `Optional` projection
 
-• **projection**? : *[HipsProjection](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsprojection.md)*
+• **projection**? : *[HipsProjection](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/enums/hipsprojection.md)*
 
 Defined in hips-options.ts:39
 
@@ -196,7 +196,7 @@ ___
 
 ### `Optional` stretch
 
-• **stretch**? : *[HipsStretch](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/enums/hipsstretch.md)*
+• **stretch**? : *[HipsStretch](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/enums/hipsstretch.md)*
 
 Defined in hips-options.ts:114
 
@@ -209,7 +209,7 @@ ___
 
 ### `Optional` wcs
 
-• **wcs**? : *string | [WcsDict](https://github.com/lloydevans/hips2fits-js/blob/master/docs/api/md/interfaces/wcsdict.md)*
+• **wcs**? : *string | [WcsDict](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/wcsdict.md)*
 
 Defined in hips-options.ts:23
 
