@@ -853,7 +853,7 @@
 
 • **CDS_P_2MASS6X_H**: = "CDS/P/2MASS6X/H"
 
-*Defined in [hips-service.ts:36](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L36)*
+*Defined in [hips-service.ts:36](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L36)*
 
 CDS/P/2MASS6X/H
 
@@ -866,7 +866,7 @@ ___
 
 • **CDS_P_2MASS6X_J**: = "CDS/P/2MASS6X/J"
 
-*Defined in [hips-service.ts:43](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L43)*
+*Defined in [hips-service.ts:43](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L43)*
 
 CDS/P/2MASS6X/J
 
@@ -879,7 +879,7 @@ ___
 
 • **CDS_P_2MASS6X_K**: = "CDS/P/2MASS6X/K"
 
-*Defined in [hips-service.ts:50](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L50)*
+*Defined in [hips-service.ts:50](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L50)*
 
 CDS/P/2MASS6X/K
 
@@ -892,7 +892,7 @@ ___
 
 • **CDS_P_2MASS6X_color**: = "CDS/P/2MASS6X/color"
 
-*Defined in [hips-service.ts:57](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L57)*
+*Defined in [hips-service.ts:57](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L57)*
 
 CDS/P/2MASS6X/color
 
@@ -905,7 +905,7 @@ ___
 
 • **CDS_P_2MASS_H**: = "CDS/P/2MASS/H"
 
-*Defined in [hips-service.ts:8](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L8)*
+*Defined in [hips-service.ts:8](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L8)*
 
 CDS/P/2MASS/H
 
@@ -918,7 +918,7 @@ ___
 
 • **CDS_P_2MASS_J**: = "CDS/P/2MASS/J"
 
-*Defined in [hips-service.ts:15](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L15)*
+*Defined in [hips-service.ts:15](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L15)*
 
 CDS/P/2MASS/J
 
@@ -931,7 +931,7 @@ ___
 
 • **CDS_P_2MASS_K**: = "CDS/P/2MASS/K"
 
-*Defined in [hips-service.ts:22](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L22)*
+*Defined in [hips-service.ts:22](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L22)*
 
 CDS/P/2MASS/K
 
@@ -944,7 +944,7 @@ ___
 
 • **CDS_P_2MASS_color**: = "CDS/P/2MASS/color"
 
-*Defined in [hips-service.ts:29](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L29)*
+*Defined in [hips-service.ts:29](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L29)*
 
 CDS/P/2MASS/color
 
@@ -957,7 +957,7 @@ ___
 
 • **CDS_P_AKARI_FIS_Color**: = "CDS/P/AKARI/FIS/Color"
 
-*Defined in [hips-service.ts:64](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L64)*
+*Defined in [hips-service.ts:64](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L64)*
 
 CDS/P/AKARI/FIS/Color
 
@@ -970,7 +970,7 @@ ___
 
 • **CDS_P_AKARI_FIS_N160**: = "CDS/P/AKARI/FIS/N160"
 
-*Defined in [hips-service.ts:71](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L71)*
+*Defined in [hips-service.ts:71](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L71)*
 
 CDS/P/AKARI/FIS/N160
 
@@ -983,7 +983,7 @@ ___
 
 • **CDS_P_AKARI_FIS_N60**: = "CDS/P/AKARI/FIS/N60"
 
-*Defined in [hips-service.ts:78](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L78)*
+*Defined in [hips-service.ts:78](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L78)*
 
 CDS/P/AKARI/FIS/N60
 
@@ -996,7 +996,7 @@ ___
 
 • **CDS_P_AKARI_FIS_WideL**: = "CDS/P/AKARI/FIS/WideL"
 
-*Defined in [hips-service.ts:85](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L85)*
+*Defined in [hips-service.ts:85](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L85)*
 
 CDS/P/AKARI/FIS/WideL
 
@@ -1009,7 +1009,7 @@ ___
 
 • **CDS_P_AKARI_FIS_WideS**: = "CDS/P/AKARI/FIS/WideS"
 
-*Defined in [hips-service.ts:92](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L92)*
+*Defined in [hips-service.ts:92](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L92)*
 
 CDS/P/AKARI/FIS/WideS
 
@@ -1022,7 +1022,7 @@ ___
 
 • **CDS_P_ATLASGAL**: = "CDS/P/ATLASGAL"
 
-*Defined in [hips-service.ts:99](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L99)*
+*Defined in [hips-service.ts:99](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L99)*
 
 CDS/P/ATLASGAL
 
@@ -1035,7 +1035,7 @@ ___
 
 • **CDS_P_ATLASGAL_APEXPlanck**: = "CDS/P/ATLASGAL/APEXPlanck"
 
-*Defined in [hips-service.ts:106](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L106)*
+*Defined in [hips-service.ts:106](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L106)*
 
 CDS/P/ATLASGAL/APEXPlanck
 
@@ -1048,7 +1048,7 @@ ___
 
 • **CDS_P_Ariel_Voyager**: = "CDS/P/Ariel/Voyager"
 
-*Defined in [hips-service.ts:113](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L113)*
+*Defined in [hips-service.ts:113](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L113)*
 
 CDS/P/Ariel/Voyager
 
@@ -1061,7 +1061,7 @@ ___
 
 • **CDS_P_CFHTLS_D_color_ugi**: = "CDS/P/CFHTLS/D/color/ugi"
 
-*Defined in [hips-service.ts:120](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L120)*
+*Defined in [hips-service.ts:120](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L120)*
 
 CDS/P/CFHTLS/D/color/ugi
 
@@ -1074,7 +1074,7 @@ ___
 
 • **CDS_P_CFHTLS_D_g**: = "CDS/P/CFHTLS/D/g"
 
-*Defined in [hips-service.ts:127](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L127)*
+*Defined in [hips-service.ts:127](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L127)*
 
 CDS/P/CFHTLS/D/g
 
@@ -1087,7 +1087,7 @@ ___
 
 • **CDS_P_CFHTLS_D_i**: = "CDS/P/CFHTLS/D/i"
 
-*Defined in [hips-service.ts:134](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L134)*
+*Defined in [hips-service.ts:134](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L134)*
 
 CDS/P/CFHTLS/D/i
 
@@ -1100,7 +1100,7 @@ ___
 
 • **CDS_P_CFHTLS_D_r**: = "CDS/P/CFHTLS/D/r"
 
-*Defined in [hips-service.ts:141](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L141)*
+*Defined in [hips-service.ts:141](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L141)*
 
 CDS/P/CFHTLS/D/r
 
@@ -1113,7 +1113,7 @@ ___
 
 • **CDS_P_CFHTLS_D_u**: = "CDS/P/CFHTLS/D/u"
 
-*Defined in [hips-service.ts:148](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L148)*
+*Defined in [hips-service.ts:148](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L148)*
 
 CDS/P/CFHTLS/D/u
 
@@ -1126,7 +1126,7 @@ ___
 
 • **CDS_P_CFHTLS_D_z**: = "CDS/P/CFHTLS/D/z"
 
-*Defined in [hips-service.ts:155](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L155)*
+*Defined in [hips-service.ts:155](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L155)*
 
 CDS/P/CFHTLS/D/z
 
@@ -1139,7 +1139,7 @@ ___
 
 • **CDS_P_CFHTLS_W_Color_ugi**: = "CDS/P/CFHTLS/W/Color/ugi"
 
-*Defined in [hips-service.ts:162](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L162)*
+*Defined in [hips-service.ts:162](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L162)*
 
 CDS/P/CFHTLS/W/Color/ugi
 
@@ -1152,7 +1152,7 @@ ___
 
 • **CDS_P_CFHTLS_W_g**: = "CDS/P/CFHTLS/W/g"
 
-*Defined in [hips-service.ts:169](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L169)*
+*Defined in [hips-service.ts:169](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L169)*
 
 CDS/P/CFHTLS/W/g
 
@@ -1165,7 +1165,7 @@ ___
 
 • **CDS_P_CFHTLS_W_i**: = "CDS/P/CFHTLS/W/i"
 
-*Defined in [hips-service.ts:176](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L176)*
+*Defined in [hips-service.ts:176](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L176)*
 
 CDS/P/CFHTLS/W/i
 
@@ -1178,7 +1178,7 @@ ___
 
 • **CDS_P_CFHTLS_W_r**: = "CDS/P/CFHTLS/W/r"
 
-*Defined in [hips-service.ts:183](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L183)*
+*Defined in [hips-service.ts:183](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L183)*
 
 CDS/P/CFHTLS/W/r
 
@@ -1191,7 +1191,7 @@ ___
 
 • **CDS_P_CFHTLS_W_u**: = "CDS/P/CFHTLS/W/u"
 
-*Defined in [hips-service.ts:190](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L190)*
+*Defined in [hips-service.ts:190](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L190)*
 
 CDS/P/CFHTLS/W/u
 
@@ -1204,7 +1204,7 @@ ___
 
 • **CDS_P_CFHTLS_W_z**: = "CDS/P/CFHTLS/W/z"
 
-*Defined in [hips-service.ts:197](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L197)*
+*Defined in [hips-service.ts:197](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L197)*
 
 CDS/P/CFHTLS/W/z
 
@@ -1217,7 +1217,7 @@ ___
 
 • **CDS_P_CO**: = "CDS/P/CO"
 
-*Defined in [hips-service.ts:204](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L204)*
+*Defined in [hips-service.ts:204](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L204)*
 
 CDS/P/CO
 
@@ -1230,7 +1230,7 @@ ___
 
 • **CDS_P_COHRS**: = "CDS/P/COHRS"
 
-*Defined in [hips-service.ts:211](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L211)*
+*Defined in [hips-service.ts:211](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L211)*
 
 CDS/P/COHRS
 
@@ -1243,7 +1243,7 @@ ___
 
 • **CDS_P_Callisto_Voyager_Galileo_simp_1km**: = "CDS/P/Callisto/Voyager-Galileo-simp-1km"
 
-*Defined in [hips-service.ts:218](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L218)*
+*Defined in [hips-service.ts:218](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L218)*
 
 CDS/P/Callisto/Voyager-Galileo-simp-1km
 
@@ -1256,7 +1256,7 @@ ___
 
 • **CDS_P_Charon_NewHorizon_PIA19866**: = "CDS/P/Charon/NewHorizon-PIA19866"
 
-*Defined in [hips-service.ts:225](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L225)*
+*Defined in [hips-service.ts:225](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L225)*
 
 CDS/P/Charon/NewHorizon-PIA19866
 
@@ -1269,7 +1269,7 @@ ___
 
 • **CDS_P_DECaLS_DR3_color**: = "CDS/P/DECaLS/DR3/color"
 
-*Defined in [hips-service.ts:232](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L232)*
+*Defined in [hips-service.ts:232](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L232)*
 
 CDS/P/DECaLS/DR3/color
 
@@ -1282,7 +1282,7 @@ ___
 
 • **CDS_P_DECaLS_DR5_color**: = "CDS/P/DECaLS/DR5/color"
 
-*Defined in [hips-service.ts:239](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L239)*
+*Defined in [hips-service.ts:239](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L239)*
 
 CDS/P/DECaLS/DR5/color
 
@@ -1295,7 +1295,7 @@ ___
 
 • **CDS_P_DECaLS_DR5_g**: = "CDS/P/DECaLS/DR5/g"
 
-*Defined in [hips-service.ts:246](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L246)*
+*Defined in [hips-service.ts:246](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L246)*
 
 CDS/P/DECaLS/DR5/g
 
@@ -1308,7 +1308,7 @@ ___
 
 • **CDS_P_DECaLS_DR5_r**: = "CDS/P/DECaLS/DR5/r"
 
-*Defined in [hips-service.ts:253](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L253)*
+*Defined in [hips-service.ts:253](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L253)*
 
 CDS/P/DECaLS/DR5/r
 
@@ -1321,7 +1321,7 @@ ___
 
 • **CDS_P_DECaPS_DR1_color**: = "CDS/P/DECaPS/DR1/color"
 
-*Defined in [hips-service.ts:260](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L260)*
+*Defined in [hips-service.ts:260](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L260)*
 
 CDS/P/DECaPS/DR1/color
 
@@ -1334,7 +1334,7 @@ ___
 
 • **CDS_P_DECaPS_DR1_g**: = "CDS/P/DECaPS/DR1/g"
 
-*Defined in [hips-service.ts:267](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L267)*
+*Defined in [hips-service.ts:267](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L267)*
 
 CDS/P/DECaPS/DR1/g
 
@@ -1347,7 +1347,7 @@ ___
 
 • **CDS_P_DES_DR1_Y**: = "CDS/P/DES-DR1/Y"
 
-*Defined in [hips-service.ts:274](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L274)*
+*Defined in [hips-service.ts:274](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L274)*
 
 CDS/P/DES-DR1/Y
 
@@ -1360,7 +1360,7 @@ ___
 
 • **CDS_P_DES_DR1_g**: = "CDS/P/DES-DR1/g"
 
-*Defined in [hips-service.ts:281](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L281)*
+*Defined in [hips-service.ts:281](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L281)*
 
 CDS/P/DES-DR1/g
 
@@ -1373,7 +1373,7 @@ ___
 
 • **CDS_P_DES_DR1_i**: = "CDS/P/DES-DR1/i"
 
-*Defined in [hips-service.ts:288](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L288)*
+*Defined in [hips-service.ts:288](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L288)*
 
 CDS/P/DES-DR1/i
 
@@ -1386,7 +1386,7 @@ ___
 
 • **CDS_P_DES_DR1_r**: = "CDS/P/DES-DR1/r"
 
-*Defined in [hips-service.ts:295](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L295)*
+*Defined in [hips-service.ts:295](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L295)*
 
 CDS/P/DES-DR1/r
 
@@ -1399,7 +1399,7 @@ ___
 
 • **CDS_P_DES_DR1_z**: = "CDS/P/DES-DR1/z"
 
-*Defined in [hips-service.ts:302](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L302)*
+*Defined in [hips-service.ts:302](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L302)*
 
 CDS/P/DES-DR1/z
 
@@ -1412,7 +1412,7 @@ ___
 
 • **CDS_P_DM_I_345_gaia2**: = "CDS/P/DM/I/345/gaia2"
 
-*Defined in [hips-service.ts:309](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L309)*
+*Defined in [hips-service.ts:309](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L309)*
 
 CDS/P/DM/I/345/gaia2
 
@@ -1425,7 +1425,7 @@ ___
 
 • **CDS_P_DM_flux_Bp_I_345_gaia2**: = "CDS/P/DM/flux-Bp/I/345/gaia2"
 
-*Defined in [hips-service.ts:316](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L316)*
+*Defined in [hips-service.ts:316](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L316)*
 
 CDS/P/DM/flux-Bp/I/345/gaia2
 
@@ -1438,7 +1438,7 @@ ___
 
 • **CDS_P_DM_flux_G_I_345_gaia2**: = "CDS/P/DM/flux-G/I/345/gaia2"
 
-*Defined in [hips-service.ts:323](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L323)*
+*Defined in [hips-service.ts:323](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L323)*
 
 CDS/P/DM/flux-G/I/345/gaia2
 
@@ -1451,7 +1451,7 @@ ___
 
 • **CDS_P_DM_flux_Rp_I_345_gaia2**: = "CDS/P/DM/flux-Rp/I/345/gaia2"
 
-*Defined in [hips-service.ts:330](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L330)*
+*Defined in [hips-service.ts:330](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L330)*
 
 CDS/P/DM/flux-Rp/I/345/gaia2
 
@@ -1464,7 +1464,7 @@ ___
 
 • **CDS_P_DM_flux_color_Rp_G_Bp_I_345_gaia2**: = "CDS/P/DM/flux-color-Rp-G-Bp/I/345/gaia2"
 
-*Defined in [hips-service.ts:337](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L337)*
+*Defined in [hips-service.ts:337](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L337)*
 
 CDS/P/DM/flux-color-Rp-G-Bp/I/345/gaia2
 
@@ -1477,7 +1477,7 @@ ___
 
 • **CDS_P_DM_radial_velocity_I_345_gaia2**: = "CDS/P/DM/radial-velocity/I/345/gaia2"
 
-*Defined in [hips-service.ts:344](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L344)*
+*Defined in [hips-service.ts:344](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L344)*
 
 CDS/P/DM/radial-velocity/I/345/gaia2
 
@@ -1490,7 +1490,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_allObjects**: = "CDS/P/DM/simbad-biblio/allObjects"
 
-*Defined in [hips-service.ts:351](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L351)*
+*Defined in [hips-service.ts:351](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L351)*
 
 CDS/P/DM/simbad-biblio/allObjects
 
@@ -1503,7 +1503,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_otypes_Galaxy**: = "CDS/P/DM/simbad-biblio/otypes/Galaxy"
 
-*Defined in [hips-service.ts:358](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L358)*
+*Defined in [hips-service.ts:358](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L358)*
 
 CDS/P/DM/simbad-biblio/otypes/Galaxy
 
@@ -1516,7 +1516,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_otypes_HII**: = "CDS/P/DM/simbad-biblio/otypes/HII"
 
-*Defined in [hips-service.ts:365](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L365)*
+*Defined in [hips-service.ts:365](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L365)*
 
 CDS/P/DM/simbad-biblio/otypes/HII
 
@@ -1529,7 +1529,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_otypes_Infrared**: = "CDS/P/DM/simbad-biblio/otypes/Infrared"
 
-*Defined in [hips-service.ts:372](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L372)*
+*Defined in [hips-service.ts:372](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L372)*
 
 CDS/P/DM/simbad-biblio/otypes/Infrared
 
@@ -1542,7 +1542,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_otypes_Nebula**: = "CDS/P/DM/simbad-biblio/otypes/Nebula"
 
-*Defined in [hips-service.ts:379](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L379)*
+*Defined in [hips-service.ts:379](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L379)*
 
 CDS/P/DM/simbad-biblio/otypes/Nebula
 
@@ -1555,7 +1555,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_otypes_Other**: = "CDS/P/DM/simbad-biblio/otypes/Other"
 
-*Defined in [hips-service.ts:386](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L386)*
+*Defined in [hips-service.ts:386](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L386)*
 
 CDS/P/DM/simbad-biblio/otypes/Other
 
@@ -1568,7 +1568,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_otypes_Radio**: = "CDS/P/DM/simbad-biblio/otypes/Radio"
 
-*Defined in [hips-service.ts:393](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L393)*
+*Defined in [hips-service.ts:393](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L393)*
 
 CDS/P/DM/simbad-biblio/otypes/Radio
 
@@ -1581,7 +1581,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_otypes_Star**: = "CDS/P/DM/simbad-biblio/otypes/Star"
 
-*Defined in [hips-service.ts:400](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L400)*
+*Defined in [hips-service.ts:400](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L400)*
 
 CDS/P/DM/simbad-biblio/otypes/Star
 
@@ -1594,7 +1594,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_otypes_UV**: = "CDS/P/DM/simbad-biblio/otypes/UV"
 
-*Defined in [hips-service.ts:407](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L407)*
+*Defined in [hips-service.ts:407](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L407)*
 
 CDS/P/DM/simbad-biblio/otypes/UV
 
@@ -1607,7 +1607,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_otypes_X**: = "CDS/P/DM/simbad-biblio/otypes/X"
 
-*Defined in [hips-service.ts:414](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L414)*
+*Defined in [hips-service.ts:414](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L414)*
 
 CDS/P/DM/simbad-biblio/otypes/X
 
@@ -1620,7 +1620,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1850_1900**: = "CDS/P/DM/simbad-biblio/pub-dates/1850-1900"
 
-*Defined in [hips-service.ts:421](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L421)*
+*Defined in [hips-service.ts:421](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L421)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1850-1900
 
@@ -1633,7 +1633,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1900_1910**: = "CDS/P/DM/simbad-biblio/pub-dates/1900-1910"
 
-*Defined in [hips-service.ts:428](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L428)*
+*Defined in [hips-service.ts:428](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L428)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1900-1910
 
@@ -1646,7 +1646,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1910_1920**: = "CDS/P/DM/simbad-biblio/pub-dates/1910-1920"
 
-*Defined in [hips-service.ts:435](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L435)*
+*Defined in [hips-service.ts:435](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L435)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1910-1920
 
@@ -1659,7 +1659,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1920_1930**: = "CDS/P/DM/simbad-biblio/pub-dates/1920-1930"
 
-*Defined in [hips-service.ts:442](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L442)*
+*Defined in [hips-service.ts:442](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L442)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1920-1930
 
@@ -1672,7 +1672,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1930_1940**: = "CDS/P/DM/simbad-biblio/pub-dates/1930-1940"
 
-*Defined in [hips-service.ts:449](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L449)*
+*Defined in [hips-service.ts:449](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L449)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1930-1940
 
@@ -1685,7 +1685,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1940_1945**: = "CDS/P/DM/simbad-biblio/pub-dates/1940-1945"
 
-*Defined in [hips-service.ts:456](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L456)*
+*Defined in [hips-service.ts:456](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L456)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1940-1945
 
@@ -1698,7 +1698,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1945_1950**: = "CDS/P/DM/simbad-biblio/pub-dates/1945-1950"
 
-*Defined in [hips-service.ts:463](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L463)*
+*Defined in [hips-service.ts:463](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L463)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1945-1950
 
@@ -1711,7 +1711,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1950_1955**: = "CDS/P/DM/simbad-biblio/pub-dates/1950-1955"
 
-*Defined in [hips-service.ts:470](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L470)*
+*Defined in [hips-service.ts:470](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L470)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1950-1955
 
@@ -1724,7 +1724,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1955_1960**: = "CDS/P/DM/simbad-biblio/pub-dates/1955-1960"
 
-*Defined in [hips-service.ts:477](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L477)*
+*Defined in [hips-service.ts:477](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L477)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1955-1960
 
@@ -1737,7 +1737,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1960_1965**: = "CDS/P/DM/simbad-biblio/pub-dates/1960-1965"
 
-*Defined in [hips-service.ts:484](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L484)*
+*Defined in [hips-service.ts:484](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L484)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1960-1965
 
@@ -1750,7 +1750,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1965_1970**: = "CDS/P/DM/simbad-biblio/pub-dates/1965-1970"
 
-*Defined in [hips-service.ts:491](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L491)*
+*Defined in [hips-service.ts:491](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L491)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1965-1970
 
@@ -1763,7 +1763,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1970_1975**: = "CDS/P/DM/simbad-biblio/pub-dates/1970-1975"
 
-*Defined in [hips-service.ts:498](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L498)*
+*Defined in [hips-service.ts:498](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L498)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1970-1975
 
@@ -1776,7 +1776,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1975_1980**: = "CDS/P/DM/simbad-biblio/pub-dates/1975-1980"
 
-*Defined in [hips-service.ts:505](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L505)*
+*Defined in [hips-service.ts:505](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L505)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1975-1980
 
@@ -1789,7 +1789,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1980_1985**: = "CDS/P/DM/simbad-biblio/pub-dates/1980-1985"
 
-*Defined in [hips-service.ts:512](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L512)*
+*Defined in [hips-service.ts:512](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L512)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1980-1985
 
@@ -1802,7 +1802,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1985_1990**: = "CDS/P/DM/simbad-biblio/pub-dates/1985-1990"
 
-*Defined in [hips-service.ts:519](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L519)*
+*Defined in [hips-service.ts:519](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L519)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1985-1990
 
@@ -1815,7 +1815,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1991**: = "CDS/P/DM/simbad-biblio/pub-dates/1991"
 
-*Defined in [hips-service.ts:526](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L526)*
+*Defined in [hips-service.ts:526](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L526)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1991
 
@@ -1828,7 +1828,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1992**: = "CDS/P/DM/simbad-biblio/pub-dates/1992"
 
-*Defined in [hips-service.ts:533](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L533)*
+*Defined in [hips-service.ts:533](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L533)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1992
 
@@ -1841,7 +1841,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1993**: = "CDS/P/DM/simbad-biblio/pub-dates/1993"
 
-*Defined in [hips-service.ts:540](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L540)*
+*Defined in [hips-service.ts:540](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L540)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1993
 
@@ -1854,7 +1854,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1994**: = "CDS/P/DM/simbad-biblio/pub-dates/1994"
 
-*Defined in [hips-service.ts:547](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L547)*
+*Defined in [hips-service.ts:547](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L547)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1994
 
@@ -1867,7 +1867,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1995**: = "CDS/P/DM/simbad-biblio/pub-dates/1995"
 
-*Defined in [hips-service.ts:554](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L554)*
+*Defined in [hips-service.ts:554](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L554)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1995
 
@@ -1880,7 +1880,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1996**: = "CDS/P/DM/simbad-biblio/pub-dates/1996"
 
-*Defined in [hips-service.ts:561](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L561)*
+*Defined in [hips-service.ts:561](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L561)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1996
 
@@ -1893,7 +1893,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1997**: = "CDS/P/DM/simbad-biblio/pub-dates/1997"
 
-*Defined in [hips-service.ts:568](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L568)*
+*Defined in [hips-service.ts:568](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L568)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1997
 
@@ -1906,7 +1906,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1998**: = "CDS/P/DM/simbad-biblio/pub-dates/1998"
 
-*Defined in [hips-service.ts:575](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L575)*
+*Defined in [hips-service.ts:575](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L575)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1998
 
@@ -1919,7 +1919,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_1999**: = "CDS/P/DM/simbad-biblio/pub-dates/1999"
 
-*Defined in [hips-service.ts:582](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L582)*
+*Defined in [hips-service.ts:582](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L582)*
 
 CDS/P/DM/simbad-biblio/pub-dates/1999
 
@@ -1932,7 +1932,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2000**: = "CDS/P/DM/simbad-biblio/pub-dates/2000"
 
-*Defined in [hips-service.ts:589](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L589)*
+*Defined in [hips-service.ts:589](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L589)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2000
 
@@ -1945,7 +1945,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2001**: = "CDS/P/DM/simbad-biblio/pub-dates/2001"
 
-*Defined in [hips-service.ts:596](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L596)*
+*Defined in [hips-service.ts:596](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L596)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2001
 
@@ -1958,7 +1958,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2002**: = "CDS/P/DM/simbad-biblio/pub-dates/2002"
 
-*Defined in [hips-service.ts:603](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L603)*
+*Defined in [hips-service.ts:603](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L603)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2002
 
@@ -1971,7 +1971,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2003**: = "CDS/P/DM/simbad-biblio/pub-dates/2003"
 
-*Defined in [hips-service.ts:610](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L610)*
+*Defined in [hips-service.ts:610](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L610)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2003
 
@@ -1984,7 +1984,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2004**: = "CDS/P/DM/simbad-biblio/pub-dates/2004"
 
-*Defined in [hips-service.ts:617](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L617)*
+*Defined in [hips-service.ts:617](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L617)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2004
 
@@ -1997,7 +1997,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2005**: = "CDS/P/DM/simbad-biblio/pub-dates/2005"
 
-*Defined in [hips-service.ts:624](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L624)*
+*Defined in [hips-service.ts:624](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L624)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2005
 
@@ -2010,7 +2010,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2006**: = "CDS/P/DM/simbad-biblio/pub-dates/2006"
 
-*Defined in [hips-service.ts:631](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L631)*
+*Defined in [hips-service.ts:631](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L631)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2006
 
@@ -2023,7 +2023,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2007**: = "CDS/P/DM/simbad-biblio/pub-dates/2007"
 
-*Defined in [hips-service.ts:638](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L638)*
+*Defined in [hips-service.ts:638](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L638)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2007
 
@@ -2036,7 +2036,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2008**: = "CDS/P/DM/simbad-biblio/pub-dates/2008"
 
-*Defined in [hips-service.ts:645](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L645)*
+*Defined in [hips-service.ts:645](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L645)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2008
 
@@ -2049,7 +2049,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2009**: = "CDS/P/DM/simbad-biblio/pub-dates/2009"
 
-*Defined in [hips-service.ts:652](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L652)*
+*Defined in [hips-service.ts:652](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L652)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2009
 
@@ -2062,7 +2062,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2010**: = "CDS/P/DM/simbad-biblio/pub-dates/2010"
 
-*Defined in [hips-service.ts:659](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L659)*
+*Defined in [hips-service.ts:659](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L659)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2010
 
@@ -2075,7 +2075,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2011**: = "CDS/P/DM/simbad-biblio/pub-dates/2011"
 
-*Defined in [hips-service.ts:666](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L666)*
+*Defined in [hips-service.ts:666](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L666)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2011
 
@@ -2088,7 +2088,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2012**: = "CDS/P/DM/simbad-biblio/pub-dates/2012"
 
-*Defined in [hips-service.ts:673](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L673)*
+*Defined in [hips-service.ts:673](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L673)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2012
 
@@ -2101,7 +2101,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2013**: = "CDS/P/DM/simbad-biblio/pub-dates/2013"
 
-*Defined in [hips-service.ts:680](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L680)*
+*Defined in [hips-service.ts:680](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L680)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2013
 
@@ -2114,7 +2114,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2014**: = "CDS/P/DM/simbad-biblio/pub-dates/2014"
 
-*Defined in [hips-service.ts:687](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L687)*
+*Defined in [hips-service.ts:687](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L687)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2014
 
@@ -2127,7 +2127,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2015**: = "CDS/P/DM/simbad-biblio/pub-dates/2015"
 
-*Defined in [hips-service.ts:694](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L694)*
+*Defined in [hips-service.ts:694](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L694)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2015
 
@@ -2140,7 +2140,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2016**: = "CDS/P/DM/simbad-biblio/pub-dates/2016"
 
-*Defined in [hips-service.ts:701](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L701)*
+*Defined in [hips-service.ts:701](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L701)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2016
 
@@ -2153,7 +2153,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2017**: = "CDS/P/DM/simbad-biblio/pub-dates/2017"
 
-*Defined in [hips-service.ts:708](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L708)*
+*Defined in [hips-service.ts:708](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L708)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2017
 
@@ -2166,7 +2166,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2018**: = "CDS/P/DM/simbad-biblio/pub-dates/2018"
 
-*Defined in [hips-service.ts:715](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L715)*
+*Defined in [hips-service.ts:715](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L715)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2018
 
@@ -2179,7 +2179,7 @@ ___
 
 • **CDS_P_DM_simbad_biblio_pub_dates_2019**: = "CDS/P/DM/simbad-biblio/pub-dates/2019"
 
-*Defined in [hips-service.ts:722](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L722)*
+*Defined in [hips-service.ts:722](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L722)*
 
 CDS/P/DM/simbad-biblio/pub-dates/2019
 
@@ -2192,7 +2192,7 @@ ___
 
 • **CDS_P_DM_vizMine**: = "CDS/P/DM/vizMine"
 
-*Defined in [hips-service.ts:729](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L729)*
+*Defined in [hips-service.ts:729](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L729)*
 
 CDS/P/DM/vizMine
 
@@ -2205,7 +2205,7 @@ ___
 
 • **CDS_P_DSS2_NIR**: = "CDS/P/DSS2/NIR"
 
-*Defined in [hips-service.ts:736](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L736)*
+*Defined in [hips-service.ts:736](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L736)*
 
 CDS/P/DSS2/NIR
 
@@ -2218,7 +2218,7 @@ ___
 
 • **CDS_P_DSS2_blue**: = "CDS/P/DSS2/blue"
 
-*Defined in [hips-service.ts:744](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L744)*
+*Defined in [hips-service.ts:744](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L744)*
 
 CDS/P/DSS2/blue
 
@@ -2232,7 +2232,7 @@ ___
 
 • **CDS_P_DSS2_color**: = "CDS/P/DSS2/color"
 
-*Defined in [hips-service.ts:751](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L751)*
+*Defined in [hips-service.ts:751](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L751)*
 
 CDS/P/DSS2/color
 
@@ -2245,7 +2245,7 @@ ___
 
 • **CDS_P_DSS2_red**: = "CDS/P/DSS2/red"
 
-*Defined in [hips-service.ts:761](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L761)*
+*Defined in [hips-service.ts:761](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L761)*
 
 CDS/P/DSS2/red
 
@@ -2261,7 +2261,7 @@ ___
 
 • **CDS_P_Dione_Cassini_PIA12577**: = "CDS/P/Dione/Cassini-PIA12577"
 
-*Defined in [hips-service.ts:768](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L768)*
+*Defined in [hips-service.ts:768](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L768)*
 
 CDS/P/Dione/Cassini-PIA12577
 
@@ -2274,7 +2274,7 @@ ___
 
 • **CDS_P_EGRET_Dif_1000_2000**: = "CDS/P/EGRET/Dif/1000-2000"
 
-*Defined in [hips-service.ts:782](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L782)*
+*Defined in [hips-service.ts:782](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L782)*
 
 CDS/P/EGRET/Dif/1000-2000
 
@@ -2287,7 +2287,7 @@ ___
 
 • **CDS_P_EGRET_Dif_100_150**: = "CDS/P/EGRET/Dif/100-150"
 
-*Defined in [hips-service.ts:775](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L775)*
+*Defined in [hips-service.ts:775](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L775)*
 
 CDS/P/EGRET/Dif/100-150
 
@@ -2300,7 +2300,7 @@ ___
 
 • **CDS_P_EGRET_Dif_150_300**: = "CDS/P/EGRET/Dif/150-300"
 
-*Defined in [hips-service.ts:789](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L789)*
+*Defined in [hips-service.ts:789](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L789)*
 
 CDS/P/EGRET/Dif/150-300
 
@@ -2313,7 +2313,7 @@ ___
 
 • **CDS_P_EGRET_Dif_2000_4000**: = "CDS/P/EGRET/Dif/2000-4000"
 
-*Defined in [hips-service.ts:796](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L796)*
+*Defined in [hips-service.ts:796](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L796)*
 
 CDS/P/EGRET/Dif/2000-4000
 
@@ -2326,7 +2326,7 @@ ___
 
 • **CDS_P_EGRET_Dif_300_500**: = "CDS/P/EGRET/Dif/300-500"
 
-*Defined in [hips-service.ts:810](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L810)*
+*Defined in [hips-service.ts:810](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L810)*
 
 CDS/P/EGRET/Dif/300-500
 
@@ -2339,7 +2339,7 @@ ___
 
 • **CDS_P_EGRET_Dif_30_50**: = "CDS/P/EGRET/Dif/30-50"
 
-*Defined in [hips-service.ts:803](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L803)*
+*Defined in [hips-service.ts:803](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L803)*
 
 CDS/P/EGRET/Dif/30-50
 
@@ -2352,7 +2352,7 @@ ___
 
 • **CDS_P_EGRET_Dif_4000_10000**: = "CDS/P/EGRET/Dif/4000-10000"
 
-*Defined in [hips-service.ts:817](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L817)*
+*Defined in [hips-service.ts:817](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L817)*
 
 CDS/P/EGRET/Dif/4000-10000
 
@@ -2365,7 +2365,7 @@ ___
 
 • **CDS_P_EGRET_Dif_500_1000**: = "CDS/P/EGRET/Dif/500-1000"
 
-*Defined in [hips-service.ts:831](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L831)*
+*Defined in [hips-service.ts:831](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L831)*
 
 CDS/P/EGRET/Dif/500-1000
 
@@ -2378,7 +2378,7 @@ ___
 
 • **CDS_P_EGRET_Dif_50_70**: = "CDS/P/EGRET/Dif/50-70"
 
-*Defined in [hips-service.ts:824](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L824)*
+*Defined in [hips-service.ts:824](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L824)*
 
 CDS/P/EGRET/Dif/50-70
 
@@ -2391,7 +2391,7 @@ ___
 
 • **CDS_P_EGRET_Dif_70_100**: = "CDS/P/EGRET/Dif/70-100"
 
-*Defined in [hips-service.ts:838](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L838)*
+*Defined in [hips-service.ts:838](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L838)*
 
 CDS/P/EGRET/Dif/70-100
 
@@ -2404,7 +2404,7 @@ ___
 
 • **CDS_P_EGRET_inf100**: = "CDS/P/EGRET/inf100"
 
-*Defined in [hips-service.ts:845](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L845)*
+*Defined in [hips-service.ts:845](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L845)*
 
 CDS/P/EGRET/inf100
 
@@ -2417,7 +2417,7 @@ ___
 
 • **CDS_P_EGRET_sup100**: = "CDS/P/EGRET/sup100"
 
-*Defined in [hips-service.ts:852](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L852)*
+*Defined in [hips-service.ts:852](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L852)*
 
 CDS/P/EGRET/sup100
 
@@ -2430,7 +2430,7 @@ ___
 
 • **CDS_P_Earth_BlueMarble**: = "CDS/P/Earth/BlueMarble"
 
-*Defined in [hips-service.ts:859](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L859)*
+*Defined in [hips-service.ts:859](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L859)*
 
 CDS/P/Earth/BlueMarble
 
@@ -2443,7 +2443,7 @@ ___
 
 • **CDS_P_Enceladus_Cassini_110m**: = "CDS/P/Enceladus/Cassini-110m"
 
-*Defined in [hips-service.ts:866](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L866)*
+*Defined in [hips-service.ts:866](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L866)*
 
 CDS/P/Enceladus/Cassini-110m
 
@@ -2456,7 +2456,7 @@ ___
 
 • **CDS_P_Europa_Voyager_GalileoSSI_500m**: = "CDS/P/Europa/Voyager-GalileoSSI-500m"
 
-*Defined in [hips-service.ts:873](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L873)*
+*Defined in [hips-service.ts:873](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L873)*
 
 CDS/P/Europa/Voyager-GalileoSSI-500m
 
@@ -2469,7 +2469,7 @@ ___
 
 • **CDS_P_Fermi_3**: = "CDS/P/Fermi/3"
 
-*Defined in [hips-service.ts:880](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L880)*
+*Defined in [hips-service.ts:880](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L880)*
 
 CDS/P/Fermi/3
 
@@ -2482,7 +2482,7 @@ ___
 
 • **CDS_P_Fermi_4**: = "CDS/P/Fermi/4"
 
-*Defined in [hips-service.ts:887](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L887)*
+*Defined in [hips-service.ts:887](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L887)*
 
 CDS/P/Fermi/4
 
@@ -2495,7 +2495,7 @@ ___
 
 • **CDS_P_Fermi_5**: = "CDS/P/Fermi/5"
 
-*Defined in [hips-service.ts:894](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L894)*
+*Defined in [hips-service.ts:894](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L894)*
 
 CDS/P/Fermi/5
 
@@ -2508,7 +2508,7 @@ ___
 
 • **CDS_P_Fermi_color**: = "CDS/P/Fermi/color"
 
-*Defined in [hips-service.ts:901](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L901)*
+*Defined in [hips-service.ts:901](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L901)*
 
 CDS/P/Fermi/color
 
@@ -2521,7 +2521,7 @@ ___
 
 • **CDS_P_Finkbeiner**: = "CDS/P/Finkbeiner"
 
-*Defined in [hips-service.ts:908](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L908)*
+*Defined in [hips-service.ts:908](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L908)*
 
 CDS/P/Finkbeiner
 
@@ -2534,7 +2534,7 @@ ___
 
 • **CDS_P_GALEXGR6_AIS_FUV**: = "CDS/P/GALEXGR6/AIS/FUV"
 
-*Defined in [hips-service.ts:915](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L915)*
+*Defined in [hips-service.ts:915](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L915)*
 
 CDS/P/GALEXGR6/AIS/FUV
 
@@ -2547,7 +2547,7 @@ ___
 
 • **CDS_P_GALEXGR6_AIS_NUV**: = "CDS/P/GALEXGR6/AIS/NUV"
 
-*Defined in [hips-service.ts:922](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L922)*
+*Defined in [hips-service.ts:922](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L922)*
 
 CDS/P/GALEXGR6/AIS/NUV
 
@@ -2560,7 +2560,7 @@ ___
 
 • **CDS_P_GALEXGR6_AIS_color**: = "CDS/P/GALEXGR6/AIS/color"
 
-*Defined in [hips-service.ts:929](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L929)*
+*Defined in [hips-service.ts:929](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L929)*
 
 CDS/P/GALEXGR6/AIS/color
 
@@ -2573,7 +2573,7 @@ ___
 
 • **CDS_P_Ganymede_VoyagerGalileo_SSI_1km**: = "CDS/P/Ganymede/VoyagerGalileo-SSI-1km"
 
-*Defined in [hips-service.ts:936](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L936)*
+*Defined in [hips-service.ts:936](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L936)*
 
 CDS/P/Ganymede/VoyagerGalileo-SSI-1km
 
@@ -2586,7 +2586,7 @@ ___
 
 • **CDS_P_HGPS_Flux**: = "CDS/P/HGPS/Flux"
 
-*Defined in [hips-service.ts:943](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L943)*
+*Defined in [hips-service.ts:943](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L943)*
 
 CDS/P/HGPS/Flux
 
@@ -2599,7 +2599,7 @@ ___
 
 • **CDS_P_HGPS_Significance**: = "CDS/P/HGPS/Significance"
 
-*Defined in [hips-service.ts:950](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L950)*
+*Defined in [hips-service.ts:950](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L950)*
 
 CDS/P/HGPS/Significance
 
@@ -2612,7 +2612,7 @@ ___
 
 • **CDS_P_HI**: = "CDS/P/HI"
 
-*Defined in [hips-service.ts:957](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L957)*
+*Defined in [hips-service.ts:957](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L957)*
 
 CDS/P/HI
 
@@ -2625,7 +2625,7 @@ ___
 
 • **CDS_P_HI4PI_NHI**: = "CDS/P/HI4PI/NHI"
 
-*Defined in [hips-service.ts:964](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L964)*
+*Defined in [hips-service.ts:964](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L964)*
 
 CDS/P/HI4PI/NHI
 
@@ -2638,7 +2638,7 @@ ___
 
 • **CDS_P_HLA_B**: = "CDS/P/HLA/B"
 
-*Defined in [hips-service.ts:971](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L971)*
+*Defined in [hips-service.ts:971](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L971)*
 
 CDS/P/HLA/B
 
@@ -2651,7 +2651,7 @@ ___
 
 • **CDS_P_HLA_CO**: = "CDS/P/HLA/CO"
 
-*Defined in [hips-service.ts:978](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L978)*
+*Defined in [hips-service.ts:978](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L978)*
 
 CDS/P/HLA/CO
 
@@ -2664,7 +2664,7 @@ ___
 
 • **CDS_P_HLA_H**: = "CDS/P/HLA/H"
 
-*Defined in [hips-service.ts:985](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L985)*
+*Defined in [hips-service.ts:985](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L985)*
 
 CDS/P/HLA/H
 
@@ -2677,7 +2677,7 @@ ___
 
 • **CDS_P_HLA_H2O**: = "CDS/P/HLA/H2O"
 
-*Defined in [hips-service.ts:992](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L992)*
+*Defined in [hips-service.ts:992](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L992)*
 
 CDS/P/HLA/H2O
 
@@ -2690,7 +2690,7 @@ ___
 
 • **CDS_P_HLA_Halpha**: = "CDS/P/HLA/Halpha"
 
-*Defined in [hips-service.ts:999](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L999)*
+*Defined in [hips-service.ts:999](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L999)*
 
 CDS/P/HLA/Halpha
 
@@ -2703,7 +2703,7 @@ ___
 
 • **CDS_P_HLA_Hbeta**: = "CDS/P/HLA/Hbeta"
 
-*Defined in [hips-service.ts:1006](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1006)*
+*Defined in [hips-service.ts:1006](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1006)*
 
 CDS/P/HLA/Hbeta
 
@@ -2716,7 +2716,7 @@ ___
 
 • **CDS_P_HLA_I**: = "CDS/P/HLA/I"
 
-*Defined in [hips-service.ts:1013](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1013)*
+*Defined in [hips-service.ts:1013](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1013)*
 
 CDS/P/HLA/I
 
@@ -2729,7 +2729,7 @@ ___
 
 • **CDS_P_HLA_J**: = "CDS/P/HLA/J"
 
-*Defined in [hips-service.ts:1020](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1020)*
+*Defined in [hips-service.ts:1020](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1020)*
 
 CDS/P/HLA/J
 
@@ -2742,7 +2742,7 @@ ___
 
 • **CDS_P_HLA_NII**: = "CDS/P/HLA/NII"
 
-*Defined in [hips-service.ts:1027](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1027)*
+*Defined in [hips-service.ts:1027](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1027)*
 
 CDS/P/HLA/NII
 
@@ -2755,7 +2755,7 @@ ___
 
 • **CDS_P_HLA_OII**: = "CDS/P/HLA/OII"
 
-*Defined in [hips-service.ts:1034](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1034)*
+*Defined in [hips-service.ts:1034](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1034)*
 
 CDS/P/HLA/OII
 
@@ -2768,7 +2768,7 @@ ___
 
 • **CDS_P_HLA_OIII**: = "CDS/P/HLA/OIII"
 
-*Defined in [hips-service.ts:1041](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1041)*
+*Defined in [hips-service.ts:1041](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1041)*
 
 CDS/P/HLA/OIII
 
@@ -2781,7 +2781,7 @@ ___
 
 • **CDS_P_HLA_Palpha**: = "CDS/P/HLA/Palpha"
 
-*Defined in [hips-service.ts:1048](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1048)*
+*Defined in [hips-service.ts:1048](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1048)*
 
 CDS/P/HLA/Palpha
 
@@ -2794,7 +2794,7 @@ ___
 
 • **CDS_P_HLA_Palpha_c**: = "CDS/P/HLA/Palpha_c"
 
-*Defined in [hips-service.ts:1055](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1055)*
+*Defined in [hips-service.ts:1055](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1055)*
 
 CDS/P/HLA/Palpha_c
 
@@ -2807,7 +2807,7 @@ ___
 
 • **CDS_P_HLA_R**: = "CDS/P/HLA/R"
 
-*Defined in [hips-service.ts:1062](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1062)*
+*Defined in [hips-service.ts:1062](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1062)*
 
 CDS/P/HLA/R
 
@@ -2820,7 +2820,7 @@ ___
 
 • **CDS_P_HLA_SDSSg**: = "CDS/P/HLA/SDSSg"
 
-*Defined in [hips-service.ts:1069](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1069)*
+*Defined in [hips-service.ts:1069](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1069)*
 
 CDS/P/HLA/SDSSg
 
@@ -2833,7 +2833,7 @@ ___
 
 • **CDS_P_HLA_SDSSr**: = "CDS/P/HLA/SDSSr"
 
-*Defined in [hips-service.ts:1076](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1076)*
+*Defined in [hips-service.ts:1076](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1076)*
 
 CDS/P/HLA/SDSSr
 
@@ -2846,7 +2846,7 @@ ___
 
 • **CDS_P_HLA_SDSSz**: = "CDS/P/HLA/SDSSz"
 
-*Defined in [hips-service.ts:1083](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1083)*
+*Defined in [hips-service.ts:1083](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1083)*
 
 CDS/P/HLA/SDSSz
 
@@ -2859,7 +2859,7 @@ ___
 
 • **CDS_P_HLA_SIII**: = "CDS/P/HLA/SIII"
 
-*Defined in [hips-service.ts:1090](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1090)*
+*Defined in [hips-service.ts:1090](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1090)*
 
 CDS/P/HLA/SIII
 
@@ -2872,7 +2872,7 @@ ___
 
 • **CDS_P_HLA_U**: = "CDS/P/HLA/U"
 
-*Defined in [hips-service.ts:1097](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1097)*
+*Defined in [hips-service.ts:1097](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1097)*
 
 CDS/P/HLA/U
 
@@ -2885,7 +2885,7 @@ ___
 
 • **CDS_P_HLA_UV**: = "CDS/P/HLA/UV"
 
-*Defined in [hips-service.ts:1104](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1104)*
+*Defined in [hips-service.ts:1104](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1104)*
 
 CDS/P/HLA/UV
 
@@ -2898,7 +2898,7 @@ ___
 
 • **CDS_P_HLA_V**: = "CDS/P/HLA/V"
 
-*Defined in [hips-service.ts:1111](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1111)*
+*Defined in [hips-service.ts:1111](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1111)*
 
 CDS/P/HLA/V
 
@@ -2911,7 +2911,7 @@ ___
 
 • **CDS_P_HLA_Y**: = "CDS/P/HLA/Y"
 
-*Defined in [hips-service.ts:1118](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1118)*
+*Defined in [hips-service.ts:1118](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1118)*
 
 CDS/P/HLA/Y
 
@@ -2924,7 +2924,7 @@ ___
 
 • **CDS_P_HLA_wideUV**: = "CDS/P/HLA/wideUV"
 
-*Defined in [hips-service.ts:1125](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1125)*
+*Defined in [hips-service.ts:1125](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1125)*
 
 CDS/P/HLA/wideUV
 
@@ -2937,7 +2937,7 @@ ___
 
 • **CDS_P_HLA_wideV**: = "CDS/P/HLA/wideV"
 
-*Defined in [hips-service.ts:1132](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1132)*
+*Defined in [hips-service.ts:1132](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1132)*
 
 CDS/P/HLA/wideV
 
@@ -2950,7 +2950,7 @@ ___
 
 • **CDS_P_HSC_DR2_wide_color_i_r_g**: = "CDS/P/HSC/DR2/wide/color-i-r-g"
 
-*Defined in [hips-service.ts:1139](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1139)*
+*Defined in [hips-service.ts:1139](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1139)*
 
 CDS/P/HSC/DR2/wide/color-i-r-g
 
@@ -2963,7 +2963,7 @@ ___
 
 • **CDS_P_HSC_DR2_wide_g**: = "CDS/P/HSC/DR2/wide/g"
 
-*Defined in [hips-service.ts:1146](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1146)*
+*Defined in [hips-service.ts:1146](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1146)*
 
 CDS/P/HSC/DR2/wide/g
 
@@ -2976,7 +2976,7 @@ ___
 
 • **CDS_P_HSC_DR2_wide_i**: = "CDS/P/HSC/DR2/wide/i"
 
-*Defined in [hips-service.ts:1153](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1153)*
+*Defined in [hips-service.ts:1153](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1153)*
 
 CDS/P/HSC/DR2/wide/i
 
@@ -2989,7 +2989,7 @@ ___
 
 • **CDS_P_HSC_DR2_wide_r**: = "CDS/P/HSC/DR2/wide/r"
 
-*Defined in [hips-service.ts:1160](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1160)*
+*Defined in [hips-service.ts:1160](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1160)*
 
 CDS/P/HSC/DR2/wide/r
 
@@ -3002,7 +3002,7 @@ ___
 
 • **CDS_P_HSC_DR2_wide_y**: = "CDS/P/HSC/DR2/wide/y"
 
-*Defined in [hips-service.ts:1167](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1167)*
+*Defined in [hips-service.ts:1167](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1167)*
 
 CDS/P/HSC/DR2/wide/y
 
@@ -3015,7 +3015,7 @@ ___
 
 • **CDS_P_HST_B**: = "CDS/P/HST/B"
 
-*Defined in [hips-service.ts:1175](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1175)*
+*Defined in [hips-service.ts:1175](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1175)*
 
 CDS/P/HST/B
 
@@ -3029,7 +3029,7 @@ ___
 
 • **CDS_P_HST_CO**: = "CDS/P/HST/CO"
 
-*Defined in [hips-service.ts:1183](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1183)*
+*Defined in [hips-service.ts:1183](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1183)*
 
 CDS/P/HST/CO
 
@@ -3043,7 +3043,7 @@ ___
 
 • **CDS_P_HST_GOODS_b**: = "CDS/P/HST/GOODS/b"
 
-*Defined in [hips-service.ts:1190](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1190)*
+*Defined in [hips-service.ts:1190](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1190)*
 
 CDS/P/HST/GOODS/b
 
@@ -3056,7 +3056,7 @@ ___
 
 • **CDS_P_HST_GOODS_color**: = "CDS/P/HST/GOODS/color"
 
-*Defined in [hips-service.ts:1198](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1198)*
+*Defined in [hips-service.ts:1198](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1198)*
 
 CDS/P/HST/GOODS/color
 
@@ -3070,7 +3070,7 @@ ___
 
 • **CDS_P_HST_GOODS_i**: = "CDS/P/HST/GOODS/i"
 
-*Defined in [hips-service.ts:1206](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1206)*
+*Defined in [hips-service.ts:1206](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1206)*
 
 CDS/P/HST/GOODS/i
 
@@ -3084,7 +3084,7 @@ ___
 
 • **CDS_P_HST_GOODS_v**: = "CDS/P/HST/GOODS/v"
 
-*Defined in [hips-service.ts:1213](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1213)*
+*Defined in [hips-service.ts:1213](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1213)*
 
 CDS/P/HST/GOODS/v
 
@@ -3097,7 +3097,7 @@ ___
 
 • **CDS_P_HST_GOODS_z**: = "CDS/P/HST/GOODS/z"
 
-*Defined in [hips-service.ts:1220](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1220)*
+*Defined in [hips-service.ts:1220](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1220)*
 
 CDS/P/HST/GOODS/z
 
@@ -3110,7 +3110,7 @@ ___
 
 • **CDS_P_HST_H**: = "CDS/P/HST/H"
 
-*Defined in [hips-service.ts:1228](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1228)*
+*Defined in [hips-service.ts:1228](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1228)*
 
 CDS/P/HST/H
 
@@ -3124,7 +3124,7 @@ ___
 
 • **CDS_P_HST_H2O**: = "CDS/P/HST/H2O"
 
-*Defined in [hips-service.ts:1236](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1236)*
+*Defined in [hips-service.ts:1236](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1236)*
 
 CDS/P/HST/H2O
 
@@ -3138,7 +3138,7 @@ ___
 
 • **CDS_P_HST_Halpha**: = "CDS/P/HST/Halpha"
 
-*Defined in [hips-service.ts:1244](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1244)*
+*Defined in [hips-service.ts:1244](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1244)*
 
 CDS/P/HST/Halpha
 
@@ -3152,7 +3152,7 @@ ___
 
 • **CDS_P_HST_Hbeta**: = "CDS/P/HST/Hbeta"
 
-*Defined in [hips-service.ts:1252](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1252)*
+*Defined in [hips-service.ts:1252](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1252)*
 
 CDS/P/HST/Hbeta
 
@@ -3166,7 +3166,7 @@ ___
 
 • **CDS_P_HST_I**: = "CDS/P/HST/I"
 
-*Defined in [hips-service.ts:1260](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1260)*
+*Defined in [hips-service.ts:1260](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1260)*
 
 CDS/P/HST/I
 
@@ -3180,7 +3180,7 @@ ___
 
 • **CDS_P_HST_J**: = "CDS/P/HST/J"
 
-*Defined in [hips-service.ts:1268](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1268)*
+*Defined in [hips-service.ts:1268](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1268)*
 
 CDS/P/HST/J
 
@@ -3194,7 +3194,7 @@ ___
 
 • **CDS_P_HST_NII**: = "CDS/P/HST/NII"
 
-*Defined in [hips-service.ts:1276](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1276)*
+*Defined in [hips-service.ts:1276](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1276)*
 
 CDS/P/HST/NII
 
@@ -3208,7 +3208,7 @@ ___
 
 • **CDS_P_HST_OII**: = "CDS/P/HST/OII"
 
-*Defined in [hips-service.ts:1284](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1284)*
+*Defined in [hips-service.ts:1284](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1284)*
 
 CDS/P/HST/OII
 
@@ -3222,7 +3222,7 @@ ___
 
 • **CDS_P_HST_OIII**: = "CDS/P/HST/OIII"
 
-*Defined in [hips-service.ts:1292](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1292)*
+*Defined in [hips-service.ts:1292](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1292)*
 
 CDS/P/HST/OIII
 
@@ -3236,7 +3236,7 @@ ___
 
 • **CDS_P_HST_PHAT_F110W**: = "CDS/P/HST/PHAT/F110W"
 
-*Defined in [hips-service.ts:1299](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1299)*
+*Defined in [hips-service.ts:1299](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1299)*
 
 CDS/P/HST/PHAT/F110W
 
@@ -3249,7 +3249,7 @@ ___
 
 • **CDS_P_HST_PHAT_F160W**: = "CDS/P/HST/PHAT/F160W"
 
-*Defined in [hips-service.ts:1306](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1306)*
+*Defined in [hips-service.ts:1306](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1306)*
 
 CDS/P/HST/PHAT/F160W
 
@@ -3262,7 +3262,7 @@ ___
 
 • **CDS_P_HST_PHAT_F275W**: = "CDS/P/HST/PHAT/F275W"
 
-*Defined in [hips-service.ts:1313](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1313)*
+*Defined in [hips-service.ts:1313](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1313)*
 
 CDS/P/HST/PHAT/F275W
 
@@ -3275,7 +3275,7 @@ ___
 
 • **CDS_P_HST_PHAT_F336W**: = "CDS/P/HST/PHAT/F336W"
 
-*Defined in [hips-service.ts:1320](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1320)*
+*Defined in [hips-service.ts:1320](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1320)*
 
 CDS/P/HST/PHAT/F336W
 
@@ -3288,7 +3288,7 @@ ___
 
 • **CDS_P_HST_PHAT_F475W**: = "CDS/P/HST/PHAT/F475W"
 
-*Defined in [hips-service.ts:1327](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1327)*
+*Defined in [hips-service.ts:1327](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1327)*
 
 CDS/P/HST/PHAT/F475W
 
@@ -3301,7 +3301,7 @@ ___
 
 • **CDS_P_HST_PHAT_F814W**: = "CDS/P/HST/PHAT/F814W"
 
-*Defined in [hips-service.ts:1334](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1334)*
+*Defined in [hips-service.ts:1334](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1334)*
 
 CDS/P/HST/PHAT/F814W
 
@@ -3314,7 +3314,7 @@ ___
 
 • **CDS_P_HST_Palpha**: = "CDS/P/HST/Palpha"
 
-*Defined in [hips-service.ts:1342](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1342)*
+*Defined in [hips-service.ts:1342](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1342)*
 
 CDS/P/HST/Palpha
 
@@ -3328,7 +3328,7 @@ ___
 
 • **CDS_P_HST_Palpha_c**: = "CDS/P/HST/Palpha_c"
 
-*Defined in [hips-service.ts:1350](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1350)*
+*Defined in [hips-service.ts:1350](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1350)*
 
 CDS/P/HST/Palpha_c
 
@@ -3342,7 +3342,7 @@ ___
 
 • **CDS_P_HST_R**: = "CDS/P/HST/R"
 
-*Defined in [hips-service.ts:1358](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1358)*
+*Defined in [hips-service.ts:1358](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1358)*
 
 CDS/P/HST/R
 
@@ -3356,7 +3356,7 @@ ___
 
 • **CDS_P_HST_SDSSg**: = "CDS/P/HST/SDSSg"
 
-*Defined in [hips-service.ts:1366](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1366)*
+*Defined in [hips-service.ts:1366](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1366)*
 
 CDS/P/HST/SDSSg
 
@@ -3370,7 +3370,7 @@ ___
 
 • **CDS_P_HST_SDSSr**: = "CDS/P/HST/SDSSr"
 
-*Defined in [hips-service.ts:1374](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1374)*
+*Defined in [hips-service.ts:1374](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1374)*
 
 CDS/P/HST/SDSSr
 
@@ -3384,7 +3384,7 @@ ___
 
 • **CDS_P_HST_SDSSz**: = "CDS/P/HST/SDSSz"
 
-*Defined in [hips-service.ts:1382](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1382)*
+*Defined in [hips-service.ts:1382](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1382)*
 
 CDS/P/HST/SDSSz
 
@@ -3398,7 +3398,7 @@ ___
 
 • **CDS_P_HST_SIII**: = "CDS/P/HST/SIII"
 
-*Defined in [hips-service.ts:1390](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1390)*
+*Defined in [hips-service.ts:1390](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1390)*
 
 CDS/P/HST/SIII
 
@@ -3412,7 +3412,7 @@ ___
 
 • **CDS_P_HST_U**: = "CDS/P/HST/U"
 
-*Defined in [hips-service.ts:1398](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1398)*
+*Defined in [hips-service.ts:1398](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1398)*
 
 CDS/P/HST/U
 
@@ -3426,7 +3426,7 @@ ___
 
 • **CDS_P_HST_UV**: = "CDS/P/HST/UV"
 
-*Defined in [hips-service.ts:1406](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1406)*
+*Defined in [hips-service.ts:1406](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1406)*
 
 CDS/P/HST/UV
 
@@ -3440,7 +3440,7 @@ ___
 
 • **CDS_P_HST_V**: = "CDS/P/HST/V"
 
-*Defined in [hips-service.ts:1414](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1414)*
+*Defined in [hips-service.ts:1414](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1414)*
 
 CDS/P/HST/V
 
@@ -3454,7 +3454,7 @@ ___
 
 • **CDS_P_HST_Y**: = "CDS/P/HST/Y"
 
-*Defined in [hips-service.ts:1422](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1422)*
+*Defined in [hips-service.ts:1422](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1422)*
 
 CDS/P/HST/Y
 
@@ -3468,7 +3468,7 @@ ___
 
 • **CDS_P_HST_other**: = "CDS/P/HST/other"
 
-*Defined in [hips-service.ts:1430](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1430)*
+*Defined in [hips-service.ts:1430](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1430)*
 
 CDS/P/HST/other
 
@@ -3482,7 +3482,7 @@ ___
 
 • **CDS_P_HST_wideUV**: = "CDS/P/HST/wideUV"
 
-*Defined in [hips-service.ts:1438](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1438)*
+*Defined in [hips-service.ts:1438](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1438)*
 
 CDS/P/HST/wideUV
 
@@ -3496,7 +3496,7 @@ ___
 
 • **CDS_P_HST_wideV**: = "CDS/P/HST/wideV"
 
-*Defined in [hips-service.ts:1446](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1446)*
+*Defined in [hips-service.ts:1446](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1446)*
 
 CDS/P/HST/wideV
 
@@ -3510,7 +3510,7 @@ ___
 
 • **CDS_P_Haslam408**: = "CDS/P/Haslam408"
 
-*Defined in [hips-service.ts:1453](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1453)*
+*Defined in [hips-service.ts:1453](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1453)*
 
 CDS/P/Haslam408
 
@@ -3523,7 +3523,7 @@ ___
 
 • **CDS_P_Haslam408_v2**: = "CDS/P/Haslam408/v2"
 
-*Defined in [hips-service.ts:1460](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1460)*
+*Defined in [hips-service.ts:1460](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1460)*
 
 CDS/P/Haslam408/v2
 
@@ -3536,7 +3536,7 @@ ___
 
 • **CDS_P_INTGAL_35**: = "CDS/P/INTGAL/35"
 
-*Defined in [hips-service.ts:1467](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1467)*
+*Defined in [hips-service.ts:1467](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1467)*
 
 CDS/P/INTGAL/35
 
@@ -3549,7 +3549,7 @@ ___
 
 • **CDS_P_INTGAL_60**: = "CDS/P/INTGAL/60"
 
-*Defined in [hips-service.ts:1474](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1474)*
+*Defined in [hips-service.ts:1474](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1474)*
 
 CDS/P/INTGAL/60
 
@@ -3562,7 +3562,7 @@ ___
 
 • **CDS_P_INTGAL_80**: = "CDS/P/INTGAL/80"
 
-*Defined in [hips-service.ts:1481](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1481)*
+*Defined in [hips-service.ts:1481](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1481)*
 
 CDS/P/INTGAL/80
 
@@ -3575,7 +3575,7 @@ ___
 
 • **CDS_P_INTGAL_Color**: = "CDS/P/INTGAL/Color"
 
-*Defined in [hips-service.ts:1488](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1488)*
+*Defined in [hips-service.ts:1488](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1488)*
 
 CDS/P/INTGAL/Color
 
@@ -3588,7 +3588,7 @@ ___
 
 • **CDS_P_IPHAS_DR2_halpha**: = "CDS/P/IPHAS/DR2/halpha"
 
-*Defined in [hips-service.ts:1495](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1495)*
+*Defined in [hips-service.ts:1495](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1495)*
 
 CDS/P/IPHAS/DR2/halpha
 
@@ -3601,7 +3601,7 @@ ___
 
 • **CDS_P_IPHAS_DR2_i**: = "CDS/P/IPHAS/DR2/i"
 
-*Defined in [hips-service.ts:1502](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1502)*
+*Defined in [hips-service.ts:1502](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1502)*
 
 CDS/P/IPHAS/DR2/i
 
@@ -3614,7 +3614,7 @@ ___
 
 • **CDS_P_IPHAS_DR2_r**: = "CDS/P/IPHAS/DR2/r"
 
-*Defined in [hips-service.ts:1509](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1509)*
+*Defined in [hips-service.ts:1509](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1509)*
 
 CDS/P/IPHAS/DR2/r
 
@@ -3627,7 +3627,7 @@ ___
 
 • **CDS_P_IRIS_color**: = "CDS/P/IRIS/color"
 
-*Defined in [hips-service.ts:1516](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1516)*
+*Defined in [hips-service.ts:1516](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1516)*
 
 CDS/P/IRIS/color
 
@@ -3640,7 +3640,7 @@ ___
 
 • **CDS_P_ISOPHOT_170**: = "CDS/P/ISOPHOT/170"
 
-*Defined in [hips-service.ts:1523](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1523)*
+*Defined in [hips-service.ts:1523](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1523)*
 
 CDS/P/ISOPHOT/170
 
@@ -3653,7 +3653,7 @@ ___
 
 • **CDS_P_Iapetus_Cassini_PIA18436**: = "CDS/P/Iapetus/Cassini-PIA18436"
 
-*Defined in [hips-service.ts:1530](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1530)*
+*Defined in [hips-service.ts:1530](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1530)*
 
 CDS/P/Iapetus/Cassini-PIA18436
 
@@ -3666,7 +3666,7 @@ ___
 
 • **CDS_P_Io_Galileo_SSI_1km**: = "CDS/P/Io/Galileo-SSI-1km"
 
-*Defined in [hips-service.ts:1537](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1537)*
+*Defined in [hips-service.ts:1537](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1537)*
 
 CDS/P/Io/Galileo-SSI-1km
 
@@ -3679,7 +3679,7 @@ ___
 
 • **CDS_P_JPSPR1**: = "CDS/P/JPSPR1"
 
-*Defined in [hips-service.ts:1544](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1544)*
+*Defined in [hips-service.ts:1544](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1544)*
 
 CDS/P/JPSPR1
 
@@ -3692,7 +3692,7 @@ ___
 
 • **CDS_P_Jupiter_PIA07782**: = "CDS/P/Jupiter/PIA07782"
 
-*Defined in [hips-service.ts:1551](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1551)*
+*Defined in [hips-service.ts:1551](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1551)*
 
 CDS/P/Jupiter/PIA07782
 
@@ -3705,7 +3705,7 @@ ___
 
 • **CDS_P_LIGO_0001**: = "CDS/P/LIGO/0001"
 
-*Defined in [hips-service.ts:1558](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1558)*
+*Defined in [hips-service.ts:1558](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1558)*
 
 CDS/P/LIGO/0001
 
@@ -3718,7 +3718,7 @@ ___
 
 • **CDS_P_LIGO_001**: = "CDS/P/LIGO/001"
 
-*Defined in [hips-service.ts:1565](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1565)*
+*Defined in [hips-service.ts:1565](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1565)*
 
 CDS/P/LIGO/001
 
@@ -3731,7 +3731,7 @@ ___
 
 • **CDS_P_LIGO_002**: = "CDS/P/LIGO/002"
 
-*Defined in [hips-service.ts:1572](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1572)*
+*Defined in [hips-service.ts:1572](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1572)*
 
 CDS/P/LIGO/002
 
@@ -3744,7 +3744,7 @@ ___
 
 • **CDS_P_LIGO_003**: = "CDS/P/LIGO/003"
 
-*Defined in [hips-service.ts:1579](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1579)*
+*Defined in [hips-service.ts:1579](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1579)*
 
 CDS/P/LIGO/003
 
@@ -3757,7 +3757,7 @@ ___
 
 • **CDS_P_LIGO_004**: = "CDS/P/LIGO/004"
 
-*Defined in [hips-service.ts:1586](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1586)*
+*Defined in [hips-service.ts:1586](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1586)*
 
 CDS/P/LIGO/004
 
@@ -3770,7 +3770,7 @@ ___
 
 • **CDS_P_LIGO_005**: = "CDS/P/LIGO/005"
 
-*Defined in [hips-service.ts:1593](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1593)*
+*Defined in [hips-service.ts:1593](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1593)*
 
 CDS/P/LIGO/005
 
@@ -3783,7 +3783,7 @@ ___
 
 • **CDS_P_LIGO_007**: = "CDS/P/LIGO/007"
 
-*Defined in [hips-service.ts:1600](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1600)*
+*Defined in [hips-service.ts:1600](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1600)*
 
 CDS/P/LIGO/007
 
@@ -3796,7 +3796,7 @@ ___
 
 • **CDS_P_MAMA_ColorEJ**: = "CDS/P/MAMA/ColorEJ"
 
-*Defined in [hips-service.ts:1607](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1607)*
+*Defined in [hips-service.ts:1607](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1607)*
 
 CDS/P/MAMA/ColorEJ
 
@@ -3809,7 +3809,7 @@ ___
 
 • **CDS_P_MAMA_posse**: = "CDS/P/MAMA/posse"
 
-*Defined in [hips-service.ts:1614](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1614)*
+*Defined in [hips-service.ts:1614](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1614)*
 
 CDS/P/MAMA/posse
 
@@ -3822,7 +3822,7 @@ ___
 
 • **CDS_P_MAMA_srcj**: = "CDS/P/MAMA/srcj"
 
-*Defined in [hips-service.ts:1621](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1621)*
+*Defined in [hips-service.ts:1621](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1621)*
 
 CDS/P/MAMA/srcj
 
@@ -3835,7 +3835,7 @@ ___
 
 • **CDS_P_Mars_Express286545**: = "CDS/P/Mars/Express286545"
 
-*Defined in [hips-service.ts:1628](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1628)*
+*Defined in [hips-service.ts:1628](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1628)*
 
 CDS/P/Mars/Express286545
 
@@ -3848,7 +3848,7 @@ ___
 
 • **CDS_P_Mars_MGS_MOLA_DEM**: = "CDS/P/Mars/MGS-MOLA-DEM"
 
-*Defined in [hips-service.ts:1635](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1635)*
+*Defined in [hips-service.ts:1635](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1635)*
 
 CDS/P/Mars/MGS-MOLA-DEM
 
@@ -3861,7 +3861,7 @@ ___
 
 • **CDS_P_Mars_MGS_TES_Dust**: = "CDS/P/Mars/MGS-TES-Dust"
 
-*Defined in [hips-service.ts:1642](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1642)*
+*Defined in [hips-service.ts:1642](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1642)*
 
 CDS/P/Mars/MGS-TES-Dust
 
@@ -3874,7 +3874,7 @@ ___
 
 • **CDS_P_Mars_MOLA_color**: = "CDS/P/Mars/MOLA-color"
 
-*Defined in [hips-service.ts:1649](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1649)*
+*Defined in [hips-service.ts:1649](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1649)*
 
 CDS/P/Mars/MOLA-color
 
@@ -3887,7 +3887,7 @@ ___
 
 • **CDS_P_Mars_Pan_PIA20284**: = "CDS/P/Mars/Pan-PIA20284"
 
-*Defined in [hips-service.ts:1656](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1656)*
+*Defined in [hips-service.ts:1656](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1656)*
 
 CDS/P/Mars/Pan-PIA20284
 
@@ -3900,7 +3900,7 @@ ___
 
 • **CDS_P_Mars_Pan_Stimson**: = "CDS/P/Mars/Pan-Stimson"
 
-*Defined in [hips-service.ts:1663](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1663)*
+*Defined in [hips-service.ts:1663](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1663)*
 
 CDS/P/Mars/Pan-Stimson
 
@@ -3913,7 +3913,7 @@ ___
 
 • **CDS_P_Mars_TES_Albedo**: = "CDS/P/Mars/TES-Albedo"
 
-*Defined in [hips-service.ts:1670](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1670)*
+*Defined in [hips-service.ts:1670](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1670)*
 
 CDS/P/Mars/TES-Albedo
 
@@ -3926,7 +3926,7 @@ ___
 
 • **CDS_P_Mars_TES_Thermal_Inertia**: = "CDS/P/Mars/TES-Thermal-Inertia"
 
-*Defined in [hips-service.ts:1677](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1677)*
+*Defined in [hips-service.ts:1677](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1677)*
 
 CDS/P/Mars/TES-Thermal-Inertia
 
@@ -3939,7 +3939,7 @@ ___
 
 • **CDS_P_Mars_THEMIS_Day_100m_v12**: = "CDS/P/Mars/THEMIS-Day-100m-v12"
 
-*Defined in [hips-service.ts:1684](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1684)*
+*Defined in [hips-service.ts:1684](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1684)*
 
 CDS/P/Mars/THEMIS-Day-100m-v12
 
@@ -3952,7 +3952,7 @@ ___
 
 • **CDS_P_Mars_THEMIS_IR_Night_100m_v14**: = "CDS/P/Mars/THEMIS-IR-Night-100m-v14"
 
-*Defined in [hips-service.ts:1691](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1691)*
+*Defined in [hips-service.ts:1691](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1691)*
 
 CDS/P/Mars/THEMIS-IR-Night-100m-v14
 
@@ -3965,7 +3965,7 @@ ___
 
 • **CDS_P_Mars_THEMIS_color**: = "CDS/P/Mars/THEMIS-color"
 
-*Defined in [hips-service.ts:1698](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1698)*
+*Defined in [hips-service.ts:1698](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1698)*
 
 CDS/P/Mars/THEMIS-color
 
@@ -3978,7 +3978,7 @@ ___
 
 • **CDS_P_Mars_Viking_MDIM21_color**: = "CDS/P/Mars/Viking-MDIM21-color"
 
-*Defined in [hips-service.ts:1705](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1705)*
+*Defined in [hips-service.ts:1705](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1705)*
 
 CDS/P/Mars/Viking-MDIM21-color
 
@@ -3991,7 +3991,7 @@ ___
 
 • **CDS_P_Mars_mola_roughness**: = "CDS/P/Mars/mola-roughness"
 
-*Defined in [hips-service.ts:1712](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1712)*
+*Defined in [hips-service.ts:1712](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1712)*
 
 CDS/P/Mars/mola-roughness
 
@@ -4004,7 +4004,7 @@ ___
 
 • **CDS_P_Mellinger_color**: = "CDS/P/Mellinger/color"
 
-*Defined in [hips-service.ts:1719](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1719)*
+*Defined in [hips-service.ts:1719](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1719)*
 
 CDS/P/Mellinger/color
 
@@ -4017,7 +4017,7 @@ ___
 
 • **CDS_P_Mercury_MESSENGER_MDIS_LOI_166m**: = "CDS/P/Mercury/MESSENGER-MDIS-LOI-166m"
 
-*Defined in [hips-service.ts:1726](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1726)*
+*Defined in [hips-service.ts:1726](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1726)*
 
 CDS/P/Mercury/MESSENGER-MDIS-LOI-166m
 
@@ -4030,7 +4030,7 @@ ___
 
 • **CDS_P_Mimas_Cassini_PIA17214**: = "CDS/P/Mimas/Cassini-PIA17214"
 
-*Defined in [hips-service.ts:1733](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1733)*
+*Defined in [hips-service.ts:1733](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1733)*
 
 CDS/P/Mimas/Cassini-PIA17214
 
@@ -4043,7 +4043,7 @@ ___
 
 • **CDS_P_Miranda_Voyager**: = "CDS/P/Miranda/Voyager"
 
-*Defined in [hips-service.ts:1740](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1740)*
+*Defined in [hips-service.ts:1740](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1740)*
 
 CDS/P/Miranda/Voyager
 
@@ -4056,7 +4056,7 @@ ___
 
 • **CDS_P_Moon_Clementine_750nm_118m**: = "CDS/P/Moon/Clementine-750nm-118m"
 
-*Defined in [hips-service.ts:1747](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1747)*
+*Defined in [hips-service.ts:1747](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1747)*
 
 CDS/P/Moon/Clementine-750nm-118m
 
@@ -4069,7 +4069,7 @@ ___
 
 • **CDS_P_Moon_JSC2007e045375**: = "CDS/P/Moon/JSC2007e045375"
 
-*Defined in [hips-service.ts:1754](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1754)*
+*Defined in [hips-service.ts:1754](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1754)*
 
 CDS/P/Moon/JSC2007e045375
 
@@ -4082,7 +4082,7 @@ ___
 
 • **CDS_P_Moon_Kaguya_Evening_V04_474m**: = "CDS/P/Moon/Kaguya-Evening-V04-474m"
 
-*Defined in [hips-service.ts:1761](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1761)*
+*Defined in [hips-service.ts:1761](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1761)*
 
 CDS/P/Moon/Kaguya-Evening-V04-474m
 
@@ -4095,7 +4095,7 @@ ___
 
 • **CDS_P_Moon_LROC_WAC_100m**: = "CDS/P/Moon/LROC-WAC-100m"
 
-*Defined in [hips-service.ts:1768](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1768)*
+*Defined in [hips-service.ts:1768](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1768)*
 
 CDS/P/Moon/LROC-WAC-100m
 
@@ -4108,7 +4108,7 @@ ___
 
 • **CDS_P_Moon_LROC_WAC_GLD100_118m**: = "CDS/P/Moon/LROC-WAC-GLD100-118m"
 
-*Defined in [hips-service.ts:1775](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1775)*
+*Defined in [hips-service.ts:1775](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1775)*
 
 CDS/P/Moon/LROC-WAC-GLD100-118m
 
@@ -4121,7 +4121,7 @@ ___
 
 • **CDS_P_NEOWISER_Color**: = "CDS/P/NEOWISER/Color"
 
-*Defined in [hips-service.ts:1782](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1782)*
+*Defined in [hips-service.ts:1782](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1782)*
 
 CDS/P/NEOWISER/Color
 
@@ -4134,7 +4134,7 @@ ___
 
 • **CDS_P_NEOWISER_W1**: = "CDS/P/NEOWISER/W1"
 
-*Defined in [hips-service.ts:1789](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1789)*
+*Defined in [hips-service.ts:1789](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1789)*
 
 CDS/P/NEOWISER/W1
 
@@ -4147,7 +4147,7 @@ ___
 
 • **CDS_P_NEOWISER_W2**: = "CDS/P/NEOWISER/W2"
 
-*Defined in [hips-service.ts:1796](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1796)*
+*Defined in [hips-service.ts:1796](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1796)*
 
 CDS/P/NEOWISER/W2
 
@@ -4160,7 +4160,7 @@ ___
 
 • **CDS_P_NVSS**: = "CDS/P/NVSS"
 
-*Defined in [hips-service.ts:1803](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1803)*
+*Defined in [hips-service.ts:1803](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1803)*
 
 CDS/P/NVSS
 
@@ -4173,7 +4173,7 @@ ___
 
 • **CDS_P_Neptune_Voyager2**: = "CDS/P/Neptune/Voyager2"
 
-*Defined in [hips-service.ts:1810](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1810)*
+*Defined in [hips-service.ts:1810](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1810)*
 
 CDS/P/Neptune/Voyager2
 
@@ -4186,7 +4186,7 @@ ___
 
 • **CDS_P_Oberon_Voyager**: = "CDS/P/Oberon/Voyager"
 
-*Defined in [hips-service.ts:1817](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1817)*
+*Defined in [hips-service.ts:1817](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1817)*
 
 CDS/P/Oberon/Voyager
 
@@ -4199,7 +4199,7 @@ ___
 
 • **CDS_P_PLANCK_R2_CMB**: = "CDS/P/PLANCK/R2/CMB"
 
-*Defined in [hips-service.ts:1824](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1824)*
+*Defined in [hips-service.ts:1824](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1824)*
 
 CDS/P/PLANCK/R2/CMB
 
@@ -4212,7 +4212,7 @@ ___
 
 • **CDS_P_PLANCK_R2_HFI100**: = "CDS/P/PLANCK/R2/HFI100"
 
-*Defined in [hips-service.ts:1838](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1838)*
+*Defined in [hips-service.ts:1838](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1838)*
 
 CDS/P/PLANCK/R2/HFI100
 
@@ -4225,7 +4225,7 @@ ___
 
 • **CDS_P_PLANCK_R2_HFI143**: = "CDS/P/PLANCK/R2/HFI143"
 
-*Defined in [hips-service.ts:1845](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1845)*
+*Defined in [hips-service.ts:1845](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1845)*
 
 CDS/P/PLANCK/R2/HFI143
 
@@ -4238,7 +4238,7 @@ ___
 
 • **CDS_P_PLANCK_R2_HFI217**: = "CDS/P/PLANCK/R2/HFI217"
 
-*Defined in [hips-service.ts:1852](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1852)*
+*Defined in [hips-service.ts:1852](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1852)*
 
 CDS/P/PLANCK/R2/HFI217
 
@@ -4251,7 +4251,7 @@ ___
 
 • **CDS_P_PLANCK_R2_HFI353**: = "CDS/P/PLANCK/R2/HFI353"
 
-*Defined in [hips-service.ts:1859](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1859)*
+*Defined in [hips-service.ts:1859](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1859)*
 
 CDS/P/PLANCK/R2/HFI353
 
@@ -4264,7 +4264,7 @@ ___
 
 • **CDS_P_PLANCK_R2_HFI545**: = "CDS/P/PLANCK/R2/HFI545"
 
-*Defined in [hips-service.ts:1866](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1866)*
+*Defined in [hips-service.ts:1866](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1866)*
 
 CDS/P/PLANCK/R2/HFI545
 
@@ -4277,7 +4277,7 @@ ___
 
 • **CDS_P_PLANCK_R2_HFI857**: = "CDS/P/PLANCK/R2/HFI857"
 
-*Defined in [hips-service.ts:1873](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1873)*
+*Defined in [hips-service.ts:1873](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1873)*
 
 CDS/P/PLANCK/R2/HFI857
 
@@ -4290,7 +4290,7 @@ ___
 
 • **CDS_P_PLANCK_R2_HFI_color**: = "CDS/P/PLANCK/R2/HFI/color"
 
-*Defined in [hips-service.ts:1831](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1831)*
+*Defined in [hips-service.ts:1831](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1831)*
 
 CDS/P/PLANCK/R2/HFI/color
 
@@ -4303,7 +4303,7 @@ ___
 
 • **CDS_P_PLANCK_R2_LFI030**: = "CDS/P/PLANCK/R2/LFI030"
 
-*Defined in [hips-service.ts:1887](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1887)*
+*Defined in [hips-service.ts:1887](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1887)*
 
 CDS/P/PLANCK/R2/LFI030
 
@@ -4316,7 +4316,7 @@ ___
 
 • **CDS_P_PLANCK_R2_LFI044**: = "CDS/P/PLANCK/R2/LFI044"
 
-*Defined in [hips-service.ts:1894](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1894)*
+*Defined in [hips-service.ts:1894](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1894)*
 
 CDS/P/PLANCK/R2/LFI044
 
@@ -4329,7 +4329,7 @@ ___
 
 • **CDS_P_PLANCK_R2_LFI070**: = "CDS/P/PLANCK/R2/LFI070"
 
-*Defined in [hips-service.ts:1901](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1901)*
+*Defined in [hips-service.ts:1901](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1901)*
 
 CDS/P/PLANCK/R2/LFI070
 
@@ -4342,7 +4342,7 @@ ___
 
 • **CDS_P_PLANCK_R2_LFI_color**: = "CDS/P/PLANCK/R2/LFI/color"
 
-*Defined in [hips-service.ts:1880](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1880)*
+*Defined in [hips-service.ts:1880](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1880)*
 
 CDS/P/PLANCK/R2/LFI/color
 
@@ -4355,7 +4355,7 @@ ___
 
 • **CDS_P_PanSTARRS_DR1_color_i_r_g**: = "CDS/P/PanSTARRS/DR1/color-i-r-g"
 
-*Defined in [hips-service.ts:1909](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1909)*
+*Defined in [hips-service.ts:1909](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1909)*
 
 CDS/P/PanSTARRS/DR1/color-i-r-g
 
@@ -4369,7 +4369,7 @@ ___
 
 • **CDS_P_PanSTARRS_DR1_color_z_zg_g**: = "CDS/P/PanSTARRS/DR1/color-z-zg-g"
 
-*Defined in [hips-service.ts:1917](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1917)*
+*Defined in [hips-service.ts:1917](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1917)*
 
 CDS/P/PanSTARRS/DR1/color-z-zg-g
 
@@ -4383,7 +4383,7 @@ ___
 
 • **CDS_P_PanSTARRS_DR1_g**: = "CDS/P/PanSTARRS/DR1/g"
 
-*Defined in [hips-service.ts:1925](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1925)*
+*Defined in [hips-service.ts:1925](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1925)*
 
 CDS/P/PanSTARRS/DR1/g
 
@@ -4397,7 +4397,7 @@ ___
 
 • **CDS_P_PanSTARRS_DR1_i**: = "CDS/P/PanSTARRS/DR1/i"
 
-*Defined in [hips-service.ts:1933](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1933)*
+*Defined in [hips-service.ts:1933](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1933)*
 
 CDS/P/PanSTARRS/DR1/i
 
@@ -4411,7 +4411,7 @@ ___
 
 • **CDS_P_PanSTARRS_DR1_r**: = "CDS/P/PanSTARRS/DR1/r"
 
-*Defined in [hips-service.ts:1941](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1941)*
+*Defined in [hips-service.ts:1941](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1941)*
 
 CDS/P/PanSTARRS/DR1/r
 
@@ -4425,7 +4425,7 @@ ___
 
 • **CDS_P_PanSTARRS_DR1_y**: = "CDS/P/PanSTARRS/DR1/y"
 
-*Defined in [hips-service.ts:1949](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1949)*
+*Defined in [hips-service.ts:1949](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1949)*
 
 CDS/P/PanSTARRS/DR1/y
 
@@ -4439,7 +4439,7 @@ ___
 
 • **CDS_P_PanSTARRS_DR1_z**: = "CDS/P/PanSTARRS/DR1/z"
 
-*Defined in [hips-service.ts:1957](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1957)*
+*Defined in [hips-service.ts:1957](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1957)*
 
 CDS/P/PanSTARRS/DR1/z
 
@@ -4453,7 +4453,7 @@ ___
 
 • **CDS_P_Pluto_NewHorizons_Jul2017_300m**: = "CDS/P/Pluto/NewHorizons-Jul2017-300m"
 
-*Defined in [hips-service.ts:1964](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1964)*
+*Defined in [hips-service.ts:1964](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1964)*
 
 CDS/P/Pluto/NewHorizons-Jul2017-300m
 
@@ -4466,7 +4466,7 @@ ___
 
 • **CDS_P_RASS**: = "CDS/P/RASS"
 
-*Defined in [hips-service.ts:1971](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1971)*
+*Defined in [hips-service.ts:1971](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1971)*
 
 CDS/P/RASS
 
@@ -4479,7 +4479,7 @@ ___
 
 • **CDS_P_ROSATWFC_F1**: = "CDS/P/ROSATWFC/F1"
 
-*Defined in [hips-service.ts:1978](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1978)*
+*Defined in [hips-service.ts:1978](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1978)*
 
 CDS/P/ROSATWFC/F1
 
@@ -4492,7 +4492,7 @@ ___
 
 • **CDS_P_ROSATWFC_F2**: = "CDS/P/ROSATWFC/F2"
 
-*Defined in [hips-service.ts:1985](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1985)*
+*Defined in [hips-service.ts:1985](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1985)*
 
 CDS/P/ROSATWFC/F2
 
@@ -4505,7 +4505,7 @@ ___
 
 • **CDS_P_ROSATWFC_color**: = "CDS/P/ROSATWFC/color"
 
-*Defined in [hips-service.ts:1992](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1992)*
+*Defined in [hips-service.ts:1992](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1992)*
 
 CDS/P/ROSATWFC/color
 
@@ -4518,7 +4518,7 @@ ___
 
 • **CDS_P_Rhea_Cassini_PIA12803**: = "CDS/P/Rhea/Cassini-PIA12803"
 
-*Defined in [hips-service.ts:1999](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L1999)*
+*Defined in [hips-service.ts:1999](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L1999)*
 
 CDS/P/Rhea/Cassini-PIA12803
 
@@ -4531,7 +4531,7 @@ ___
 
 • **CDS_P_SCUBA2_450em**: = "CDS/P/SCUBA2/450em"
 
-*Defined in [hips-service.ts:2027](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2027)*
+*Defined in [hips-service.ts:2027](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2027)*
 
 CDS/P/SCUBA2/450em
 
@@ -4544,7 +4544,7 @@ ___
 
 • **CDS_P_SCUBA2_850em**: = "CDS/P/SCUBA2/850em"
 
-*Defined in [hips-service.ts:2034](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2034)*
+*Defined in [hips-service.ts:2034](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2034)*
 
 CDS/P/SCUBA2/850em
 
@@ -4557,7 +4557,7 @@ ___
 
 • **CDS_P_SCUBA_450em**: = "CDS/P/SCUBA/450em"
 
-*Defined in [hips-service.ts:2006](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2006)*
+*Defined in [hips-service.ts:2006](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2006)*
 
 CDS/P/SCUBA/450em
 
@@ -4570,7 +4570,7 @@ ___
 
 • **CDS_P_SCUBA_850em**: = "CDS/P/SCUBA/850em"
 
-*Defined in [hips-service.ts:2013](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2013)*
+*Defined in [hips-service.ts:2013](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2013)*
 
 CDS/P/SCUBA/850em
 
@@ -4583,7 +4583,7 @@ ___
 
 • **CDS_P_SCUBA_850emi**: = "CDS/P/SCUBA/850emi"
 
-*Defined in [hips-service.ts:2020](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2020)*
+*Defined in [hips-service.ts:2020](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2020)*
 
 CDS/P/SCUBA/850emi
 
@@ -4596,7 +4596,7 @@ ___
 
 • **CDS_P_SDSS9_color**: = "CDS/P/SDSS9/color"
 
-*Defined in [hips-service.ts:2041](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2041)*
+*Defined in [hips-service.ts:2041](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2041)*
 
 CDS/P/SDSS9/color
 
@@ -4609,7 +4609,7 @@ ___
 
 • **CDS_P_SDSS9_color_alt**: = "CDS/P/SDSS9/color-alt"
 
-*Defined in [hips-service.ts:2048](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2048)*
+*Defined in [hips-service.ts:2048](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2048)*
 
 CDS/P/SDSS9/color-alt
 
@@ -4622,7 +4622,7 @@ ___
 
 • **CDS_P_SDSS9_g**: = "CDS/P/SDSS9/g"
 
-*Defined in [hips-service.ts:2055](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2055)*
+*Defined in [hips-service.ts:2055](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2055)*
 
 CDS/P/SDSS9/g
 
@@ -4635,7 +4635,7 @@ ___
 
 • **CDS_P_SDSS9_i**: = "CDS/P/SDSS9/i"
 
-*Defined in [hips-service.ts:2062](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2062)*
+*Defined in [hips-service.ts:2062](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2062)*
 
 CDS/P/SDSS9/i
 
@@ -4648,7 +4648,7 @@ ___
 
 • **CDS_P_SDSS9_r**: = "CDS/P/SDSS9/r"
 
-*Defined in [hips-service.ts:2069](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2069)*
+*Defined in [hips-service.ts:2069](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2069)*
 
 CDS/P/SDSS9/r
 
@@ -4661,7 +4661,7 @@ ___
 
 • **CDS_P_SDSS9_u**: = "CDS/P/SDSS9/u"
 
-*Defined in [hips-service.ts:2076](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2076)*
+*Defined in [hips-service.ts:2076](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2076)*
 
 CDS/P/SDSS9/u
 
@@ -4674,7 +4674,7 @@ ___
 
 • **CDS_P_SDSS9_z**: = "CDS/P/SDSS9/z"
 
-*Defined in [hips-service.ts:2083](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2083)*
+*Defined in [hips-service.ts:2083](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2083)*
 
 CDS/P/SDSS9/z
 
@@ -4687,7 +4687,7 @@ ___
 
 • **CDS_P_SHASSA_DU**: = "CDS/P/SHASSA/DU"
 
-*Defined in [hips-service.ts:2090](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2090)*
+*Defined in [hips-service.ts:2090](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2090)*
 
 CDS/P/SHASSA/DU
 
@@ -4700,7 +4700,7 @@ ___
 
 • **CDS_P_SHASSA_FL**: = "CDS/P/SHASSA/FL"
 
-*Defined in [hips-service.ts:2097](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2097)*
+*Defined in [hips-service.ts:2097](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2097)*
 
 CDS/P/SHASSA/FL
 
@@ -4713,7 +4713,7 @@ ___
 
 • **CDS_P_SHASSA_H**: = "CDS/P/SHASSA/H"
 
-*Defined in [hips-service.ts:2104](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2104)*
+*Defined in [hips-service.ts:2104](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2104)*
 
 CDS/P/SHASSA/H
 
@@ -4726,7 +4726,7 @@ ___
 
 • **CDS_P_SHASSA_SM**: = "CDS/P/SHASSA/SM"
 
-*Defined in [hips-service.ts:2111](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2111)*
+*Defined in [hips-service.ts:2111](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2111)*
 
 CDS/P/SHASSA/SM
 
@@ -4739,7 +4739,7 @@ ___
 
 • **CDS_P_SHS**: = "CDS/P/SHS"
 
-*Defined in [hips-service.ts:2118](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2118)*
+*Defined in [hips-service.ts:2118](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2118)*
 
 CDS/P/SHS
 
@@ -4752,7 +4752,7 @@ ___
 
 • **CDS_P_SPITZER_IRAC1**: = "CDS/P/SPITZER/IRAC1"
 
-*Defined in [hips-service.ts:2125](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2125)*
+*Defined in [hips-service.ts:2125](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2125)*
 
 CDS/P/SPITZER/IRAC1
 
@@ -4765,7 +4765,7 @@ ___
 
 • **CDS_P_SPITZER_IRAC2**: = "CDS/P/SPITZER/IRAC2"
 
-*Defined in [hips-service.ts:2132](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2132)*
+*Defined in [hips-service.ts:2132](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2132)*
 
 CDS/P/SPITZER/IRAC2
 
@@ -4778,7 +4778,7 @@ ___
 
 • **CDS_P_SPITZER_IRAC3**: = "CDS/P/SPITZER/IRAC3"
 
-*Defined in [hips-service.ts:2139](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2139)*
+*Defined in [hips-service.ts:2139](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2139)*
 
 CDS/P/SPITZER/IRAC3
 
@@ -4791,7 +4791,7 @@ ___
 
 • **CDS_P_SPITZER_IRAC4**: = "CDS/P/SPITZER/IRAC4"
 
-*Defined in [hips-service.ts:2146](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2146)*
+*Defined in [hips-service.ts:2146](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2146)*
 
 CDS/P/SPITZER/IRAC4
 
@@ -4804,7 +4804,7 @@ ___
 
 • **CDS_P_SPITZER_MIPS1**: = "CDS/P/SPITZER/MIPS1"
 
-*Defined in [hips-service.ts:2153](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2153)*
+*Defined in [hips-service.ts:2153](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2153)*
 
 CDS/P/SPITZER/MIPS1
 
@@ -4817,7 +4817,7 @@ ___
 
 • **CDS_P_SPITZER_MIPS2**: = "CDS/P/SPITZER/MIPS2"
 
-*Defined in [hips-service.ts:2160](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2160)*
+*Defined in [hips-service.ts:2160](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2160)*
 
 CDS/P/SPITZER/MIPS2
 
@@ -4830,7 +4830,7 @@ ___
 
 • **CDS_P_SPITZER_MIPS3**: = "CDS/P/SPITZER/MIPS3"
 
-*Defined in [hips-service.ts:2167](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2167)*
+*Defined in [hips-service.ts:2167](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2167)*
 
 CDS/P/SPITZER/MIPS3
 
@@ -4843,7 +4843,7 @@ ___
 
 • **CDS_P_SPITZER_color**: = "CDS/P/SPITZER/color"
 
-*Defined in [hips-service.ts:2174](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2174)*
+*Defined in [hips-service.ts:2174](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2174)*
 
 CDS/P/SPITZER/color
 
@@ -4856,7 +4856,7 @@ ___
 
 • **CDS_P_SUMSS**: = "CDS/P/SUMSS"
 
-*Defined in [hips-service.ts:2181](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2181)*
+*Defined in [hips-service.ts:2181](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2181)*
 
 CDS/P/SUMSS
 
@@ -4869,7 +4869,7 @@ ___
 
 • **CDS_P_Skymapper_color_IRG**: = "CDS/P/Skymapper-color-IRG"
 
-*Defined in [hips-service.ts:2188](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2188)*
+*Defined in [hips-service.ts:2188](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2188)*
 
 CDS/P/Skymapper-color-IRG
 
@@ -4882,7 +4882,7 @@ ___
 
 • **CDS_P_Sun_euvi_aia304_2012**: = "CDS/P/Sun/euvi-aia304-2012"
 
-*Defined in [hips-service.ts:2195](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2195)*
+*Defined in [hips-service.ts:2195](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2195)*
 
 CDS/P/Sun/euvi-aia304-2012
 
@@ -4895,7 +4895,7 @@ ___
 
 • **CDS_P_Tethys_Cassini_PIA18439**: = "CDS/P/Tethys/Cassini-PIA18439"
 
-*Defined in [hips-service.ts:2202](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2202)*
+*Defined in [hips-service.ts:2202](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2202)*
 
 CDS/P/Tethys/Cassini-PIA18439
 
@@ -4908,7 +4908,7 @@ ___
 
 • **CDS_P_Titan_ISS_P19658_4km**: = "CDS/P/Titan/ISS-P19658-4km"
 
-*Defined in [hips-service.ts:2209](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2209)*
+*Defined in [hips-service.ts:2209](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2209)*
 
 CDS/P/Titan/ISS-P19658-4km
 
@@ -4921,7 +4921,7 @@ ___
 
 • **CDS_P_Titan_SAR_HiSAR_128ppd**: = "CDS/P/Titan/SAR-HiSAR-128ppd"
 
-*Defined in [hips-service.ts:2216](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2216)*
+*Defined in [hips-service.ts:2216](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2216)*
 
 CDS/P/Titan/SAR-HiSAR-128ppd
 
@@ -4934,7 +4934,7 @@ ___
 
 • **CDS_P_Titania_Voyager**: = "CDS/P/Titania/Voyager"
 
-*Defined in [hips-service.ts:2223](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2223)*
+*Defined in [hips-service.ts:2223](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2223)*
 
 CDS/P/Titania/Voyager
 
@@ -4947,7 +4947,7 @@ ___
 
 • **CDS_P_Triton_Voyager2_600m**: = "CDS/P/Triton/Voyager2-600m"
 
-*Defined in [hips-service.ts:2230](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2230)*
+*Defined in [hips-service.ts:2230](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2230)*
 
 CDS/P/Triton/Voyager2-600m
 
@@ -4960,7 +4960,7 @@ ___
 
 • **CDS_P_ULTRAVISTA_H**: = "CDS/P/ULTRAVISTA/H"
 
-*Defined in [hips-service.ts:2237](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2237)*
+*Defined in [hips-service.ts:2237](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2237)*
 
 CDS/P/ULTRAVISTA/H
 
@@ -4973,7 +4973,7 @@ ___
 
 • **CDS_P_ULTRAVISTA_J**: = "CDS/P/ULTRAVISTA/J"
 
-*Defined in [hips-service.ts:2244](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2244)*
+*Defined in [hips-service.ts:2244](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2244)*
 
 CDS/P/ULTRAVISTA/J
 
@@ -4986,7 +4986,7 @@ ___
 
 • **CDS_P_ULTRAVISTA_Ks**: = "CDS/P/ULTRAVISTA/Ks"
 
-*Defined in [hips-service.ts:2251](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2251)*
+*Defined in [hips-service.ts:2251](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2251)*
 
 CDS/P/ULTRAVISTA/Ks
 
@@ -4999,7 +4999,7 @@ ___
 
 • **CDS_P_ULTRAVISTA_NB118**: = "CDS/P/ULTRAVISTA/NB118"
 
-*Defined in [hips-service.ts:2258](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2258)*
+*Defined in [hips-service.ts:2258](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2258)*
 
 CDS/P/ULTRAVISTA/NB118
 
@@ -5012,7 +5012,7 @@ ___
 
 • **CDS_P_ULTRAVISTA_Y**: = "CDS/P/ULTRAVISTA/Y"
 
-*Defined in [hips-service.ts:2265](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2265)*
+*Defined in [hips-service.ts:2265](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2265)*
 
 CDS/P/ULTRAVISTA/Y
 
@@ -5025,7 +5025,7 @@ ___
 
 • **CDS_P_ULTRAVISTA_color_KsJY**: = "CDS/P/ULTRAVISTA/color/KsJY"
 
-*Defined in [hips-service.ts:2272](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2272)*
+*Defined in [hips-service.ts:2272](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2272)*
 
 CDS/P/ULTRAVISTA/color/KsJY
 
@@ -5038,7 +5038,7 @@ ___
 
 • **CDS_P_Umbriel_Voyager**: = "CDS/P/Umbriel/Voyager"
 
-*Defined in [hips-service.ts:2279](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2279)*
+*Defined in [hips-service.ts:2279](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2279)*
 
 CDS/P/Umbriel/Voyager
 
@@ -5051,7 +5051,7 @@ ___
 
 • **CDS_P_VISTA_VIKING_H**: = "CDS/P/VISTA/VIKING/H"
 
-*Defined in [hips-service.ts:2286](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2286)*
+*Defined in [hips-service.ts:2286](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2286)*
 
 CDS/P/VISTA/VIKING/H
 
@@ -5064,7 +5064,7 @@ ___
 
 • **CDS_P_VISTA_VIKING_J**: = "CDS/P/VISTA/VIKING/J"
 
-*Defined in [hips-service.ts:2293](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2293)*
+*Defined in [hips-service.ts:2293](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2293)*
 
 CDS/P/VISTA/VIKING/J
 
@@ -5077,7 +5077,7 @@ ___
 
 • **CDS_P_VISTA_VIKING_K**: = "CDS/P/VISTA/VIKING/K"
 
-*Defined in [hips-service.ts:2300](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2300)*
+*Defined in [hips-service.ts:2300](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2300)*
 
 CDS/P/VISTA/VIKING/K
 
@@ -5090,7 +5090,7 @@ ___
 
 • **CDS_P_VISTA_VIKING_Y**: = "CDS/P/VISTA/VIKING/Y"
 
-*Defined in [hips-service.ts:2307](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2307)*
+*Defined in [hips-service.ts:2307](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2307)*
 
 CDS/P/VISTA/VIKING/Y
 
@@ -5103,7 +5103,7 @@ ___
 
 • **CDS_P_VISTA_VIKING_Z**: = "CDS/P/VISTA/VIKING/Z"
 
-*Defined in [hips-service.ts:2314](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2314)*
+*Defined in [hips-service.ts:2314](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2314)*
 
 CDS/P/VISTA/VIKING/Z
 
@@ -5116,7 +5116,7 @@ ___
 
 • **CDS_P_VISTA_VVV_DR4_ColorJYZ**: = "CDS/P/VISTA/VVV/DR4/ColorJYZ"
 
-*Defined in [hips-service.ts:2321](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2321)*
+*Defined in [hips-service.ts:2321](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2321)*
 
 CDS/P/VISTA/VVV/DR4/ColorJYZ
 
@@ -5129,7 +5129,7 @@ ___
 
 • **CDS_P_VISTA_VVV_DR4_H_Bulge**: = "CDS/P/VISTA/VVV/DR4/H/Bulge"
 
-*Defined in [hips-service.ts:2328](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2328)*
+*Defined in [hips-service.ts:2328](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2328)*
 
 CDS/P/VISTA/VVV/DR4/H/Bulge
 
@@ -5142,7 +5142,7 @@ ___
 
 • **CDS_P_VISTA_VVV_DR4_H_Disk**: = "CDS/P/VISTA/VVV/DR4/H/Disk"
 
-*Defined in [hips-service.ts:2335](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2335)*
+*Defined in [hips-service.ts:2335](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2335)*
 
 CDS/P/VISTA/VVV/DR4/H/Disk
 
@@ -5155,7 +5155,7 @@ ___
 
 • **CDS_P_VISTA_VVV_DR4_J**: = "CDS/P/VISTA/VVV/DR4/J"
 
-*Defined in [hips-service.ts:2342](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2342)*
+*Defined in [hips-service.ts:2342](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2342)*
 
 CDS/P/VISTA/VVV/DR4/J
 
@@ -5168,7 +5168,7 @@ ___
 
 • **CDS_P_VISTA_VVV_DR4_Y**: = "CDS/P/VISTA/VVV/DR4/Y"
 
-*Defined in [hips-service.ts:2349](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2349)*
+*Defined in [hips-service.ts:2349](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2349)*
 
 CDS/P/VISTA/VVV/DR4/Y
 
@@ -5181,7 +5181,7 @@ ___
 
 • **CDS_P_VISTA_VVV_DR4_Z**: = "CDS/P/VISTA/VVV/DR4/Z"
 
-*Defined in [hips-service.ts:2356](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2356)*
+*Defined in [hips-service.ts:2356](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2356)*
 
 CDS/P/VISTA/VVV/DR4/Z
 
@@ -5194,7 +5194,7 @@ ___
 
 • **CDS_P_VLSSr**: = "CDS/P/VLSSr"
 
-*Defined in [hips-service.ts:2363](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2363)*
+*Defined in [hips-service.ts:2363](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2363)*
 
 CDS/P/VLSSr
 
@@ -5207,7 +5207,7 @@ ___
 
 • **CDS_P_VTSS_Ha**: = "CDS/P/VTSS/Ha"
 
-*Defined in [hips-service.ts:2370](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2370)*
+*Defined in [hips-service.ts:2370](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2370)*
 
 CDS/P/VTSS/Ha
 
@@ -5220,7 +5220,7 @@ ___
 
 • **CDS_P_VTSS_HaCC**: = "CDS/P/VTSS/HaCC"
 
-*Defined in [hips-service.ts:2377](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2377)*
+*Defined in [hips-service.ts:2377](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2377)*
 
 CDS/P/VTSS/HaCC
 
@@ -5233,7 +5233,7 @@ ___
 
 • **CDS_P_Venus_Magellan_C3_MDIR_2025m**: = "CDS/P/Venus/Magellan/C3-MDIR-2025m"
 
-*Defined in [hips-service.ts:2384](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2384)*
+*Defined in [hips-service.ts:2384](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2384)*
 
 CDS/P/Venus/Magellan/C3-MDIR-2025m
 
@@ -5246,7 +5246,7 @@ ___
 
 • **CDS_P_Venus_Magellan_C3_MDIR_ClrTopo_6600m_color**: = "CDS/P/Venus/Magellan/C3-MDIR-ClrTopo-6600m-color"
 
-*Defined in [hips-service.ts:2391](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2391)*
+*Defined in [hips-service.ts:2391](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2391)*
 
 CDS/P/Venus/Magellan/C3-MDIR-ClrTopo-6600m-color
 
@@ -5259,7 +5259,7 @@ ___
 
 • **CDS_P_Venus_Magellan_MeterScaleSlope_4641m**: = "CDS/P/Venus/Magellan/MeterScaleSlope-4641m"
 
-*Defined in [hips-service.ts:2398](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2398)*
+*Defined in [hips-service.ts:2398](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2398)*
 
 CDS/P/Venus/Magellan/MeterScaleSlope-4641m
 
@@ -5272,7 +5272,7 @@ ___
 
 • **CDS_P_Venus_Magellan_Microwave_Emissivity_4641m**: = "CDS/P/Venus/Magellan/Microwave-Emissivity-4641m"
 
-*Defined in [hips-service.ts:2405](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2405)*
+*Defined in [hips-service.ts:2405](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2405)*
 
 CDS/P/Venus/Magellan/Microwave-Emissivity-4641m
 
@@ -5285,7 +5285,7 @@ ___
 
 • **CDS_P_Venus_Magellan_Topography_4641m**: = "CDS/P/Venus/Magellan/Topography-4641m"
 
-*Defined in [hips-service.ts:2412](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2412)*
+*Defined in [hips-service.ts:2412](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2412)*
 
 CDS/P/Venus/Magellan/Topography-4641m
 
@@ -5298,7 +5298,7 @@ ___
 
 • **CDS_P_VistaOrion_color**: = "CDS/P/VistaOrion/color"
 
-*Defined in [hips-service.ts:2419](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2419)*
+*Defined in [hips-service.ts:2419](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2419)*
 
 CDS/P/VistaOrion/color
 
@@ -5311,7 +5311,7 @@ ___
 
 • **CDS_P_WENSS**: = "CDS/P/WENSS"
 
-*Defined in [hips-service.ts:2426](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2426)*
+*Defined in [hips-service.ts:2426](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2426)*
 
 CDS/P/WENSS
 
@@ -5324,7 +5324,7 @@ ___
 
 • **CDS_P_WISE_W1**: = "CDS/P/WISE/W1"
 
-*Defined in [hips-service.ts:2433](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2433)*
+*Defined in [hips-service.ts:2433](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2433)*
 
 CDS/P/WISE/W1
 
@@ -5337,7 +5337,7 @@ ___
 
 • **CDS_P_WISE_W2**: = "CDS/P/WISE/W2"
 
-*Defined in [hips-service.ts:2440](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2440)*
+*Defined in [hips-service.ts:2440](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2440)*
 
 CDS/P/WISE/W2
 
@@ -5350,7 +5350,7 @@ ___
 
 • **CDS_P_WISE_W3**: = "CDS/P/WISE/W3"
 
-*Defined in [hips-service.ts:2447](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2447)*
+*Defined in [hips-service.ts:2447](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2447)*
 
 CDS/P/WISE/W3
 
@@ -5363,7 +5363,7 @@ ___
 
 • **CDS_P_WISE_W4**: = "CDS/P/WISE/W4"
 
-*Defined in [hips-service.ts:2454](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2454)*
+*Defined in [hips-service.ts:2454](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2454)*
 
 CDS/P/WISE/W4
 
@@ -5376,7 +5376,7 @@ ___
 
 • **CDS_P_WISE_WSSA_12um**: = "CDS/P/WISE/WSSA/12um"
 
-*Defined in [hips-service.ts:2461](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2461)*
+*Defined in [hips-service.ts:2461](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2461)*
 
 CDS/P/WISE/WSSA/12um
 
@@ -5389,7 +5389,7 @@ ___
 
 • **CDS_P_WMAP_K_9yr**: = "CDS/P/WMAP/K/9yr"
 
-*Defined in [hips-service.ts:2468](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2468)*
+*Defined in [hips-service.ts:2468](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2468)*
 
 CDS/P/WMAP/K/9yr
 
@@ -5402,7 +5402,7 @@ ___
 
 • **CDS_P_WMAP_Ka_9yr**: = "CDS/P/WMAP/Ka/9yr"
 
-*Defined in [hips-service.ts:2475](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2475)*
+*Defined in [hips-service.ts:2475](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2475)*
 
 CDS/P/WMAP/Ka/9yr
 
@@ -5415,7 +5415,7 @@ ___
 
 • **CDS_P_WMAP_Q_9yr**: = "CDS/P/WMAP/Q/9yr"
 
-*Defined in [hips-service.ts:2482](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2482)*
+*Defined in [hips-service.ts:2482](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2482)*
 
 CDS/P/WMAP/Q/9yr
 
@@ -5428,7 +5428,7 @@ ___
 
 • **CDS_P_WMAP_V_9yr**: = "CDS/P/WMAP/V/9yr"
 
-*Defined in [hips-service.ts:2489](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2489)*
+*Defined in [hips-service.ts:2489](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2489)*
 
 CDS/P/WMAP/V/9yr
 
@@ -5441,7 +5441,7 @@ ___
 
 • **CDS_P_WMAP_W_9yr**: = "CDS/P/WMAP/W/9yr"
 
-*Defined in [hips-service.ts:2496](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2496)*
+*Defined in [hips-service.ts:2496](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2496)*
 
 CDS/P/WMAP/W/9yr
 
@@ -5454,7 +5454,7 @@ ___
 
 • **CDS_P_allWISE_W1**: = "CDS/P/allWISE/W1"
 
-*Defined in [hips-service.ts:2503](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2503)*
+*Defined in [hips-service.ts:2503](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2503)*
 
 CDS/P/allWISE/W1
 
@@ -5467,7 +5467,7 @@ ___
 
 • **CDS_P_allWISE_W2**: = "CDS/P/allWISE/W2"
 
-*Defined in [hips-service.ts:2510](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2510)*
+*Defined in [hips-service.ts:2510](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2510)*
 
 CDS/P/allWISE/W2
 
@@ -5480,7 +5480,7 @@ ___
 
 • **CDS_P_allWISE_W3**: = "CDS/P/allWISE/W3"
 
-*Defined in [hips-service.ts:2517](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2517)*
+*Defined in [hips-service.ts:2517](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2517)*
 
 CDS/P/allWISE/W3
 
@@ -5493,7 +5493,7 @@ ___
 
 • **CDS_P_allWISE_W4**: = "CDS/P/allWISE/W4"
 
-*Defined in [hips-service.ts:2524](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2524)*
+*Defined in [hips-service.ts:2524](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2524)*
 
 CDS/P/allWISE/W4
 
@@ -5506,7 +5506,7 @@ ___
 
 • **CDS_P_allWISE_color**: = "CDS/P/allWISE/color"
 
-*Defined in [hips-service.ts:2531](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2531)*
+*Defined in [hips-service.ts:2531](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2531)*
 
 CDS/P/allWISE/color
 
@@ -5519,7 +5519,7 @@ ___
 
 • **CDS_P_skymapper_G**: = "CDS/P/skymapper-G"
 
-*Defined in [hips-service.ts:2538](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2538)*
+*Defined in [hips-service.ts:2538](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2538)*
 
 CDS/P/skymapper-G
 
@@ -5532,7 +5532,7 @@ ___
 
 • **CDS_P_skymapper_I**: = "CDS/P/skymapper-I"
 
-*Defined in [hips-service.ts:2545](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2545)*
+*Defined in [hips-service.ts:2545](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2545)*
 
 CDS/P/skymapper-I
 
@@ -5545,7 +5545,7 @@ ___
 
 • **CDS_P_skymapper_R**: = "CDS/P/skymapper-R"
 
-*Defined in [hips-service.ts:2552](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2552)*
+*Defined in [hips-service.ts:2552](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2552)*
 
 CDS/P/skymapper-R
 
@@ -5558,7 +5558,7 @@ ___
 
 • **CDS_P_skymapper_U**: = "CDS/P/skymapper-U"
 
-*Defined in [hips-service.ts:2559](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2559)*
+*Defined in [hips-service.ts:2559](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2559)*
 
 CDS/P/skymapper-U
 
@@ -5571,7 +5571,7 @@ ___
 
 • **CDS_P_skymapper_V**: = "CDS/P/skymapper-V"
 
-*Defined in [hips-service.ts:2566](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2566)*
+*Defined in [hips-service.ts:2566](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2566)*
 
 CDS/P/skymapper-V
 
@@ -5584,7 +5584,7 @@ ___
 
 • **CDS_P_skymapper_Z**: = "CDS/P/skymapper-Z"
 
-*Defined in [hips-service.ts:2573](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2573)*
+*Defined in [hips-service.ts:2573](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2573)*
 
 CDS/P/skymapper-Z
 
@@ -5597,7 +5597,7 @@ ___
 
 • **CEFCA_P_j_plus_J_PLUS_DR1**: = "CEFCA/P/j-plus/J-PLUS-DR1"
 
-*Defined in [hips-service.ts:2580](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2580)*
+*Defined in [hips-service.ts:2580](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2580)*
 
 CEFCA/P/j-plus/J-PLUS-DR1
 
@@ -5610,7 +5610,7 @@ ___
 
 • **CEFCA_P_minijpas_MINIJ_PAS_PDR201912**: = "CEFCA/P/minijpas/MINIJ-PAS-PDR201912"
 
-*Defined in [hips-service.ts:2587](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2587)*
+*Defined in [hips-service.ts:2587](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2587)*
 
 CEFCA/P/minijpas/MINIJ-PAS-PDR201912
 
@@ -5623,7 +5623,7 @@ ___
 
 • **China_VO_P_BASS_DR1_image**: = "China-VO/P/BASS/DR1/image"
 
-*Defined in [hips-service.ts:2594](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2594)*
+*Defined in [hips-service.ts:2594](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2594)*
 
 China-VO/P/BASS/DR1/image
 
@@ -5636,7 +5636,7 @@ ___
 
 • **China_VO_P_BASS_DR2_image**: = "China-VO/P/BASS/DR2/image"
 
-*Defined in [hips-service.ts:2601](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2601)*
+*Defined in [hips-service.ts:2601](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2601)*
 
 China-VO/P/BASS/DR2/image
 
@@ -5649,7 +5649,7 @@ ___
 
 • **ESAVO_P_AKARI_N160**: = "ESAVO/P/AKARI/N160"
 
-*Defined in [hips-service.ts:2608](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2608)*
+*Defined in [hips-service.ts:2608](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2608)*
 
 ESAVO/P/AKARI/N160
 
@@ -5662,7 +5662,7 @@ ___
 
 • **ESAVO_P_AKARI_N60**: = "ESAVO/P/AKARI/N60"
 
-*Defined in [hips-service.ts:2615](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2615)*
+*Defined in [hips-service.ts:2615](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2615)*
 
 ESAVO/P/AKARI/N60
 
@@ -5675,7 +5675,7 @@ ___
 
 • **ESAVO_P_AKARI_WideL**: = "ESAVO/P/AKARI/WideL"
 
-*Defined in [hips-service.ts:2622](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2622)*
+*Defined in [hips-service.ts:2622](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2622)*
 
 ESAVO/P/AKARI/WideL
 
@@ -5688,7 +5688,7 @@ ___
 
 • **ESAVO_P_AKARI_WideS**: = "ESAVO/P/AKARI/WideS"
 
-*Defined in [hips-service.ts:2629](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2629)*
+*Defined in [hips-service.ts:2629](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2629)*
 
 ESAVO/P/AKARI/WideS
 
@@ -5701,7 +5701,7 @@ ___
 
 • **ESAVO_P_AKARI_color**: = "ESAVO/P/AKARI/color"
 
-*Defined in [hips-service.ts:2636](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2636)*
+*Defined in [hips-service.ts:2636](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2636)*
 
 ESAVO/P/AKARI/color
 
@@ -5714,7 +5714,7 @@ ___
 
 • **ESAVO_P_EXOSAT_all**: = "ESAVO/P/EXOSAT/all"
 
-*Defined in [hips-service.ts:2643](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2643)*
+*Defined in [hips-service.ts:2643](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2643)*
 
 ESAVO/P/EXOSAT/all
 
@@ -5727,7 +5727,7 @@ ___
 
 • **ESAVO_P_HERSCHEL_PACS100**: = "ESAVO/P/HERSCHEL/PACS100"
 
-*Defined in [hips-service.ts:2650](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2650)*
+*Defined in [hips-service.ts:2650](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2650)*
 
 ESAVO/P/HERSCHEL/PACS100
 
@@ -5740,7 +5740,7 @@ ___
 
 • **ESAVO_P_HERSCHEL_PACS100norm**: = "ESAVO/P/HERSCHEL/PACS100norm"
 
-*Defined in [hips-service.ts:2657](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2657)*
+*Defined in [hips-service.ts:2657](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2657)*
 
 ESAVO/P/HERSCHEL/PACS100norm
 
@@ -5753,7 +5753,7 @@ ___
 
 • **ESAVO_P_HERSCHEL_PACS160**: = "ESAVO/P/HERSCHEL/PACS160"
 
-*Defined in [hips-service.ts:2664](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2664)*
+*Defined in [hips-service.ts:2664](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2664)*
 
 ESAVO/P/HERSCHEL/PACS160
 
@@ -5766,7 +5766,7 @@ ___
 
 • **ESAVO_P_HERSCHEL_PACS160norm**: = "ESAVO/P/HERSCHEL/PACS160norm"
 
-*Defined in [hips-service.ts:2671](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2671)*
+*Defined in [hips-service.ts:2671](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2671)*
 
 ESAVO/P/HERSCHEL/PACS160norm
 
@@ -5779,7 +5779,7 @@ ___
 
 • **ESAVO_P_HERSCHEL_PACS70**: = "ESAVO/P/HERSCHEL/PACS70"
 
-*Defined in [hips-service.ts:2678](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2678)*
+*Defined in [hips-service.ts:2678](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2678)*
 
 ESAVO/P/HERSCHEL/PACS70
 
@@ -5792,7 +5792,7 @@ ___
 
 • **ESAVO_P_HERSCHEL_PACS70norm**: = "ESAVO/P/HERSCHEL/PACS70norm"
 
-*Defined in [hips-service.ts:2685](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2685)*
+*Defined in [hips-service.ts:2685](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2685)*
 
 ESAVO/P/HERSCHEL/PACS70norm
 
@@ -5805,7 +5805,7 @@ ___
 
 • **ESAVO_P_HERSCHEL_PACS_RGB_norm**: = "ESAVO/P/HERSCHEL/PACS_RGB_norm"
 
-*Defined in [hips-service.ts:2692](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2692)*
+*Defined in [hips-service.ts:2692](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2692)*
 
 ESAVO/P/HERSCHEL/PACS_RGB_norm
 
@@ -5818,7 +5818,7 @@ ___
 
 • **ESAVO_P_HERSCHEL_SPIRE250norm**: = "ESAVO/P/HERSCHEL/SPIRE250norm"
 
-*Defined in [hips-service.ts:2727](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2727)*
+*Defined in [hips-service.ts:2727](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2727)*
 
 ESAVO/P/HERSCHEL/SPIRE250norm
 
@@ -5831,7 +5831,7 @@ ___
 
 • **ESAVO_P_HERSCHEL_SPIRE350norm**: = "ESAVO/P/HERSCHEL/SPIRE350norm"
 
-*Defined in [hips-service.ts:2734](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2734)*
+*Defined in [hips-service.ts:2734](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2734)*
 
 ESAVO/P/HERSCHEL/SPIRE350norm
 
@@ -5844,7 +5844,7 @@ ___
 
 • **ESAVO_P_HERSCHEL_SPIRE500norm**: = "ESAVO/P/HERSCHEL/SPIRE500norm"
 
-*Defined in [hips-service.ts:2741](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2741)*
+*Defined in [hips-service.ts:2741](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2741)*
 
 ESAVO/P/HERSCHEL/SPIRE500norm
 
@@ -5857,7 +5857,7 @@ ___
 
 • **ESAVO_P_HERSCHEL_SPIRE_250**: = "ESAVO/P/HERSCHEL/SPIRE-250"
 
-*Defined in [hips-service.ts:2699](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2699)*
+*Defined in [hips-service.ts:2699](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2699)*
 
 ESAVO/P/HERSCHEL/SPIRE-250
 
@@ -5870,7 +5870,7 @@ ___
 
 • **ESAVO_P_HERSCHEL_SPIRE_350**: = "ESAVO/P/HERSCHEL/SPIRE-350"
 
-*Defined in [hips-service.ts:2706](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2706)*
+*Defined in [hips-service.ts:2706](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2706)*
 
 ESAVO/P/HERSCHEL/SPIRE-350
 
@@ -5883,7 +5883,7 @@ ___
 
 • **ESAVO_P_HERSCHEL_SPIRE_500**: = "ESAVO/P/HERSCHEL/SPIRE-500"
 
-*Defined in [hips-service.ts:2713](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2713)*
+*Defined in [hips-service.ts:2713](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2713)*
 
 ESAVO/P/HERSCHEL/SPIRE-500
 
@@ -5896,7 +5896,7 @@ ___
 
 • **ESAVO_P_HERSCHEL_SPIRE_color**: = "ESAVO/P/HERSCHEL/SPIRE-color"
 
-*Defined in [hips-service.ts:2720](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2720)*
+*Defined in [hips-service.ts:2720](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2720)*
 
 ESAVO/P/HERSCHEL/SPIRE-color
 
@@ -5909,7 +5909,7 @@ ___
 
 • **ESAVO_P_HST_ACS_blue**: = "ESAVO/P/HST/ACS-blue"
 
-*Defined in [hips-service.ts:2748](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2748)*
+*Defined in [hips-service.ts:2748](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2748)*
 
 ESAVO/P/HST/ACS-blue
 
@@ -5922,7 +5922,7 @@ ___
 
 • **ESAVO_P_HST_FOC**: = "ESAVO/P/HST/FOC"
 
-*Defined in [hips-service.ts:2755](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2755)*
+*Defined in [hips-service.ts:2755](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2755)*
 
 ESAVO/P/HST/FOC
 
@@ -5935,7 +5935,7 @@ ___
 
 • **ESAVO_P_HST_NICMOS**: = "ESAVO/P/HST/NICMOS"
 
-*Defined in [hips-service.ts:2762](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2762)*
+*Defined in [hips-service.ts:2762](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2762)*
 
 ESAVO/P/HST/NICMOS
 
@@ -5948,7 +5948,7 @@ ___
 
 • **ESAVO_P_HST_WFC3**: = "ESAVO/P/HST/WFC3"
 
-*Defined in [hips-service.ts:2769](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2769)*
+*Defined in [hips-service.ts:2769](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2769)*
 
 ESAVO/P/HST/WFC3
 
@@ -5961,7 +5961,7 @@ ___
 
 • **ESAVO_P_HST_WFPC**: = "ESAVO/P/HST/WFPC"
 
-*Defined in [hips-service.ts:2776](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2776)*
+*Defined in [hips-service.ts:2776](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2776)*
 
 ESAVO/P/HST/WFPC
 
@@ -5974,7 +5974,7 @@ ___
 
 • **ESAVO_P_Haslam408**: = "ESAVO/P/Haslam408"
 
-*Defined in [hips-service.ts:2783](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2783)*
+*Defined in [hips-service.ts:2783](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2783)*
 
 ESAVO/P/Haslam408
 
@@ -5987,7 +5987,7 @@ ___
 
 • **ESAVO_P_Haslam_2014**: = "ESAVO/P/Haslam_2014"
 
-*Defined in [hips-service.ts:2790](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2790)*
+*Defined in [hips-service.ts:2790](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2790)*
 
 ESAVO/P/Haslam_2014
 
@@ -6000,7 +6000,7 @@ ___
 
 • **ESAVO_P_Herschel_color**: = "ESAVO/P/Herschel/color"
 
-*Defined in [hips-service.ts:2797](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2797)*
+*Defined in [hips-service.ts:2797](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2797)*
 
 ESAVO/P/Herschel/color
 
@@ -6013,7 +6013,7 @@ ___
 
 • **ESAVO_P_INTEGRAL_20_35kev**: = "ESAVO/P/INTEGRAL/20-35kev"
 
-*Defined in [hips-service.ts:2804](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2804)*
+*Defined in [hips-service.ts:2804](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2804)*
 
 ESAVO/P/INTEGRAL/20-35kev
 
@@ -6026,7 +6026,7 @@ ___
 
 • **ESAVO_P_INTEGRAL_35_65kev**: = "ESAVO/P/INTEGRAL/35-65kev"
 
-*Defined in [hips-service.ts:2811](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2811)*
+*Defined in [hips-service.ts:2811](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2811)*
 
 ESAVO/P/INTEGRAL/35-65kev
 
@@ -6039,7 +6039,7 @@ ___
 
 • **ESAVO_P_INTEGRAL_65_100kev**: = "ESAVO/P/INTEGRAL/65-100kev"
 
-*Defined in [hips-service.ts:2818](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2818)*
+*Defined in [hips-service.ts:2818](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2818)*
 
 ESAVO/P/INTEGRAL/65-100kev
 
@@ -6052,7 +6052,7 @@ ___
 
 • **ESAVO_P_INTEGRAL_color**: = "ESAVO/P/INTEGRAL/color"
 
-*Defined in [hips-service.ts:2825](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2825)*
+*Defined in [hips-service.ts:2825](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2825)*
 
 ESAVO/P/INTEGRAL/color
 
@@ -6065,7 +6065,7 @@ ___
 
 • **ESAVO_P_ISO_CAM**: = "ESAVO/P/ISO/CAM"
 
-*Defined in [hips-service.ts:2832](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2832)*
+*Defined in [hips-service.ts:2832](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2832)*
 
 ESAVO/P/ISO/CAM
 
@@ -6078,7 +6078,7 @@ ___
 
 • **ESAVO_P_PLANCK_HFI_100**: = "ESAVO/P/PLANCK/HFI-100"
 
-*Defined in [hips-service.ts:2839](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2839)*
+*Defined in [hips-service.ts:2839](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2839)*
 
 ESAVO/P/PLANCK/HFI-100
 
@@ -6091,7 +6091,7 @@ ___
 
 • **ESAVO_P_PLANCK_HFI_143**: = "ESAVO/P/PLANCK/HFI-143"
 
-*Defined in [hips-service.ts:2846](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2846)*
+*Defined in [hips-service.ts:2846](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2846)*
 
 ESAVO/P/PLANCK/HFI-143
 
@@ -6104,7 +6104,7 @@ ___
 
 • **ESAVO_P_PLANCK_HFI_143_smooth**: = "ESAVO/P/PLANCK/HFI-143-smooth"
 
-*Defined in [hips-service.ts:2853](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2853)*
+*Defined in [hips-service.ts:2853](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2853)*
 
 ESAVO/P/PLANCK/HFI-143-smooth
 
@@ -6117,7 +6117,7 @@ ___
 
 • **ESAVO_P_PLANCK_HFI_545**: = "ESAVO/P/PLANCK/HFI-545"
 
-*Defined in [hips-service.ts:2860](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2860)*
+*Defined in [hips-service.ts:2860](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2860)*
 
 ESAVO/P/PLANCK/HFI-545
 
@@ -6130,7 +6130,7 @@ ___
 
 • **ESAVO_P_PLANCK_HFI_857**: = "ESAVO/P/PLANCK/HFI-857"
 
-*Defined in [hips-service.ts:2867](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2867)*
+*Defined in [hips-service.ts:2867](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2867)*
 
 ESAVO/P/PLANCK/HFI-857
 
@@ -6143,7 +6143,7 @@ ___
 
 • **ESAVO_P_PLANCK_LFI_044**: = "ESAVO/P/PLANCK/LFI-044"
 
-*Defined in [hips-service.ts:2874](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2874)*
+*Defined in [hips-service.ts:2874](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2874)*
 
 ESAVO/P/PLANCK/LFI-044
 
@@ -6156,7 +6156,7 @@ ___
 
 • **ESAVO_P_PLANCK_LFI_044_smooth**: = "ESAVO/P/PLANCK/LFI-044-smooth"
 
-*Defined in [hips-service.ts:2881](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2881)*
+*Defined in [hips-service.ts:2881](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2881)*
 
 ESAVO/P/PLANCK/LFI-044-smooth
 
@@ -6169,7 +6169,7 @@ ___
 
 • **ESAVO_P_PLANCK_LFI_070**: = "ESAVO/P/PLANCK/LFI-070"
 
-*Defined in [hips-service.ts:2888](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2888)*
+*Defined in [hips-service.ts:2888](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2888)*
 
 ESAVO/P/PLANCK/LFI-070
 
@@ -6182,7 +6182,7 @@ ___
 
 • **ESAVO_P_PLANCK_LFI_070_smooth**: = "ESAVO/P/PLANCK/LFI-070-smooth"
 
-*Defined in [hips-service.ts:2895](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2895)*
+*Defined in [hips-service.ts:2895](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2895)*
 
 ESAVO/P/PLANCK/LFI-070-smooth
 
@@ -6195,7 +6195,7 @@ ___
 
 • **ESAVO_P_Planck_2015_Pol_Synchrotron**: = "ESAVO/P/Planck-2015-Pol-Synchrotron"
 
-*Defined in [hips-service.ts:2902](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2902)*
+*Defined in [hips-service.ts:2902](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2902)*
 
 ESAVO/P/Planck-2015-Pol-Synchrotron
 
@@ -6208,7 +6208,7 @@ ___
 
 • **ESAVO_P_Spitzer_IRAC134_RGB_bright**: = "ESAVO/P/Spitzer/IRAC134-RGB-bright"
 
-*Defined in [hips-service.ts:2923](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2923)*
+*Defined in [hips-service.ts:2923](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2923)*
 
 ESAVO/P/Spitzer/IRAC134-RGB-bright
 
@@ -6221,7 +6221,7 @@ ___
 
 • **ESAVO_P_Spitzer_IRAC1_bright**: = "ESAVO/P/Spitzer/IRAC1-bright"
 
-*Defined in [hips-service.ts:2909](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2909)*
+*Defined in [hips-service.ts:2909](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2909)*
 
 ESAVO/P/Spitzer/IRAC1-bright
 
@@ -6234,7 +6234,7 @@ ___
 
 • **ESAVO_P_Spitzer_IRAC1_faint**: = "ESAVO/P/Spitzer/IRAC1-faint"
 
-*Defined in [hips-service.ts:2916](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2916)*
+*Defined in [hips-service.ts:2916](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2916)*
 
 ESAVO/P/Spitzer/IRAC1-faint
 
@@ -6247,7 +6247,7 @@ ___
 
 • **ESAVO_P_Spitzer_IRAC2_bright**: = "ESAVO/P/Spitzer/IRAC2-bright"
 
-*Defined in [hips-service.ts:2930](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2930)*
+*Defined in [hips-service.ts:2930](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2930)*
 
 ESAVO/P/Spitzer/IRAC2-bright
 
@@ -6260,7 +6260,7 @@ ___
 
 • **ESAVO_P_Spitzer_IRAC2_faint**: = "ESAVO/P/Spitzer/IRAC2-faint"
 
-*Defined in [hips-service.ts:2937](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2937)*
+*Defined in [hips-service.ts:2937](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2937)*
 
 ESAVO/P/Spitzer/IRAC2-faint
 
@@ -6273,7 +6273,7 @@ ___
 
 • **ESAVO_P_Spitzer_IRAC3_bright**: = "ESAVO/P/Spitzer/IRAC3-bright"
 
-*Defined in [hips-service.ts:2944](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2944)*
+*Defined in [hips-service.ts:2944](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2944)*
 
 ESAVO/P/Spitzer/IRAC3-bright
 
@@ -6286,7 +6286,7 @@ ___
 
 • **ESAVO_P_Spitzer_IRAC3_faint**: = "ESAVO/P/Spitzer/IRAC3-faint"
 
-*Defined in [hips-service.ts:2951](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2951)*
+*Defined in [hips-service.ts:2951](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2951)*
 
 ESAVO/P/Spitzer/IRAC3-faint
 
@@ -6299,7 +6299,7 @@ ___
 
 • **ESAVO_P_Spitzer_IRAC4_bright**: = "ESAVO/P/Spitzer/IRAC4-bright"
 
-*Defined in [hips-service.ts:2958](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2958)*
+*Defined in [hips-service.ts:2958](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2958)*
 
 ESAVO/P/Spitzer/IRAC4-bright
 
@@ -6312,7 +6312,7 @@ ___
 
 • **ESAVO_P_Spitzer_IRAC4_faint**: = "ESAVO/P/Spitzer/IRAC4-faint"
 
-*Defined in [hips-service.ts:2965](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2965)*
+*Defined in [hips-service.ts:2965](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2965)*
 
 ESAVO/P/Spitzer/IRAC4-faint
 
@@ -6325,7 +6325,7 @@ ___
 
 • **ESAVO_P_XMM_EPIC_RGB**: = "ESAVO/P/XMM/EPIC-RGB"
 
-*Defined in [hips-service.ts:2972](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2972)*
+*Defined in [hips-service.ts:2972](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2972)*
 
 ESAVO/P/XMM/EPIC-RGB
 
@@ -6338,7 +6338,7 @@ ___
 
 • **IAPS_P_Ceres_Dawn_FC_CE_LAMO_CLR**: = "IAPS/P/Ceres/Dawn/FC-CE-LAMO-CLR"
 
-*Defined in [hips-service.ts:2979](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2979)*
+*Defined in [hips-service.ts:2979](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2979)*
 
 IAPS/P/Ceres/Dawn/FC-CE-LAMO-CLR
 
@@ -6351,7 +6351,7 @@ ___
 
 • **IPAC_P_GLIMPSE360**: = "IPAC/P/GLIMPSE360"
 
-*Defined in [hips-service.ts:2986](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2986)*
+*Defined in [hips-service.ts:2986](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2986)*
 
 IPAC/P/GLIMPSE360
 
@@ -6364,7 +6364,7 @@ ___
 
 • **JAXA_P_AKARI_IRC_RGB**: = "JAXA/P/AKARI/IRC/RGB"
 
-*Defined in [hips-service.ts:2993](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L2993)*
+*Defined in [hips-service.ts:2993](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L2993)*
 
 JAXA/P/AKARI/IRC/RGB
 
@@ -6377,7 +6377,7 @@ ___
 
 • **JAXA_P_ASCA_SIS**: = "JAXA/P/ASCA_SIS"
 
-*Defined in [hips-service.ts:3000](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3000)*
+*Defined in [hips-service.ts:3000](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3000)*
 
 JAXA/P/ASCA_SIS
 
@@ -6390,7 +6390,7 @@ ___
 
 • **JAXA_P_CONSTELLATIONS1**: = "JAXA/P/CONSTELLATIONS1"
 
-*Defined in [hips-service.ts:3007](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3007)*
+*Defined in [hips-service.ts:3007](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3007)*
 
 JAXA/P/CONSTELLATIONS1
 
@@ -6403,7 +6403,7 @@ ___
 
 • **JAXA_P_CONSTELLATIONS2**: = "JAXA/P/CONSTELLATIONS2"
 
-*Defined in [hips-service.ts:3014](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3014)*
+*Defined in [hips-service.ts:3014](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3014)*
 
 JAXA/P/CONSTELLATIONS2
 
@@ -6416,7 +6416,7 @@ ___
 
 • **JAXA_P_CONSTELLATIONS3**: = "JAXA/P/CONSTELLATIONS3"
 
-*Defined in [hips-service.ts:3021](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3021)*
+*Defined in [hips-service.ts:3021](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3021)*
 
 JAXA/P/CONSTELLATIONS3
 
@@ -6429,7 +6429,7 @@ ___
 
 • **JAXA_P_CONSTELLATIONS4**: = "JAXA/P/CONSTELLATIONS4"
 
-*Defined in [hips-service.ts:3028](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3028)*
+*Defined in [hips-service.ts:3028](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3028)*
 
 JAXA/P/CONSTELLATIONS4
 
@@ -6442,7 +6442,7 @@ ___
 
 • **JAXA_P_CONSTELLATIONS5**: = "JAXA/P/CONSTELLATIONS5"
 
-*Defined in [hips-service.ts:3035](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3035)*
+*Defined in [hips-service.ts:3035](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3035)*
 
 JAXA/P/CONSTELLATIONS5
 
@@ -6455,7 +6455,7 @@ ___
 
 • **JAXA_P_CONSTELLATIONS6**: = "JAXA/P/CONSTELLATIONS6"
 
-*Defined in [hips-service.ts:3042](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3042)*
+*Defined in [hips-service.ts:3042](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3042)*
 
 JAXA/P/CONSTELLATIONS6
 
@@ -6468,7 +6468,7 @@ ___
 
 • **JAXA_P_HITOMI_SXS**: = "JAXA/P/HITOMI-SXS"
 
-*Defined in [hips-service.ts:3049](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3049)*
+*Defined in [hips-service.ts:3049](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3049)*
 
 JAXA/P/HITOMI-SXS
 
@@ -6481,7 +6481,7 @@ ___
 
 • **JAXA_P_MAXI_GSC**: = "JAXA/P/MAXI/GSC"
 
-*Defined in [hips-service.ts:3056](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3056)*
+*Defined in [hips-service.ts:3056](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3056)*
 
 JAXA/P/MAXI/GSC
 
@@ -6494,7 +6494,7 @@ ___
 
 • **JAXA_P_MAXI_SSC**: = "JAXA/P/MAXI/SSC"
 
-*Defined in [hips-service.ts:3063](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3063)*
+*Defined in [hips-service.ts:3063](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3063)*
 
 JAXA/P/MAXI/SSC
 
@@ -6507,7 +6507,7 @@ ___
 
 • **JAXA_P_SUZAKU**: = "JAXA/P/SUZAKU"
 
-*Defined in [hips-service.ts:3070](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3070)*
+*Defined in [hips-service.ts:3070](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3070)*
 
 JAXA/P/SUZAKU
 
@@ -6520,7 +6520,7 @@ ___
 
 • **JAXA_P_SWIFT_BAT_FLUX**: = "JAXA/P/SWIFT_BAT_FLUX"
 
-*Defined in [hips-service.ts:3077](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3077)*
+*Defined in [hips-service.ts:3077](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3077)*
 
 JAXA/P/SWIFT_BAT_FLUX
 
@@ -6533,7 +6533,7 @@ ___
 
 • **JAXA_P_bice**: = "JAXA/P/bice"
 
-*Defined in [hips-service.ts:3084](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3084)*
+*Defined in [hips-service.ts:3084](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3084)*
 
 JAXA/P/bice
 
@@ -6546,7 +6546,7 @@ ___
 
 • **cds_P_DES_DR1_ColorIRG**: = "cds/P/DES-DR1/ColorIRG"
 
-*Defined in [hips-service.ts:3091](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3091)*
+*Defined in [hips-service.ts:3091](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3091)*
 
 cds/P/DES-DR1/ColorIRG
 
@@ -6559,7 +6559,7 @@ ___
 
 • **cxc_harvard_edu_P_cda_hips_allsky_rgb**: = "cxc.harvard.edu/P/cda/hips/allsky/rgb"
 
-*Defined in [hips-service.ts:3098](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3098)*
+*Defined in [hips-service.ts:3098](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3098)*
 
 cxc.harvard.edu/P/cda/hips/allsky/rgb
 
@@ -6572,7 +6572,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_cnt_B**: = "nasa.heasarc/P/Swift/UVOT/cnt_B"
 
-*Defined in [hips-service.ts:3105](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3105)*
+*Defined in [hips-service.ts:3105](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3105)*
 
 nasa.heasarc/P/Swift/UVOT/cnt_B
 
@@ -6585,7 +6585,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_cnt_U**: = "nasa.heasarc/P/Swift/UVOT/cnt_U"
 
-*Defined in [hips-service.ts:3112](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3112)*
+*Defined in [hips-service.ts:3112](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3112)*
 
 nasa.heasarc/P/Swift/UVOT/cnt_U
 
@@ -6598,7 +6598,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_cnt_UVM2**: = "nasa.heasarc/P/Swift/UVOT/cnt_UVM2"
 
-*Defined in [hips-service.ts:3119](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3119)*
+*Defined in [hips-service.ts:3119](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3119)*
 
 nasa.heasarc/P/Swift/UVOT/cnt_UVM2
 
@@ -6611,7 +6611,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_cnt_UVW1**: = "nasa.heasarc/P/Swift/UVOT/cnt_UVW1"
 
-*Defined in [hips-service.ts:3126](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3126)*
+*Defined in [hips-service.ts:3126](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3126)*
 
 nasa.heasarc/P/Swift/UVOT/cnt_UVW1
 
@@ -6624,7 +6624,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_cnt_UVW2**: = "nasa.heasarc/P/Swift/UVOT/cnt_UVW2"
 
-*Defined in [hips-service.ts:3133](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3133)*
+*Defined in [hips-service.ts:3133](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3133)*
 
 nasa.heasarc/P/Swift/UVOT/cnt_UVW2
 
@@ -6637,7 +6637,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_cnt_V**: = "nasa.heasarc/P/Swift/UVOT/cnt_V"
 
-*Defined in [hips-service.ts:3140](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3140)*
+*Defined in [hips-service.ts:3140](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3140)*
 
 nasa.heasarc/P/Swift/UVOT/cnt_V
 
@@ -6650,7 +6650,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_cnt_WHITE**: = "nasa.heasarc/P/Swift/UVOT/cnt_WHITE"
 
-*Defined in [hips-service.ts:3147](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3147)*
+*Defined in [hips-service.ts:3147](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3147)*
 
 nasa.heasarc/P/Swift/UVOT/cnt_WHITE
 
@@ -6663,7 +6663,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_exp_B**: = "nasa.heasarc/P/Swift/UVOT/exp_B"
 
-*Defined in [hips-service.ts:3154](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3154)*
+*Defined in [hips-service.ts:3154](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3154)*
 
 nasa.heasarc/P/Swift/UVOT/exp_B
 
@@ -6676,7 +6676,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_exp_U**: = "nasa.heasarc/P/Swift/UVOT/exp_U"
 
-*Defined in [hips-service.ts:3161](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3161)*
+*Defined in [hips-service.ts:3161](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3161)*
 
 nasa.heasarc/P/Swift/UVOT/exp_U
 
@@ -6689,7 +6689,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_exp_UVM2**: = "nasa.heasarc/P/Swift/UVOT/exp_UVM2"
 
-*Defined in [hips-service.ts:3168](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3168)*
+*Defined in [hips-service.ts:3168](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3168)*
 
 nasa.heasarc/P/Swift/UVOT/exp_UVM2
 
@@ -6702,7 +6702,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_exp_UVW1**: = "nasa.heasarc/P/Swift/UVOT/exp_UVW1"
 
-*Defined in [hips-service.ts:3175](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3175)*
+*Defined in [hips-service.ts:3175](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3175)*
 
 nasa.heasarc/P/Swift/UVOT/exp_UVW1
 
@@ -6715,7 +6715,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_exp_UVW2**: = "nasa.heasarc/P/Swift/UVOT/exp_UVW2"
 
-*Defined in [hips-service.ts:3182](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3182)*
+*Defined in [hips-service.ts:3182](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3182)*
 
 nasa.heasarc/P/Swift/UVOT/exp_UVW2
 
@@ -6728,7 +6728,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_exp_V**: = "nasa.heasarc/P/Swift/UVOT/exp_V"
 
-*Defined in [hips-service.ts:3189](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3189)*
+*Defined in [hips-service.ts:3189](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3189)*
 
 nasa.heasarc/P/Swift/UVOT/exp_V
 
@@ -6741,7 +6741,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_exp_WHITE**: = "nasa.heasarc/P/Swift/UVOT/exp_WHITE"
 
-*Defined in [hips-service.ts:3196](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3196)*
+*Defined in [hips-service.ts:3196](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3196)*
 
 nasa.heasarc/P/Swift/UVOT/exp_WHITE
 
@@ -6754,7 +6754,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_int_B**: = "nasa.heasarc/P/Swift/UVOT/int_B"
 
-*Defined in [hips-service.ts:3203](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3203)*
+*Defined in [hips-service.ts:3203](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3203)*
 
 nasa.heasarc/P/Swift/UVOT/int_B
 
@@ -6767,7 +6767,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_int_UVM2**: = "nasa.heasarc/P/Swift/UVOT/int_UVM2"
 
-*Defined in [hips-service.ts:3210](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3210)*
+*Defined in [hips-service.ts:3210](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3210)*
 
 nasa.heasarc/P/Swift/UVOT/int_UVM2
 
@@ -6780,7 +6780,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_int_UVW1**: = "nasa.heasarc/P/Swift/UVOT/int_UVW1"
 
-*Defined in [hips-service.ts:3217](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3217)*
+*Defined in [hips-service.ts:3217](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3217)*
 
 nasa.heasarc/P/Swift/UVOT/int_UVW1
 
@@ -6793,7 +6793,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_int_UVW2**: = "nasa.heasarc/P/Swift/UVOT/int_UVW2"
 
-*Defined in [hips-service.ts:3224](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3224)*
+*Defined in [hips-service.ts:3224](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3224)*
 
 nasa.heasarc/P/Swift/UVOT/int_UVW2
 
@@ -6806,7 +6806,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_int_V**: = "nasa.heasarc/P/Swift/UVOT/int_V"
 
-*Defined in [hips-service.ts:3231](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3231)*
+*Defined in [hips-service.ts:3231](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3231)*
 
 nasa.heasarc/P/Swift/UVOT/int_V
 
@@ -6819,7 +6819,7 @@ ___
 
 • **nasa_heasarc_P_Swift_UVOT_int_WHITE**: = "nasa.heasarc/P/Swift/UVOT/int_WHITE"
 
-*Defined in [hips-service.ts:3238](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3238)*
+*Defined in [hips-service.ts:3238](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3238)*
 
 nasa.heasarc/P/Swift/UVOT/int_WHITE
 
@@ -6832,7 +6832,7 @@ ___
 
 • **ov_gso_P_AKARI_160**: = "ov-gso/P/AKARI/160"
 
-*Defined in [hips-service.ts:3246](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3246)*
+*Defined in [hips-service.ts:3246](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3246)*
 
 ov-gso/P/AKARI/160
 
@@ -6846,7 +6846,7 @@ ___
 
 • **ov_gso_P_AKARI_160_SIGMA**: = "ov-gso/P/AKARI/160/SIGMA"
 
-*Defined in [hips-service.ts:3254](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3254)*
+*Defined in [hips-service.ts:3254](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3254)*
 
 ov-gso/P/AKARI/160/SIGMA
 
@@ -6860,7 +6860,7 @@ ___
 
 • **ov_gso_P_AKARI_65**: = "ov-gso/P/AKARI/65"
 
-*Defined in [hips-service.ts:3262](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3262)*
+*Defined in [hips-service.ts:3262](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3262)*
 
 ov-gso/P/AKARI/65
 
@@ -6874,7 +6874,7 @@ ___
 
 • **ov_gso_P_AKARI_65_SIGMA**: = "ov-gso/P/AKARI/65/SIGMA"
 
-*Defined in [hips-service.ts:3270](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3270)*
+*Defined in [hips-service.ts:3270](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3270)*
 
 ov-gso/P/AKARI/65/SIGMA
 
@@ -6888,7 +6888,7 @@ ___
 
 • **ov_gso_P_AKARI_WideL**: = "ov-gso/P/AKARI/WideL"
 
-*Defined in [hips-service.ts:3278](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3278)*
+*Defined in [hips-service.ts:3278](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3278)*
 
 ov-gso/P/AKARI/WideL
 
@@ -6902,7 +6902,7 @@ ___
 
 • **ov_gso_P_AKARI_WideL_SIGMA**: = "ov-gso/P/AKARI/WideL/SIGMA"
 
-*Defined in [hips-service.ts:3286](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3286)*
+*Defined in [hips-service.ts:3286](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3286)*
 
 ov-gso/P/AKARI/WideL/SIGMA
 
@@ -6916,7 +6916,7 @@ ___
 
 • **ov_gso_P_AKARI_WideS**: = "ov-gso/P/AKARI/WideS"
 
-*Defined in [hips-service.ts:3294](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3294)*
+*Defined in [hips-service.ts:3294](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3294)*
 
 ov-gso/P/AKARI/WideS
 
@@ -6930,7 +6930,7 @@ ___
 
 • **ov_gso_P_AKARI_WideS_SIGMA**: = "ov-gso/P/AKARI/WideS/SIGMA"
 
-*Defined in [hips-service.ts:3302](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3302)*
+*Defined in [hips-service.ts:3302](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3302)*
 
 ov-gso/P/AKARI/WideS/SIGMA
 
@@ -6944,7 +6944,7 @@ ___
 
 • **ov_gso_P_AMIGPS**: = "ov-gso/P/AMIGPS"
 
-*Defined in [hips-service.ts:3310](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3310)*
+*Defined in [hips-service.ts:3310](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3310)*
 
 ov-gso/P/AMIGPS
 
@@ -6958,7 +6958,7 @@ ___
 
 • **ov_gso_P_AMIGPS_SIGMA**: = "ov-gso/P/AMIGPS/SIGMA"
 
-*Defined in [hips-service.ts:3318](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3318)*
+*Defined in [hips-service.ts:3318](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3318)*
 
 ov-gso/P/AMIGPS/SIGMA
 
@@ -6972,7 +6972,7 @@ ___
 
 • **ov_gso_P_Abell1763_irac1**: = "ov-gso/P/Abell1763/irac1"
 
-*Defined in [hips-service.ts:3325](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3325)*
+*Defined in [hips-service.ts:3325](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3325)*
 
 ov-gso/P/Abell1763/irac1
 
@@ -6985,7 +6985,7 @@ ___
 
 • **ov_gso_P_Abell1763_irac2**: = "ov-gso/P/Abell1763/irac2"
 
-*Defined in [hips-service.ts:3332](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3332)*
+*Defined in [hips-service.ts:3332](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3332)*
 
 ov-gso/P/Abell1763/irac2
 
@@ -6998,7 +6998,7 @@ ___
 
 • **ov_gso_P_Abell1763_irac3**: = "ov-gso/P/Abell1763/irac3"
 
-*Defined in [hips-service.ts:3339](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3339)*
+*Defined in [hips-service.ts:3339](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3339)*
 
 ov-gso/P/Abell1763/irac3
 
@@ -7011,7 +7011,7 @@ ___
 
 • **ov_gso_P_Abell1763_irac4**: = "ov-gso/P/Abell1763/irac4"
 
-*Defined in [hips-service.ts:3346](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3346)*
+*Defined in [hips-service.ts:3346](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3346)*
 
 ov-gso/P/Abell1763/irac4
 
@@ -7024,7 +7024,7 @@ ___
 
 • **ov_gso_P_Abell1763_mips1**: = "ov-gso/P/Abell1763/mips1"
 
-*Defined in [hips-service.ts:3353](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3353)*
+*Defined in [hips-service.ts:3353](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3353)*
 
 ov-gso/P/Abell1763/mips1
 
@@ -7037,7 +7037,7 @@ ___
 
 • **ov_gso_P_Abell1763_mips2**: = "ov-gso/P/Abell1763/mips2"
 
-*Defined in [hips-service.ts:3360](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3360)*
+*Defined in [hips-service.ts:3360](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3360)*
 
 ov-gso/P/Abell1763/mips2
 
@@ -7050,7 +7050,7 @@ ___
 
 • **ov_gso_P_Abell1763_mips3**: = "ov-gso/P/Abell1763/mips3"
 
-*Defined in [hips-service.ts:3367](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3367)*
+*Defined in [hips-service.ts:3367](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3367)*
 
 ov-gso/P/Abell1763/mips3
 
@@ -7063,7 +7063,7 @@ ___
 
 • **ov_gso_P_BAT_100_150keV**: = "ov-gso/P/BAT/100-150keV"
 
-*Defined in [hips-service.ts:3374](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3374)*
+*Defined in [hips-service.ts:3374](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3374)*
 
 ov-gso/P/BAT/100-150keV
 
@@ -7076,7 +7076,7 @@ ___
 
 • **ov_gso_P_BAT_14_20keV**: = "ov-gso/P/BAT/14-20keV"
 
-*Defined in [hips-service.ts:3381](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3381)*
+*Defined in [hips-service.ts:3381](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3381)*
 
 ov-gso/P/BAT/14-20keV
 
@@ -7089,7 +7089,7 @@ ___
 
 • **ov_gso_P_BAT_150_195keV**: = "ov-gso/P/BAT/150-195keV"
 
-*Defined in [hips-service.ts:3388](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3388)*
+*Defined in [hips-service.ts:3388](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3388)*
 
 ov-gso/P/BAT/150-195keV
 
@@ -7102,7 +7102,7 @@ ___
 
 • **ov_gso_P_BAT_20_24keV**: = "ov-gso/P/BAT/20-24keV"
 
-*Defined in [hips-service.ts:3395](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3395)*
+*Defined in [hips-service.ts:3395](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3395)*
 
 ov-gso/P/BAT/20-24keV
 
@@ -7115,7 +7115,7 @@ ___
 
 • **ov_gso_P_BAT_24_35keV**: = "ov-gso/P/BAT/24-35keV"
 
-*Defined in [hips-service.ts:3402](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3402)*
+*Defined in [hips-service.ts:3402](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3402)*
 
 ov-gso/P/BAT/24-35keV
 
@@ -7128,7 +7128,7 @@ ___
 
 • **ov_gso_P_BAT_35_50keV**: = "ov-gso/P/BAT/35-50keV"
 
-*Defined in [hips-service.ts:3409](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3409)*
+*Defined in [hips-service.ts:3409](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3409)*
 
 ov-gso/P/BAT/35-50keV
 
@@ -7141,7 +7141,7 @@ ___
 
 • **ov_gso_P_BAT_50_75keV**: = "ov-gso/P/BAT/50-75keV"
 
-*Defined in [hips-service.ts:3416](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3416)*
+*Defined in [hips-service.ts:3416](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3416)*
 
 ov-gso/P/BAT/50-75keV
 
@@ -7154,7 +7154,7 @@ ___
 
 • **ov_gso_P_BAT_75_100keV**: = "ov-gso/P/BAT/75-100keV"
 
-*Defined in [hips-service.ts:3423](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3423)*
+*Defined in [hips-service.ts:3423](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3423)*
 
 ov-gso/P/BAT/75-100keV
 
@@ -7167,7 +7167,7 @@ ___
 
 • **ov_gso_P_BLAST_250**: = "ov-gso/P/BLAST/250"
 
-*Defined in [hips-service.ts:3431](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3431)*
+*Defined in [hips-service.ts:3431](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3431)*
 
 ov-gso/P/BLAST/250
 
@@ -7181,7 +7181,7 @@ ___
 
 • **ov_gso_P_BLAST_250_SIGMA**: = "ov-gso/P/BLAST/250/SIGMA"
 
-*Defined in [hips-service.ts:3439](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3439)*
+*Defined in [hips-service.ts:3439](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3439)*
 
 ov-gso/P/BLAST/250/SIGMA
 
@@ -7195,7 +7195,7 @@ ___
 
 • **ov_gso_P_BLAST_350**: = "ov-gso/P/BLAST/350"
 
-*Defined in [hips-service.ts:3447](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3447)*
+*Defined in [hips-service.ts:3447](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3447)*
 
 ov-gso/P/BLAST/350
 
@@ -7209,7 +7209,7 @@ ___
 
 • **ov_gso_P_BLAST_350_SIGMA**: = "ov-gso/P/BLAST/350/SIGMA"
 
-*Defined in [hips-service.ts:3455](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3455)*
+*Defined in [hips-service.ts:3455](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3455)*
 
 ov-gso/P/BLAST/350/SIGMA
 
@@ -7223,7 +7223,7 @@ ___
 
 • **ov_gso_P_BLAST_500**: = "ov-gso/P/BLAST/500"
 
-*Defined in [hips-service.ts:3463](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3463)*
+*Defined in [hips-service.ts:3463](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3463)*
 
 ov-gso/P/BLAST/500
 
@@ -7237,7 +7237,7 @@ ___
 
 • **ov_gso_P_BLAST_500_SIGMA**: = "ov-gso/P/BLAST/500/SIGMA"
 
-*Defined in [hips-service.ts:3471](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3471)*
+*Defined in [hips-service.ts:3471](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3471)*
 
 ov-gso/P/BLAST/500/SIGMA
 
@@ -7251,7 +7251,7 @@ ___
 
 • **ov_gso_P_BOLOCAM**: = "ov-gso/P/BOLOCAM"
 
-*Defined in [hips-service.ts:3478](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3478)*
+*Defined in [hips-service.ts:3478](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3478)*
 
 ov-gso/P/BOLOCAM
 
@@ -7264,7 +7264,7 @@ ___
 
 • **ov_gso_P_BOLOCAM_v2_SIGMA**: = "ov-gso/P/BOLOCAM/v2/SIGMA"
 
-*Defined in [hips-service.ts:3485](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3485)*
+*Defined in [hips-service.ts:3485](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3485)*
 
 ov-gso/P/BOLOCAM/v2/SIGMA
 
@@ -7277,7 +7277,7 @@ ___
 
 • **ov_gso_P_BOLOCAM_v2p1_SIGMA**: = "ov-gso/P/BOLOCAM/v2p1/SIGMA"
 
-*Defined in [hips-service.ts:3492](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3492)*
+*Defined in [hips-service.ts:3492](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3492)*
 
 ov-gso/P/BOLOCAM/v2p1/SIGMA
 
@@ -7290,7 +7290,7 @@ ___
 
 • **ov_gso_P_C2D_irac1**: = "ov-gso/P/C2D/irac1"
 
-*Defined in [hips-service.ts:3499](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3499)*
+*Defined in [hips-service.ts:3499](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3499)*
 
 ov-gso/P/C2D/irac1
 
@@ -7303,7 +7303,7 @@ ___
 
 • **ov_gso_P_C2D_irac2**: = "ov-gso/P/C2D/irac2"
 
-*Defined in [hips-service.ts:3506](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3506)*
+*Defined in [hips-service.ts:3506](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3506)*
 
 ov-gso/P/C2D/irac2
 
@@ -7316,7 +7316,7 @@ ___
 
 • **ov_gso_P_C2D_irac3**: = "ov-gso/P/C2D/irac3"
 
-*Defined in [hips-service.ts:3513](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3513)*
+*Defined in [hips-service.ts:3513](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3513)*
 
 ov-gso/P/C2D/irac3
 
@@ -7329,7 +7329,7 @@ ___
 
 • **ov_gso_P_C2D_irac4**: = "ov-gso/P/C2D/irac4"
 
-*Defined in [hips-service.ts:3520](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3520)*
+*Defined in [hips-service.ts:3520](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3520)*
 
 ov-gso/P/C2D/irac4
 
@@ -7342,7 +7342,7 @@ ___
 
 • **ov_gso_P_C2D_mips1**: = "ov-gso/P/C2D/mips1"
 
-*Defined in [hips-service.ts:3527](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3527)*
+*Defined in [hips-service.ts:3527](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3527)*
 
 ov-gso/P/C2D/mips1
 
@@ -7355,7 +7355,7 @@ ___
 
 • **ov_gso_P_C2D_mips2**: = "ov-gso/P/C2D/mips2"
 
-*Defined in [hips-service.ts:3534](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3534)*
+*Defined in [hips-service.ts:3534](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3534)*
 
 ov-gso/P/C2D/mips2
 
@@ -7368,7 +7368,7 @@ ___
 
 • **ov_gso_P_C2D_mips3**: = "ov-gso/P/C2D/mips3"
 
-*Defined in [hips-service.ts:3541](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3541)*
+*Defined in [hips-service.ts:3541](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3541)*
 
 ov-gso/P/C2D/mips3
 
@@ -7381,7 +7381,7 @@ ___
 
 • **ov_gso_P_CC_250**: = "ov-gso/P/CC/250"
 
-*Defined in [hips-service.ts:3549](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3549)*
+*Defined in [hips-service.ts:3549](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3549)*
 
 ov-gso/P/CC/250
 
@@ -7395,7 +7395,7 @@ ___
 
 • **ov_gso_P_CC_250_SIGMA**: = "ov-gso/P/CC/250/SIGMA"
 
-*Defined in [hips-service.ts:3557](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3557)*
+*Defined in [hips-service.ts:3557](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3557)*
 
 ov-gso/P/CC/250/SIGMA
 
@@ -7409,7 +7409,7 @@ ___
 
 • **ov_gso_P_CC_350**: = "ov-gso/P/CC/350"
 
-*Defined in [hips-service.ts:3565](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3565)*
+*Defined in [hips-service.ts:3565](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3565)*
 
 ov-gso/P/CC/350
 
@@ -7423,7 +7423,7 @@ ___
 
 • **ov_gso_P_CC_350_SIGMA**: = "ov-gso/P/CC/350/SIGMA"
 
-*Defined in [hips-service.ts:3573](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3573)*
+*Defined in [hips-service.ts:3573](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3573)*
 
 ov-gso/P/CC/350/SIGMA
 
@@ -7437,7 +7437,7 @@ ___
 
 • **ov_gso_P_CC_500**: = "ov-gso/P/CC/500"
 
-*Defined in [hips-service.ts:3581](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3581)*
+*Defined in [hips-service.ts:3581](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3581)*
 
 ov-gso/P/CC/500
 
@@ -7451,7 +7451,7 @@ ___
 
 • **ov_gso_P_CC_500_SIGMA**: = "ov-gso/P/CC/500/SIGMA"
 
-*Defined in [hips-service.ts:3589](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3589)*
+*Defined in [hips-service.ts:3589](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3589)*
 
 ov-gso/P/CC/500/SIGMA
 
@@ -7465,7 +7465,7 @@ ___
 
 • **ov_gso_P_CGPS_VGPS**: = "ov-gso/P/CGPS/VGPS"
 
-*Defined in [hips-service.ts:3597](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3597)*
+*Defined in [hips-service.ts:3597](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3597)*
 
 ov-gso/P/CGPS/VGPS
 
@@ -7479,7 +7479,7 @@ ___
 
 • **ov_gso_P_CHIPASS**: = "ov-gso/P/CHIPASS"
 
-*Defined in [hips-service.ts:3605](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3605)*
+*Defined in [hips-service.ts:3605](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3605)*
 
 ov-gso/P/CHIPASS
 
@@ -7493,7 +7493,7 @@ ___
 
 • **ov_gso_P_CLASH_irac1**: = "ov-gso/P/CLASH/irac1"
 
-*Defined in [hips-service.ts:3612](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3612)*
+*Defined in [hips-service.ts:3612](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3612)*
 
 ov-gso/P/CLASH/irac1
 
@@ -7506,7 +7506,7 @@ ___
 
 • **ov_gso_P_CLASH_irac2**: = "ov-gso/P/CLASH/irac2"
 
-*Defined in [hips-service.ts:3619](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3619)*
+*Defined in [hips-service.ts:3619](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3619)*
 
 ov-gso/P/CLASH/irac2
 
@@ -7519,7 +7519,7 @@ ___
 
 • **ov_gso_P_CLASH_irac3**: = "ov-gso/P/CLASH/irac3"
 
-*Defined in [hips-service.ts:3626](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3626)*
+*Defined in [hips-service.ts:3626](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3626)*
 
 ov-gso/P/CLASH/irac3
 
@@ -7532,7 +7532,7 @@ ___
 
 • **ov_gso_P_CLASH_irac4**: = "ov-gso/P/CLASH/irac4"
 
-*Defined in [hips-service.ts:3633](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3633)*
+*Defined in [hips-service.ts:3633](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3633)*
 
 ov-gso/P/CLASH/irac4
 
@@ -7545,7 +7545,7 @@ ___
 
 • **ov_gso_P_COMPTEL**: = "ov-gso/P/COMPTEL"
 
-*Defined in [hips-service.ts:3640](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3640)*
+*Defined in [hips-service.ts:3640](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3640)*
 
 ov-gso/P/COMPTEL
 
@@ -7558,7 +7558,7 @@ ___
 
 • **ov_gso_P_Cygnus_irac1**: = "ov-gso/P/Cygnus/irac1"
 
-*Defined in [hips-service.ts:3647](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3647)*
+*Defined in [hips-service.ts:3647](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3647)*
 
 ov-gso/P/Cygnus/irac1
 
@@ -7571,7 +7571,7 @@ ___
 
 • **ov_gso_P_Cygnus_irac2**: = "ov-gso/P/Cygnus/irac2"
 
-*Defined in [hips-service.ts:3654](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3654)*
+*Defined in [hips-service.ts:3654](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3654)*
 
 ov-gso/P/Cygnus/irac2
 
@@ -7584,7 +7584,7 @@ ___
 
 • **ov_gso_P_Cygnus_irac3**: = "ov-gso/P/Cygnus/irac3"
 
-*Defined in [hips-service.ts:3661](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3661)*
+*Defined in [hips-service.ts:3661](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3661)*
 
 ov-gso/P/Cygnus/irac3
 
@@ -7597,7 +7597,7 @@ ___
 
 • **ov_gso_P_Cygnus_irac4**: = "ov-gso/P/Cygnus/irac4"
 
-*Defined in [hips-service.ts:3668](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3668)*
+*Defined in [hips-service.ts:3668](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3668)*
 
 ov-gso/P/Cygnus/irac4
 
@@ -7610,7 +7610,7 @@ ___
 
 • **ov_gso_P_Cygnus_mips1**: = "ov-gso/P/Cygnus/mips1"
 
-*Defined in [hips-service.ts:3675](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3675)*
+*Defined in [hips-service.ts:3675](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3675)*
 
 ov-gso/P/Cygnus/mips1
 
@@ -7623,7 +7623,7 @@ ___
 
 • **ov_gso_P_DEBRIS_250**: = "ov-gso/P/DEBRIS/250"
 
-*Defined in [hips-service.ts:3683](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3683)*
+*Defined in [hips-service.ts:3683](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3683)*
 
 ov-gso/P/DEBRIS/250
 
@@ -7637,7 +7637,7 @@ ___
 
 • **ov_gso_P_DEBRIS_250_SIGMA**: = "ov-gso/P/DEBRIS/250/SIGMA"
 
-*Defined in [hips-service.ts:3691](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3691)*
+*Defined in [hips-service.ts:3691](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3691)*
 
 ov-gso/P/DEBRIS/250/SIGMA
 
@@ -7651,7 +7651,7 @@ ___
 
 • **ov_gso_P_DEBRIS_350**: = "ov-gso/P/DEBRIS/350"
 
-*Defined in [hips-service.ts:3699](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3699)*
+*Defined in [hips-service.ts:3699](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3699)*
 
 ov-gso/P/DEBRIS/350
 
@@ -7665,7 +7665,7 @@ ___
 
 • **ov_gso_P_DEBRIS_350_SIGMA**: = "ov-gso/P/DEBRIS/350/SIGMA"
 
-*Defined in [hips-service.ts:3707](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3707)*
+*Defined in [hips-service.ts:3707](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3707)*
 
 ov-gso/P/DEBRIS/350/SIGMA
 
@@ -7679,7 +7679,7 @@ ___
 
 • **ov_gso_P_DEBRIS_500**: = "ov-gso/P/DEBRIS/500"
 
-*Defined in [hips-service.ts:3715](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3715)*
+*Defined in [hips-service.ts:3715](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3715)*
 
 ov-gso/P/DEBRIS/500
 
@@ -7693,7 +7693,7 @@ ___
 
 • **ov_gso_P_DEBRIS_500_SIGMA**: = "ov-gso/P/DEBRIS/500/SIGMA"
 
-*Defined in [hips-service.ts:3723](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3723)*
+*Defined in [hips-service.ts:3723](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3723)*
 
 ov-gso/P/DEBRIS/500/SIGMA
 
@@ -7707,7 +7707,7 @@ ___
 
 • **ov_gso_P_DIRBE_1**: = "ov-gso/P/DIRBE/1"
 
-*Defined in [hips-service.ts:3731](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3731)*
+*Defined in [hips-service.ts:3731](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3731)*
 
 ov-gso/P/DIRBE/1
 
@@ -7721,7 +7721,7 @@ ___
 
 • **ov_gso_P_DIRBE_10**: = "ov-gso/P/DIRBE/10"
 
-*Defined in [hips-service.ts:3747](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3747)*
+*Defined in [hips-service.ts:3747](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3747)*
 
 ov-gso/P/DIRBE/10
 
@@ -7735,7 +7735,7 @@ ___
 
 • **ov_gso_P_DIRBE_10_SIGMA**: = "ov-gso/P/DIRBE/10/SIGMA"
 
-*Defined in [hips-service.ts:3755](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3755)*
+*Defined in [hips-service.ts:3755](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3755)*
 
 ov-gso/P/DIRBE/10/SIGMA
 
@@ -7749,7 +7749,7 @@ ___
 
 • **ov_gso_P_DIRBE_1_SIGMA**: = "ov-gso/P/DIRBE/1/SIGMA"
 
-*Defined in [hips-service.ts:3739](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3739)*
+*Defined in [hips-service.ts:3739](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3739)*
 
 ov-gso/P/DIRBE/1/SIGMA
 
@@ -7763,7 +7763,7 @@ ___
 
 • **ov_gso_P_DIRBE_2**: = "ov-gso/P/DIRBE/2"
 
-*Defined in [hips-service.ts:3763](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3763)*
+*Defined in [hips-service.ts:3763](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3763)*
 
 ov-gso/P/DIRBE/2
 
@@ -7777,7 +7777,7 @@ ___
 
 • **ov_gso_P_DIRBE_2_SIGMA**: = "ov-gso/P/DIRBE/2/SIGMA"
 
-*Defined in [hips-service.ts:3771](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3771)*
+*Defined in [hips-service.ts:3771](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3771)*
 
 ov-gso/P/DIRBE/2/SIGMA
 
@@ -7791,7 +7791,7 @@ ___
 
 • **ov_gso_P_DIRBE_3**: = "ov-gso/P/DIRBE/3"
 
-*Defined in [hips-service.ts:3779](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3779)*
+*Defined in [hips-service.ts:3779](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3779)*
 
 ov-gso/P/DIRBE/3
 
@@ -7805,7 +7805,7 @@ ___
 
 • **ov_gso_P_DIRBE_3_SIGMA**: = "ov-gso/P/DIRBE/3/SIGMA"
 
-*Defined in [hips-service.ts:3787](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3787)*
+*Defined in [hips-service.ts:3787](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3787)*
 
 ov-gso/P/DIRBE/3/SIGMA
 
@@ -7819,7 +7819,7 @@ ___
 
 • **ov_gso_P_DIRBE_4**: = "ov-gso/P/DIRBE/4"
 
-*Defined in [hips-service.ts:3795](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3795)*
+*Defined in [hips-service.ts:3795](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3795)*
 
 ov-gso/P/DIRBE/4
 
@@ -7833,7 +7833,7 @@ ___
 
 • **ov_gso_P_DIRBE_4_SIGMA**: = "ov-gso/P/DIRBE/4/SIGMA"
 
-*Defined in [hips-service.ts:3803](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3803)*
+*Defined in [hips-service.ts:3803](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3803)*
 
 ov-gso/P/DIRBE/4/SIGMA
 
@@ -7847,7 +7847,7 @@ ___
 
 • **ov_gso_P_DIRBE_5**: = "ov-gso/P/DIRBE/5"
 
-*Defined in [hips-service.ts:3811](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3811)*
+*Defined in [hips-service.ts:3811](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3811)*
 
 ov-gso/P/DIRBE/5
 
@@ -7861,7 +7861,7 @@ ___
 
 • **ov_gso_P_DIRBE_5_SIGMA**: = "ov-gso/P/DIRBE/5/SIGMA"
 
-*Defined in [hips-service.ts:3819](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3819)*
+*Defined in [hips-service.ts:3819](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3819)*
 
 ov-gso/P/DIRBE/5/SIGMA
 
@@ -7875,7 +7875,7 @@ ___
 
 • **ov_gso_P_DIRBE_6**: = "ov-gso/P/DIRBE/6"
 
-*Defined in [hips-service.ts:3827](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3827)*
+*Defined in [hips-service.ts:3827](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3827)*
 
 ov-gso/P/DIRBE/6
 
@@ -7889,7 +7889,7 @@ ___
 
 • **ov_gso_P_DIRBE_6_SIGMA**: = "ov-gso/P/DIRBE/6/SIGMA"
 
-*Defined in [hips-service.ts:3835](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3835)*
+*Defined in [hips-service.ts:3835](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3835)*
 
 ov-gso/P/DIRBE/6/SIGMA
 
@@ -7903,7 +7903,7 @@ ___
 
 • **ov_gso_P_DIRBE_7**: = "ov-gso/P/DIRBE/7"
 
-*Defined in [hips-service.ts:3843](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3843)*
+*Defined in [hips-service.ts:3843](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3843)*
 
 ov-gso/P/DIRBE/7
 
@@ -7917,7 +7917,7 @@ ___
 
 • **ov_gso_P_DIRBE_7_SIGMA**: = "ov-gso/P/DIRBE/7/SIGMA"
 
-*Defined in [hips-service.ts:3851](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3851)*
+*Defined in [hips-service.ts:3851](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3851)*
 
 ov-gso/P/DIRBE/7/SIGMA
 
@@ -7931,7 +7931,7 @@ ___
 
 • **ov_gso_P_DIRBE_8**: = "ov-gso/P/DIRBE/8"
 
-*Defined in [hips-service.ts:3859](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3859)*
+*Defined in [hips-service.ts:3859](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3859)*
 
 ov-gso/P/DIRBE/8
 
@@ -7945,7 +7945,7 @@ ___
 
 • **ov_gso_P_DIRBE_8_SIGMA**: = "ov-gso/P/DIRBE/8/SIGMA"
 
-*Defined in [hips-service.ts:3867](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3867)*
+*Defined in [hips-service.ts:3867](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3867)*
 
 ov-gso/P/DIRBE/8/SIGMA
 
@@ -7959,7 +7959,7 @@ ___
 
 • **ov_gso_P_DIRBE_9**: = "ov-gso/P/DIRBE/9"
 
-*Defined in [hips-service.ts:3875](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3875)*
+*Defined in [hips-service.ts:3875](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3875)*
 
 ov-gso/P/DIRBE/9
 
@@ -7973,7 +7973,7 @@ ___
 
 • **ov_gso_P_DIRBE_9_SIGMA**: = "ov-gso/P/DIRBE/9/SIGMA"
 
-*Defined in [hips-service.ts:3883](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3883)*
+*Defined in [hips-service.ts:3883](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3883)*
 
 ov-gso/P/DIRBE/9/SIGMA
 
@@ -7987,7 +7987,7 @@ ___
 
 • **ov_gso_P_DIRBE_ZSMA1**: = "ov-gso/P/DIRBE/ZSMA1"
 
-*Defined in [hips-service.ts:3891](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3891)*
+*Defined in [hips-service.ts:3891](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3891)*
 
 ov-gso/P/DIRBE/ZSMA1
 
@@ -8001,7 +8001,7 @@ ___
 
 • **ov_gso_P_DIRBE_ZSMA10**: = "ov-gso/P/DIRBE/ZSMA10"
 
-*Defined in [hips-service.ts:3899](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3899)*
+*Defined in [hips-service.ts:3899](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3899)*
 
 ov-gso/P/DIRBE/ZSMA10
 
@@ -8015,7 +8015,7 @@ ___
 
 • **ov_gso_P_DIRBE_ZSMA2**: = "ov-gso/P/DIRBE/ZSMA2"
 
-*Defined in [hips-service.ts:3907](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3907)*
+*Defined in [hips-service.ts:3907](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3907)*
 
 ov-gso/P/DIRBE/ZSMA2
 
@@ -8029,7 +8029,7 @@ ___
 
 • **ov_gso_P_DIRBE_ZSMA3**: = "ov-gso/P/DIRBE/ZSMA3"
 
-*Defined in [hips-service.ts:3915](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3915)*
+*Defined in [hips-service.ts:3915](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3915)*
 
 ov-gso/P/DIRBE/ZSMA3
 
@@ -8043,7 +8043,7 @@ ___
 
 • **ov_gso_P_DIRBE_ZSMA4**: = "ov-gso/P/DIRBE/ZSMA4"
 
-*Defined in [hips-service.ts:3923](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3923)*
+*Defined in [hips-service.ts:3923](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3923)*
 
 ov-gso/P/DIRBE/ZSMA4
 
@@ -8057,7 +8057,7 @@ ___
 
 • **ov_gso_P_DIRBE_ZSMA5**: = "ov-gso/P/DIRBE/ZSMA5"
 
-*Defined in [hips-service.ts:3931](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3931)*
+*Defined in [hips-service.ts:3931](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3931)*
 
 ov-gso/P/DIRBE/ZSMA5
 
@@ -8071,7 +8071,7 @@ ___
 
 • **ov_gso_P_DIRBE_ZSMA6**: = "ov-gso/P/DIRBE/ZSMA6"
 
-*Defined in [hips-service.ts:3939](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3939)*
+*Defined in [hips-service.ts:3939](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3939)*
 
 ov-gso/P/DIRBE/ZSMA6
 
@@ -8085,7 +8085,7 @@ ___
 
 • **ov_gso_P_DIRBE_ZSMA7**: = "ov-gso/P/DIRBE/ZSMA7"
 
-*Defined in [hips-service.ts:3947](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3947)*
+*Defined in [hips-service.ts:3947](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3947)*
 
 ov-gso/P/DIRBE/ZSMA7
 
@@ -8099,7 +8099,7 @@ ___
 
 • **ov_gso_P_DIRBE_ZSMA8**: = "ov-gso/P/DIRBE/ZSMA8"
 
-*Defined in [hips-service.ts:3955](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3955)*
+*Defined in [hips-service.ts:3955](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3955)*
 
 ov-gso/P/DIRBE/ZSMA8
 
@@ -8113,7 +8113,7 @@ ___
 
 • **ov_gso_P_DIRBE_ZSMA9**: = "ov-gso/P/DIRBE/ZSMA9"
 
-*Defined in [hips-service.ts:3963](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3963)*
+*Defined in [hips-service.ts:3963](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3963)*
 
 ov-gso/P/DIRBE/ZSMA9
 
@@ -8127,7 +8127,7 @@ ___
 
 • **ov_gso_P_DRAO_22MHz**: = "ov-gso/P/DRAO/22MHz"
 
-*Defined in [hips-service.ts:3979](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3979)*
+*Defined in [hips-service.ts:3979](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3979)*
 
 ov-gso/P/DRAO/22MHz
 
@@ -8141,7 +8141,7 @@ ___
 
 • **ov_gso_P_DRAO_VillaElisa_21cm_POLQ**: = "ov-gso/P/DRAO-VillaElisa/21cm/POLQ"
 
-*Defined in [hips-service.ts:3971](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3971)*
+*Defined in [hips-service.ts:3971](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3971)*
 
 ov-gso/P/DRAO-VillaElisa/21cm/POLQ
 
@@ -8155,7 +8155,7 @@ ___
 
 • **ov_gso_P_DUSTiNGS_irac1**: = "ov-gso/P/DUSTiNGS/irac1"
 
-*Defined in [hips-service.ts:3986](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3986)*
+*Defined in [hips-service.ts:3986](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3986)*
 
 ov-gso/P/DUSTiNGS/irac1
 
@@ -8168,7 +8168,7 @@ ___
 
 • **ov_gso_P_DUSTiNGS_irac2**: = "ov-gso/P/DUSTiNGS/irac2"
 
-*Defined in [hips-service.ts:3993](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L3993)*
+*Defined in [hips-service.ts:3993](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L3993)*
 
 ov-gso/P/DUSTiNGS/irac2
 
@@ -8181,7 +8181,7 @@ ___
 
 • **ov_gso_P_DWINGELOO_820MHz**: = "ov-gso/P/DWINGELOO/820MHz"
 
-*Defined in [hips-service.ts:4001](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4001)*
+*Defined in [hips-service.ts:4001](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4001)*
 
 ov-gso/P/DWINGELOO/820MHz
 
@@ -8195,7 +8195,7 @@ ___
 
 • **ov_gso_P_Dunes_250**: = "ov-gso/P/Dunes/250"
 
-*Defined in [hips-service.ts:4009](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4009)*
+*Defined in [hips-service.ts:4009](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4009)*
 
 ov-gso/P/Dunes/250
 
@@ -8209,7 +8209,7 @@ ___
 
 • **ov_gso_P_Dunes_250_SIGMA**: = "ov-gso/P/Dunes/250/SIGMA"
 
-*Defined in [hips-service.ts:4017](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4017)*
+*Defined in [hips-service.ts:4017](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4017)*
 
 ov-gso/P/Dunes/250/SIGMA
 
@@ -8223,7 +8223,7 @@ ___
 
 • **ov_gso_P_Dunes_350**: = "ov-gso/P/Dunes/350"
 
-*Defined in [hips-service.ts:4025](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4025)*
+*Defined in [hips-service.ts:4025](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4025)*
 
 ov-gso/P/Dunes/350
 
@@ -8237,7 +8237,7 @@ ___
 
 • **ov_gso_P_Dunes_350_SIGMA**: = "ov-gso/P/Dunes/350/SIGMA"
 
-*Defined in [hips-service.ts:4033](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4033)*
+*Defined in [hips-service.ts:4033](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4033)*
 
 ov-gso/P/Dunes/350/SIGMA
 
@@ -8251,7 +8251,7 @@ ___
 
 • **ov_gso_P_Dunes_500**: = "ov-gso/P/Dunes/500"
 
-*Defined in [hips-service.ts:4041](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4041)*
+*Defined in [hips-service.ts:4041](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4041)*
 
 ov-gso/P/Dunes/500
 
@@ -8265,7 +8265,7 @@ ___
 
 • **ov_gso_P_Dunes_500_SIGMA**: = "ov-gso/P/Dunes/500/SIGMA"
 
-*Defined in [hips-service.ts:4049](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4049)*
+*Defined in [hips-service.ts:4049](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4049)*
 
 ov-gso/P/Dunes/500/SIGMA
 
@@ -8279,7 +8279,7 @@ ___
 
 • **ov_gso_P_EBHIS**: = "ov-gso/P/EBHIS"
 
-*Defined in [hips-service.ts:4057](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4057)*
+*Defined in [hips-service.ts:4057](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4057)*
 
 ov-gso/P/EBHIS
 
@@ -8293,7 +8293,7 @@ ___
 
 • **ov_gso_P_EFFELSBERG_11cm**: = "ov-gso/P/EFFELSBERG/11cm"
 
-*Defined in [hips-service.ts:4073](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4073)*
+*Defined in [hips-service.ts:4073](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4073)*
 
 ov-gso/P/EFFELSBERG/11cm
 
@@ -8307,7 +8307,7 @@ ___
 
 • **ov_gso_P_EFFELSBERG_11cm_POLQ**: = "ov-gso/P/EFFELSBERG/11cm/POLQ"
 
-*Defined in [hips-service.ts:4081](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4081)*
+*Defined in [hips-service.ts:4081](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4081)*
 
 ov-gso/P/EFFELSBERG/11cm/POLQ
 
@@ -8321,7 +8321,7 @@ ___
 
 • **ov_gso_P_EFFELSBERG_11cm_POLU**: = "ov-gso/P/EFFELSBERG/11cm/POLU"
 
-*Defined in [hips-service.ts:4089](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4089)*
+*Defined in [hips-service.ts:4089](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4089)*
 
 ov-gso/P/EFFELSBERG/11cm/POLU
 
@@ -8335,7 +8335,7 @@ ___
 
 • **ov_gso_P_EFFELSBERG_11cm_back**: = "ov-gso/P/EFFELSBERG/11cm/back"
 
-*Defined in [hips-service.ts:4097](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4097)*
+*Defined in [hips-service.ts:4097](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4097)*
 
 ov-gso/P/EFFELSBERG/11cm/back
 
@@ -8349,7 +8349,7 @@ ___
 
 • **ov_gso_P_EFFELSBERG_21cm**: = "ov-gso/P/EFFELSBERG/21cm"
 
-*Defined in [hips-service.ts:4105](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4105)*
+*Defined in [hips-service.ts:4105](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4105)*
 
 ov-gso/P/EFFELSBERG/21cm
 
@@ -8363,7 +8363,7 @@ ___
 
 • **ov_gso_P_EFFELSBERG_21cm_POLQ**: = "ov-gso/P/EFFELSBERG/21cm/POLQ"
 
-*Defined in [hips-service.ts:4113](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4113)*
+*Defined in [hips-service.ts:4113](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4113)*
 
 ov-gso/P/EFFELSBERG/21cm/POLQ
 
@@ -8377,7 +8377,7 @@ ___
 
 • **ov_gso_P_EFFELSBERG_21cm_POLU**: = "ov-gso/P/EFFELSBERG/21cm/POLU"
 
-*Defined in [hips-service.ts:4121](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4121)*
+*Defined in [hips-service.ts:4121](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4121)*
 
 ov-gso/P/EFFELSBERG/21cm/POLU
 
@@ -8391,7 +8391,7 @@ ___
 
 • **ov_gso_P_EFFELSBERG_21cm_back**: = "ov-gso/P/EFFELSBERG/21cm/back"
 
-*Defined in [hips-service.ts:4129](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4129)*
+*Defined in [hips-service.ts:4129](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4129)*
 
 ov-gso/P/EFFELSBERG/21cm/back
 
@@ -8405,7 +8405,7 @@ ___
 
 • **ov_gso_P_EFFELSBERG_EMLS_21cm_**: = "ov-gso/P/EFFELSBERG+EMLS/21cm/"
 
-*Defined in [hips-service.ts:4065](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4065)*
+*Defined in [hips-service.ts:4065](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4065)*
 
 ov-gso/P/EFFELSBERG+EMLS/21cm/
 
@@ -8419,7 +8419,7 @@ ___
 
 • **ov_gso_P_ELFLock_mips3**: = "ov-gso/P/ELFLock/mips3"
 
-*Defined in [hips-service.ts:4136](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4136)*
+*Defined in [hips-service.ts:4136](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4136)*
 
 ov-gso/P/ELFLock/mips3
 
@@ -8432,7 +8432,7 @@ ___
 
 • **ov_gso_P_EPoS_250**: = "ov-gso/P/EPoS/250"
 
-*Defined in [hips-service.ts:4144](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4144)*
+*Defined in [hips-service.ts:4144](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4144)*
 
 ov-gso/P/EPoS/250
 
@@ -8446,7 +8446,7 @@ ___
 
 • **ov_gso_P_EPoS_250_SIGMA**: = "ov-gso/P/EPoS/250/SIGMA"
 
-*Defined in [hips-service.ts:4152](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4152)*
+*Defined in [hips-service.ts:4152](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4152)*
 
 ov-gso/P/EPoS/250/SIGMA
 
@@ -8460,7 +8460,7 @@ ___
 
 • **ov_gso_P_EPoS_350**: = "ov-gso/P/EPoS/350"
 
-*Defined in [hips-service.ts:4160](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4160)*
+*Defined in [hips-service.ts:4160](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4160)*
 
 ov-gso/P/EPoS/350
 
@@ -8474,7 +8474,7 @@ ___
 
 • **ov_gso_P_EPoS_350_SIGMA**: = "ov-gso/P/EPoS/350/SIGMA"
 
-*Defined in [hips-service.ts:4168](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4168)*
+*Defined in [hips-service.ts:4168](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4168)*
 
 ov-gso/P/EPoS/350/SIGMA
 
@@ -8488,7 +8488,7 @@ ___
 
 • **ov_gso_P_EPoS_500**: = "ov-gso/P/EPoS/500"
 
-*Defined in [hips-service.ts:4176](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4176)*
+*Defined in [hips-service.ts:4176](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4176)*
 
 ov-gso/P/EPoS/500
 
@@ -8502,7 +8502,7 @@ ___
 
 • **ov_gso_P_EPoS_500_SIGMA**: = "ov-gso/P/EPoS/500/SIGMA"
 
-*Defined in [hips-service.ts:4184](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4184)*
+*Defined in [hips-service.ts:4184](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4184)*
 
 ov-gso/P/EPoS/500/SIGMA
 
@@ -8516,7 +8516,7 @@ ___
 
 • **ov_gso_P_FIDEL_mips1**: = "ov-gso/P/FIDEL/mips1"
 
-*Defined in [hips-service.ts:4191](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4191)*
+*Defined in [hips-service.ts:4191](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4191)*
 
 ov-gso/P/FIDEL/mips1
 
@@ -8529,7 +8529,7 @@ ___
 
 • **ov_gso_P_FIDEL_mips2**: = "ov-gso/P/FIDEL/mips2"
 
-*Defined in [hips-service.ts:4198](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4198)*
+*Defined in [hips-service.ts:4198](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4198)*
 
 ov-gso/P/FIDEL/mips2
 
@@ -8542,7 +8542,7 @@ ___
 
 • **ov_gso_P_FIDEL_mips3**: = "ov-gso/P/FIDEL/mips3"
 
-*Defined in [hips-service.ts:4205](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4205)*
+*Defined in [hips-service.ts:4205](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4205)*
 
 ov-gso/P/FIDEL/mips3
 
@@ -8555,7 +8555,7 @@ ___
 
 • **ov_gso_P_FLS_irac1**: = "ov-gso/P/FLS/irac1"
 
-*Defined in [hips-service.ts:4212](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4212)*
+*Defined in [hips-service.ts:4212](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4212)*
 
 ov-gso/P/FLS/irac1
 
@@ -8568,7 +8568,7 @@ ___
 
 • **ov_gso_P_FLS_irac2**: = "ov-gso/P/FLS/irac2"
 
-*Defined in [hips-service.ts:4219](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4219)*
+*Defined in [hips-service.ts:4219](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4219)*
 
 ov-gso/P/FLS/irac2
 
@@ -8581,7 +8581,7 @@ ___
 
 • **ov_gso_P_FLS_irac3**: = "ov-gso/P/FLS/irac3"
 
-*Defined in [hips-service.ts:4226](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4226)*
+*Defined in [hips-service.ts:4226](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4226)*
 
 ov-gso/P/FLS/irac3
 
@@ -8594,7 +8594,7 @@ ___
 
 • **ov_gso_P_FLS_irac4**: = "ov-gso/P/FLS/irac4"
 
-*Defined in [hips-service.ts:4233](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4233)*
+*Defined in [hips-service.ts:4233](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4233)*
 
 ov-gso/P/FLS/irac4
 
@@ -8607,7 +8607,7 @@ ___
 
 • **ov_gso_P_FLS_mips1**: = "ov-gso/P/FLS/mips1"
 
-*Defined in [hips-service.ts:4240](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4240)*
+*Defined in [hips-service.ts:4240](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4240)*
 
 ov-gso/P/FLS/mips1
 
@@ -8620,7 +8620,7 @@ ___
 
 • **ov_gso_P_FLS_mips2**: = "ov-gso/P/FLS/mips2"
 
-*Defined in [hips-service.ts:4247](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4247)*
+*Defined in [hips-service.ts:4247](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4247)*
 
 ov-gso/P/FLS/mips2
 
@@ -8633,7 +8633,7 @@ ___
 
 • **ov_gso_P_FLS_mips3**: = "ov-gso/P/FLS/mips3"
 
-*Defined in [hips-service.ts:4254](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4254)*
+*Defined in [hips-service.ts:4254](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4254)*
 
 ov-gso/P/FLS/mips3
 
@@ -8646,7 +8646,7 @@ ___
 
 • **ov_gso_P_Fermi_Band1**: = "ov-gso/P/Fermi/Band1"
 
-*Defined in [hips-service.ts:4261](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4261)*
+*Defined in [hips-service.ts:4261](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4261)*
 
 ov-gso/P/Fermi/Band1
 
@@ -8659,7 +8659,7 @@ ___
 
 • **ov_gso_P_Fermi_Band2**: = "ov-gso/P/Fermi/Band2"
 
-*Defined in [hips-service.ts:4268](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4268)*
+*Defined in [hips-service.ts:4268](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4268)*
 
 ov-gso/P/Fermi/Band2
 
@@ -8672,7 +8672,7 @@ ___
 
 • **ov_gso_P_Fermi_Band3**: = "ov-gso/P/Fermi/Band3"
 
-*Defined in [hips-service.ts:4275](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4275)*
+*Defined in [hips-service.ts:4275](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4275)*
 
 ov-gso/P/Fermi/Band3
 
@@ -8685,7 +8685,7 @@ ___
 
 • **ov_gso_P_Fermi_Band4**: = "ov-gso/P/Fermi/Band4"
 
-*Defined in [hips-service.ts:4282](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4282)*
+*Defined in [hips-service.ts:4282](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4282)*
 
 ov-gso/P/Fermi/Band4
 
@@ -8698,7 +8698,7 @@ ___
 
 • **ov_gso_P_Fermi_Band5**: = "ov-gso/P/Fermi/Band5"
 
-*Defined in [hips-service.ts:4289](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4289)*
+*Defined in [hips-service.ts:4289](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4289)*
 
 ov-gso/P/Fermi/Band5
 
@@ -8711,7 +8711,7 @@ ___
 
 • **ov_gso_P_Frontier_Fields_irac1**: = "ov-gso/P/Frontier/Fields/irac1"
 
-*Defined in [hips-service.ts:4296](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4296)*
+*Defined in [hips-service.ts:4296](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4296)*
 
 ov-gso/P/Frontier/Fields/irac1
 
@@ -8724,7 +8724,7 @@ ___
 
 • **ov_gso_P_Frontier_Fields_irac2**: = "ov-gso/P/Frontier/Fields/irac2"
 
-*Defined in [hips-service.ts:4303](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4303)*
+*Defined in [hips-service.ts:4303](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4303)*
 
 ov-gso/P/Frontier/Fields/irac2
 
@@ -8737,7 +8737,7 @@ ___
 
 • **ov_gso_P_Frontier_Fields_irac3**: = "ov-gso/P/Frontier/Fields/irac3"
 
-*Defined in [hips-service.ts:4310](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4310)*
+*Defined in [hips-service.ts:4310](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4310)*
 
 ov-gso/P/Frontier/Fields/irac3
 
@@ -8750,7 +8750,7 @@ ___
 
 • **ov_gso_P_Frontier_Fields_irac4**: = "ov-gso/P/Frontier/Fields/irac4"
 
-*Defined in [hips-service.ts:4317](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4317)*
+*Defined in [hips-service.ts:4317](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4317)*
 
 ov-gso/P/Frontier/Fields/irac4
 
@@ -8763,7 +8763,7 @@ ___
 
 • **ov_gso_P_Frontier_Fields_mips1**: = "ov-gso/P/Frontier/Fields/mips1"
 
-*Defined in [hips-service.ts:4324](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4324)*
+*Defined in [hips-service.ts:4324](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4324)*
 
 ov-gso/P/Frontier/Fields/mips1
 
@@ -8776,7 +8776,7 @@ ___
 
 • **ov_gso_P_GASS_EBHIS**: = "ov-gso/P/GASS+EBHIS"
 
-*Defined in [hips-service.ts:4332](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4332)*
+*Defined in [hips-service.ts:4332](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4332)*
 
 ov-gso/P/GASS+EBHIS
 
@@ -8790,7 +8790,7 @@ ___
 
 • **ov_gso_P_GASS_NH**: = "ov-gso/P/GASS/NH"
 
-*Defined in [hips-service.ts:4340](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4340)*
+*Defined in [hips-service.ts:4340](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4340)*
 
 ov-gso/P/GASS/NH
 
@@ -8804,7 +8804,7 @@ ___
 
 • **ov_gso_P_GAURIBIDANUR**: = "ov-gso/P/GAURIBIDANUR"
 
-*Defined in [hips-service.ts:4348](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4348)*
+*Defined in [hips-service.ts:4348](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4348)*
 
 ov-gso/P/GAURIBIDANUR
 
@@ -8818,7 +8818,7 @@ ___
 
 • **ov_gso_P_GLEAM_072_103**: = "ov-gso/P/GLEAM/072-103"
 
-*Defined in [hips-service.ts:4356](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4356)*
+*Defined in [hips-service.ts:4356](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4356)*
 
 ov-gso/P/GLEAM/072-103
 
@@ -8832,7 +8832,7 @@ ___
 
 • **ov_gso_P_GLEAM_103_134**: = "ov-gso/P/GLEAM/103-134"
 
-*Defined in [hips-service.ts:4364](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4364)*
+*Defined in [hips-service.ts:4364](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4364)*
 
 ov-gso/P/GLEAM/103-134
 
@@ -8846,7 +8846,7 @@ ___
 
 • **ov_gso_P_GLEAM_170_231**: = "ov-gso/P/GLEAM/170-231"
 
-*Defined in [hips-service.ts:4372](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4372)*
+*Defined in [hips-service.ts:4372](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4372)*
 
 ov-gso/P/GLEAM/170-231
 
@@ -8860,7 +8860,7 @@ ___
 
 • **ov_gso_P_GLIMPSE_irac1**: = "ov-gso/P/GLIMPSE/irac1"
 
-*Defined in [hips-service.ts:4379](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4379)*
+*Defined in [hips-service.ts:4379](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4379)*
 
 ov-gso/P/GLIMPSE/irac1
 
@@ -8873,7 +8873,7 @@ ___
 
 • **ov_gso_P_GLIMPSE_irac2**: = "ov-gso/P/GLIMPSE/irac2"
 
-*Defined in [hips-service.ts:4386](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4386)*
+*Defined in [hips-service.ts:4386](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4386)*
 
 ov-gso/P/GLIMPSE/irac2
 
@@ -8886,7 +8886,7 @@ ___
 
 • **ov_gso_P_GLIMPSE_irac3**: = "ov-gso/P/GLIMPSE/irac3"
 
-*Defined in [hips-service.ts:4393](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4393)*
+*Defined in [hips-service.ts:4393](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4393)*
 
 ov-gso/P/GLIMPSE/irac3
 
@@ -8899,7 +8899,7 @@ ___
 
 • **ov_gso_P_GLIMPSE_irac4**: = "ov-gso/P/GLIMPSE/irac4"
 
-*Defined in [hips-service.ts:4400](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4400)*
+*Defined in [hips-service.ts:4400](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4400)*
 
 ov-gso/P/GLIMPSE/irac4
 
@@ -8912,7 +8912,7 @@ ___
 
 • **ov_gso_P_GOALS_irac1**: = "ov-gso/P/GOALS/irac1"
 
-*Defined in [hips-service.ts:4407](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4407)*
+*Defined in [hips-service.ts:4407](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4407)*
 
 ov-gso/P/GOALS/irac1
 
@@ -8925,7 +8925,7 @@ ___
 
 • **ov_gso_P_GOALS_irac2**: = "ov-gso/P/GOALS/irac2"
 
-*Defined in [hips-service.ts:4414](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4414)*
+*Defined in [hips-service.ts:4414](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4414)*
 
 ov-gso/P/GOALS/irac2
 
@@ -8938,7 +8938,7 @@ ___
 
 • **ov_gso_P_GOALS_irac3**: = "ov-gso/P/GOALS/irac3"
 
-*Defined in [hips-service.ts:4421](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4421)*
+*Defined in [hips-service.ts:4421](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4421)*
 
 ov-gso/P/GOALS/irac3
 
@@ -8951,7 +8951,7 @@ ___
 
 • **ov_gso_P_GOALS_irac4**: = "ov-gso/P/GOALS/irac4"
 
-*Defined in [hips-service.ts:4428](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4428)*
+*Defined in [hips-service.ts:4428](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4428)*
 
 ov-gso/P/GOALS/irac4
 
@@ -8964,7 +8964,7 @@ ___
 
 • **ov_gso_P_GOALS_mips1**: = "ov-gso/P/GOALS/mips1"
 
-*Defined in [hips-service.ts:4435](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4435)*
+*Defined in [hips-service.ts:4435](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4435)*
 
 ov-gso/P/GOALS/mips1
 
@@ -8977,7 +8977,7 @@ ___
 
 • **ov_gso_P_GOALS_mips2**: = "ov-gso/P/GOALS/mips2"
 
-*Defined in [hips-service.ts:4442](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4442)*
+*Defined in [hips-service.ts:4442](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4442)*
 
 ov-gso/P/GOALS/mips2
 
@@ -8990,7 +8990,7 @@ ___
 
 • **ov_gso_P_GOALS_mips3**: = "ov-gso/P/GOALS/mips3"
 
-*Defined in [hips-service.ts:4449](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4449)*
+*Defined in [hips-service.ts:4449](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4449)*
 
 ov-gso/P/GOALS/mips3
 
@@ -9003,7 +9003,7 @@ ___
 
 • **ov_gso_P_GOODS_250**: = "ov-gso/P/GOODS/250"
 
-*Defined in [hips-service.ts:4457](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4457)*
+*Defined in [hips-service.ts:4457](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4457)*
 
 ov-gso/P/GOODS/250
 
@@ -9017,7 +9017,7 @@ ___
 
 • **ov_gso_P_GOODS_250_SIGMA**: = "ov-gso/P/GOODS/250/SIGMA"
 
-*Defined in [hips-service.ts:4465](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4465)*
+*Defined in [hips-service.ts:4465](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4465)*
 
 ov-gso/P/GOODS/250/SIGMA
 
@@ -9031,7 +9031,7 @@ ___
 
 • **ov_gso_P_GOODS_350**: = "ov-gso/P/GOODS/350"
 
-*Defined in [hips-service.ts:4473](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4473)*
+*Defined in [hips-service.ts:4473](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4473)*
 
 ov-gso/P/GOODS/350
 
@@ -9045,7 +9045,7 @@ ___
 
 • **ov_gso_P_GOODS_350_SIGMA**: = "ov-gso/P/GOODS/350/SIGMA"
 
-*Defined in [hips-service.ts:4481](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4481)*
+*Defined in [hips-service.ts:4481](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4481)*
 
 ov-gso/P/GOODS/350/SIGMA
 
@@ -9059,7 +9059,7 @@ ___
 
 • **ov_gso_P_GOODS_500**: = "ov-gso/P/GOODS/500"
 
-*Defined in [hips-service.ts:4489](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4489)*
+*Defined in [hips-service.ts:4489](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4489)*
 
 ov-gso/P/GOODS/500
 
@@ -9073,7 +9073,7 @@ ___
 
 • **ov_gso_P_GOODS_500_SIGMA**: = "ov-gso/P/GOODS/500/SIGMA"
 
-*Defined in [hips-service.ts:4497](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4497)*
+*Defined in [hips-service.ts:4497](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4497)*
 
 ov-gso/P/GOODS/500/SIGMA
 
@@ -9087,7 +9087,7 @@ ___
 
 • **ov_gso_P_HIPASS_ZOA_TLdv**: = "ov-gso/P/HIPASS-ZOA/TLdv"
 
-*Defined in [hips-service.ts:4505](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4505)*
+*Defined in [hips-service.ts:4505](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4505)*
 
 ov-gso/P/HIPASS-ZOA/TLdv
 
@@ -9101,7 +9101,7 @@ ___
 
 • **ov_gso_P_HLS_250**: = "ov-gso/P/HLS/250"
 
-*Defined in [hips-service.ts:4513](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4513)*
+*Defined in [hips-service.ts:4513](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4513)*
 
 ov-gso/P/HLS/250
 
@@ -9115,7 +9115,7 @@ ___
 
 • **ov_gso_P_HLS_250_SIGMA**: = "ov-gso/P/HLS/250/SIGMA"
 
-*Defined in [hips-service.ts:4521](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4521)*
+*Defined in [hips-service.ts:4521](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4521)*
 
 ov-gso/P/HLS/250/SIGMA
 
@@ -9129,7 +9129,7 @@ ___
 
 • **ov_gso_P_HLS_350**: = "ov-gso/P/HLS/350"
 
-*Defined in [hips-service.ts:4529](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4529)*
+*Defined in [hips-service.ts:4529](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4529)*
 
 ov-gso/P/HLS/350
 
@@ -9143,7 +9143,7 @@ ___
 
 • **ov_gso_P_HLS_350_SIGMA**: = "ov-gso/P/HLS/350/SIGMA"
 
-*Defined in [hips-service.ts:4537](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4537)*
+*Defined in [hips-service.ts:4537](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4537)*
 
 ov-gso/P/HLS/350/SIGMA
 
@@ -9157,7 +9157,7 @@ ___
 
 • **ov_gso_P_HLS_500**: = "ov-gso/P/HLS/500"
 
-*Defined in [hips-service.ts:4545](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4545)*
+*Defined in [hips-service.ts:4545](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4545)*
 
 ov-gso/P/HLS/500
 
@@ -9171,7 +9171,7 @@ ___
 
 • **ov_gso_P_HLS_500_SIGMA**: = "ov-gso/P/HLS/500/SIGMA"
 
-*Defined in [hips-service.ts:4553](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4553)*
+*Defined in [hips-service.ts:4553](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4553)*
 
 ov-gso/P/HLS/500/SIGMA
 
@@ -9185,7 +9185,7 @@ ___
 
 • **ov_gso_P_Hatlas_250**: = "ov-gso/P/Hatlas/250"
 
-*Defined in [hips-service.ts:4561](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4561)*
+*Defined in [hips-service.ts:4561](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4561)*
 
 ov-gso/P/Hatlas/250
 
@@ -9199,7 +9199,7 @@ ___
 
 • **ov_gso_P_Hatlas_250_SIGMA**: = "ov-gso/P/Hatlas/250/SIGMA"
 
-*Defined in [hips-service.ts:4569](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4569)*
+*Defined in [hips-service.ts:4569](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4569)*
 
 ov-gso/P/Hatlas/250/SIGMA
 
@@ -9213,7 +9213,7 @@ ___
 
 • **ov_gso_P_Hatlas_350**: = "ov-gso/P/Hatlas/350"
 
-*Defined in [hips-service.ts:4577](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4577)*
+*Defined in [hips-service.ts:4577](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4577)*
 
 ov-gso/P/Hatlas/350
 
@@ -9227,7 +9227,7 @@ ___
 
 • **ov_gso_P_Hatlas_350_SIGMA**: = "ov-gso/P/Hatlas/350/SIGMA"
 
-*Defined in [hips-service.ts:4585](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4585)*
+*Defined in [hips-service.ts:4585](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4585)*
 
 ov-gso/P/Hatlas/350/SIGMA
 
@@ -9241,7 +9241,7 @@ ___
 
 • **ov_gso_P_Hatlas_500**: = "ov-gso/P/Hatlas/500"
 
-*Defined in [hips-service.ts:4593](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4593)*
+*Defined in [hips-service.ts:4593](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4593)*
 
 ov-gso/P/Hatlas/500
 
@@ -9255,7 +9255,7 @@ ___
 
 • **ov_gso_P_Hatlas_500_SIGMA**: = "ov-gso/P/Hatlas/500/SIGMA"
 
-*Defined in [hips-service.ts:4601](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4601)*
+*Defined in [hips-service.ts:4601](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4601)*
 
 ov-gso/P/Hatlas/500/SIGMA
 
@@ -9269,7 +9269,7 @@ ___
 
 • **ov_gso_P_HeViCS_250**: = "ov-gso/P/HeViCS/250"
 
-*Defined in [hips-service.ts:4609](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4609)*
+*Defined in [hips-service.ts:4609](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4609)*
 
 ov-gso/P/HeViCS/250
 
@@ -9283,7 +9283,7 @@ ___
 
 • **ov_gso_P_HeViCS_250_SIGMA**: = "ov-gso/P/HeViCS/250/SIGMA"
 
-*Defined in [hips-service.ts:4617](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4617)*
+*Defined in [hips-service.ts:4617](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4617)*
 
 ov-gso/P/HeViCS/250/SIGMA
 
@@ -9297,7 +9297,7 @@ ___
 
 • **ov_gso_P_HeViCS_350**: = "ov-gso/P/HeViCS/350"
 
-*Defined in [hips-service.ts:4625](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4625)*
+*Defined in [hips-service.ts:4625](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4625)*
 
 ov-gso/P/HeViCS/350
 
@@ -9311,7 +9311,7 @@ ___
 
 • **ov_gso_P_HeViCS_350_SIGMA**: = "ov-gso/P/HeViCS/350/SIGMA"
 
-*Defined in [hips-service.ts:4633](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4633)*
+*Defined in [hips-service.ts:4633](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4633)*
 
 ov-gso/P/HeViCS/350/SIGMA
 
@@ -9325,7 +9325,7 @@ ___
 
 • **ov_gso_P_HeViCS_500**: = "ov-gso/P/HeViCS/500"
 
-*Defined in [hips-service.ts:4641](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4641)*
+*Defined in [hips-service.ts:4641](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4641)*
 
 ov-gso/P/HeViCS/500
 
@@ -9339,7 +9339,7 @@ ___
 
 • **ov_gso_P_HeViCS_500_SIGMA**: = "ov-gso/P/HeViCS/500/SIGMA"
 
-*Defined in [hips-service.ts:4649](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4649)*
+*Defined in [hips-service.ts:4649](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4649)*
 
 ov-gso/P/HeViCS/500/SIGMA
 
@@ -9353,7 +9353,7 @@ ___
 
 • **ov_gso_P_Helga_250**: = "ov-gso/P/Helga/250"
 
-*Defined in [hips-service.ts:4657](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4657)*
+*Defined in [hips-service.ts:4657](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4657)*
 
 ov-gso/P/Helga/250
 
@@ -9367,7 +9367,7 @@ ___
 
 • **ov_gso_P_Helga_250_SIGMA**: = "ov-gso/P/Helga/250/SIGMA"
 
-*Defined in [hips-service.ts:4665](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4665)*
+*Defined in [hips-service.ts:4665](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4665)*
 
 ov-gso/P/Helga/250/SIGMA
 
@@ -9381,7 +9381,7 @@ ___
 
 • **ov_gso_P_Helga_350**: = "ov-gso/P/Helga/350"
 
-*Defined in [hips-service.ts:4673](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4673)*
+*Defined in [hips-service.ts:4673](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4673)*
 
 ov-gso/P/Helga/350
 
@@ -9395,7 +9395,7 @@ ___
 
 • **ov_gso_P_Helga_350_SIGMA**: = "ov-gso/P/Helga/350/SIGMA"
 
-*Defined in [hips-service.ts:4681](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4681)*
+*Defined in [hips-service.ts:4681](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4681)*
 
 ov-gso/P/Helga/350/SIGMA
 
@@ -9409,7 +9409,7 @@ ___
 
 • **ov_gso_P_Helga_500**: = "ov-gso/P/Helga/500"
 
-*Defined in [hips-service.ts:4689](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4689)*
+*Defined in [hips-service.ts:4689](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4689)*
 
 ov-gso/P/Helga/500
 
@@ -9423,7 +9423,7 @@ ___
 
 • **ov_gso_P_Helga_500_SIGMA**: = "ov-gso/P/Helga/500/SIGMA"
 
-*Defined in [hips-service.ts:4697](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4697)*
+*Defined in [hips-service.ts:4697](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4697)*
 
 ov-gso/P/Helga/500/SIGMA
 
@@ -9437,7 +9437,7 @@ ___
 
 • **ov_gso_P_HerM33es_250**: = "ov-gso/P/HerM33es/250"
 
-*Defined in [hips-service.ts:4705](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4705)*
+*Defined in [hips-service.ts:4705](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4705)*
 
 ov-gso/P/HerM33es/250
 
@@ -9451,7 +9451,7 @@ ___
 
 • **ov_gso_P_HerM33es_250_SIGMA**: = "ov-gso/P/HerM33es/250/SIGMA"
 
-*Defined in [hips-service.ts:4713](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4713)*
+*Defined in [hips-service.ts:4713](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4713)*
 
 ov-gso/P/HerM33es/250/SIGMA
 
@@ -9465,7 +9465,7 @@ ___
 
 • **ov_gso_P_HerM33es_350**: = "ov-gso/P/HerM33es/350"
 
-*Defined in [hips-service.ts:4721](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4721)*
+*Defined in [hips-service.ts:4721](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4721)*
 
 ov-gso/P/HerM33es/350
 
@@ -9479,7 +9479,7 @@ ___
 
 • **ov_gso_P_HerM33es_350_SIGMA**: = "ov-gso/P/HerM33es/350/SIGMA"
 
-*Defined in [hips-service.ts:4729](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4729)*
+*Defined in [hips-service.ts:4729](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4729)*
 
 ov-gso/P/HerM33es/350/SIGMA
 
@@ -9493,7 +9493,7 @@ ___
 
 • **ov_gso_P_HerM33es_500**: = "ov-gso/P/HerM33es/500"
 
-*Defined in [hips-service.ts:4737](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4737)*
+*Defined in [hips-service.ts:4737](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4737)*
 
 ov-gso/P/HerM33es/500
 
@@ -9507,7 +9507,7 @@ ___
 
 • **ov_gso_P_HerM33es_500_SIGMA**: = "ov-gso/P/HerM33es/500/SIGMA"
 
-*Defined in [hips-service.ts:4745](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4745)*
+*Defined in [hips-service.ts:4745](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4745)*
 
 ov-gso/P/HerM33es/500/SIGMA
 
@@ -9521,7 +9521,7 @@ ___
 
 • **ov_gso_P_Heritage_250**: = "ov-gso/P/Heritage/250"
 
-*Defined in [hips-service.ts:4753](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4753)*
+*Defined in [hips-service.ts:4753](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4753)*
 
 ov-gso/P/Heritage/250
 
@@ -9535,7 +9535,7 @@ ___
 
 • **ov_gso_P_Heritage_250_SIGMA**: = "ov-gso/P/Heritage/250/SIGMA"
 
-*Defined in [hips-service.ts:4761](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4761)*
+*Defined in [hips-service.ts:4761](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4761)*
 
 ov-gso/P/Heritage/250/SIGMA
 
@@ -9549,7 +9549,7 @@ ___
 
 • **ov_gso_P_Heritage_350**: = "ov-gso/P/Heritage/350"
 
-*Defined in [hips-service.ts:4769](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4769)*
+*Defined in [hips-service.ts:4769](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4769)*
 
 ov-gso/P/Heritage/350
 
@@ -9563,7 +9563,7 @@ ___
 
 • **ov_gso_P_Heritage_350_SIGMA**: = "ov-gso/P/Heritage/350/SIGMA"
 
-*Defined in [hips-service.ts:4777](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4777)*
+*Defined in [hips-service.ts:4777](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4777)*
 
 ov-gso/P/Heritage/350/SIGMA
 
@@ -9577,7 +9577,7 @@ ___
 
 • **ov_gso_P_Heritage_500**: = "ov-gso/P/Heritage/500"
 
-*Defined in [hips-service.ts:4785](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4785)*
+*Defined in [hips-service.ts:4785](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4785)*
 
 ov-gso/P/Heritage/500
 
@@ -9591,7 +9591,7 @@ ___
 
 • **ov_gso_P_Heritage_500_SIGMA**: = "ov-gso/P/Heritage/500/SIGMA"
 
-*Defined in [hips-service.ts:4793](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4793)*
+*Defined in [hips-service.ts:4793](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4793)*
 
 ov-gso/P/Heritage/500/SIGMA
 
@@ -9605,7 +9605,7 @@ ___
 
 • **ov_gso_P_Hermes_250**: = "ov-gso/P/Hermes/250"
 
-*Defined in [hips-service.ts:4801](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4801)*
+*Defined in [hips-service.ts:4801](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4801)*
 
 ov-gso/P/Hermes/250
 
@@ -9619,7 +9619,7 @@ ___
 
 • **ov_gso_P_Hermes_250_SIGMA**: = "ov-gso/P/Hermes/250/SIGMA"
 
-*Defined in [hips-service.ts:4809](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4809)*
+*Defined in [hips-service.ts:4809](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4809)*
 
 ov-gso/P/Hermes/250/SIGMA
 
@@ -9633,7 +9633,7 @@ ___
 
 • **ov_gso_P_Hermes_350**: = "ov-gso/P/Hermes/350"
 
-*Defined in [hips-service.ts:4817](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4817)*
+*Defined in [hips-service.ts:4817](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4817)*
 
 ov-gso/P/Hermes/350
 
@@ -9647,7 +9647,7 @@ ___
 
 • **ov_gso_P_Hermes_350_SIGMA**: = "ov-gso/P/Hermes/350/SIGMA"
 
-*Defined in [hips-service.ts:4825](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4825)*
+*Defined in [hips-service.ts:4825](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4825)*
 
 ov-gso/P/Hermes/350/SIGMA
 
@@ -9661,7 +9661,7 @@ ___
 
 • **ov_gso_P_Hermes_500**: = "ov-gso/P/Hermes/500"
 
-*Defined in [hips-service.ts:4833](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4833)*
+*Defined in [hips-service.ts:4833](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4833)*
 
 ov-gso/P/Hermes/500
 
@@ -9675,7 +9675,7 @@ ___
 
 • **ov_gso_P_Hermes_500_SIGMA**: = "ov-gso/P/Hermes/500/SIGMA"
 
-*Defined in [hips-service.ts:4841](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4841)*
+*Defined in [hips-service.ts:4841](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4841)*
 
 ov-gso/P/Hermes/500/SIGMA
 
@@ -9689,7 +9689,7 @@ ___
 
 • **ov_gso_P_Higal_250**: = "ov-gso/P/Higal/250"
 
-*Defined in [hips-service.ts:4849](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4849)*
+*Defined in [hips-service.ts:4849](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4849)*
 
 ov-gso/P/Higal/250
 
@@ -9703,7 +9703,7 @@ ___
 
 • **ov_gso_P_Higal_250_SIGMA**: = "ov-gso/P/Higal/250/SIGMA"
 
-*Defined in [hips-service.ts:4857](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4857)*
+*Defined in [hips-service.ts:4857](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4857)*
 
 ov-gso/P/Higal/250/SIGMA
 
@@ -9717,7 +9717,7 @@ ___
 
 • **ov_gso_P_Higal_350**: = "ov-gso/P/Higal/350"
 
-*Defined in [hips-service.ts:4865](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4865)*
+*Defined in [hips-service.ts:4865](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4865)*
 
 ov-gso/P/Higal/350
 
@@ -9731,7 +9731,7 @@ ___
 
 • **ov_gso_P_Higal_350_SIGMA**: = "ov-gso/P/Higal/350/SIGMA"
 
-*Defined in [hips-service.ts:4873](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4873)*
+*Defined in [hips-service.ts:4873](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4873)*
 
 ov-gso/P/Higal/350/SIGMA
 
@@ -9745,7 +9745,7 @@ ___
 
 • **ov_gso_P_Higal_500**: = "ov-gso/P/Higal/500"
 
-*Defined in [hips-service.ts:4881](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4881)*
+*Defined in [hips-service.ts:4881](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4881)*
 
 ov-gso/P/Higal/500
 
@@ -9759,7 +9759,7 @@ ___
 
 • **ov_gso_P_Higal_500_SIGMA**: = "ov-gso/P/Higal/500/SIGMA"
 
-*Defined in [hips-service.ts:4889](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4889)*
+*Defined in [hips-service.ts:4889](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4889)*
 
 ov-gso/P/Higal/500/SIGMA
 
@@ -9773,7 +9773,7 @@ ___
 
 • **ov_gso_P_Hobys_250**: = "ov-gso/P/Hobys/250"
 
-*Defined in [hips-service.ts:4897](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4897)*
+*Defined in [hips-service.ts:4897](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4897)*
 
 ov-gso/P/Hobys/250
 
@@ -9787,7 +9787,7 @@ ___
 
 • **ov_gso_P_Hobys_250_SIGMA**: = "ov-gso/P/Hobys/250/SIGMA"
 
-*Defined in [hips-service.ts:4905](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4905)*
+*Defined in [hips-service.ts:4905](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4905)*
 
 ov-gso/P/Hobys/250/SIGMA
 
@@ -9801,7 +9801,7 @@ ___
 
 • **ov_gso_P_Hobys_350**: = "ov-gso/P/Hobys/350"
 
-*Defined in [hips-service.ts:4913](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4913)*
+*Defined in [hips-service.ts:4913](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4913)*
 
 ov-gso/P/Hobys/350
 
@@ -9815,7 +9815,7 @@ ___
 
 • **ov_gso_P_Hobys_350_SIGMA**: = "ov-gso/P/Hobys/350/SIGMA"
 
-*Defined in [hips-service.ts:4921](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4921)*
+*Defined in [hips-service.ts:4921](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4921)*
 
 ov-gso/P/Hobys/350/SIGMA
 
@@ -9829,7 +9829,7 @@ ___
 
 • **ov_gso_P_Hobys_500**: = "ov-gso/P/Hobys/500"
 
-*Defined in [hips-service.ts:4929](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4929)*
+*Defined in [hips-service.ts:4929](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4929)*
 
 ov-gso/P/Hobys/500
 
@@ -9843,7 +9843,7 @@ ___
 
 • **ov_gso_P_Hobys_500_SIGMA**: = "ov-gso/P/Hobys/500/SIGMA"
 
-*Defined in [hips-service.ts:4937](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4937)*
+*Defined in [hips-service.ts:4937](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4937)*
 
 ov-gso/P/Hobys/500/SIGMA
 
@@ -9857,7 +9857,7 @@ ___
 
 • **ov_gso_P_INTEGRAL_14y_17_60keV**: = "ov-gso/P/INTEGRAL/14y/17-60keV"
 
-*Defined in [hips-service.ts:4944](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4944)*
+*Defined in [hips-service.ts:4944](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4944)*
 
 ov-gso/P/INTEGRAL/14y/17-60keV
 
@@ -9870,7 +9870,7 @@ ___
 
 • **ov_gso_P_INTEGRAL_17_35keV**: = "ov-gso/P/INTEGRAL/17-35keV"
 
-*Defined in [hips-service.ts:4951](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4951)*
+*Defined in [hips-service.ts:4951](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4951)*
 
 ov-gso/P/INTEGRAL/17-35keV
 
@@ -9883,7 +9883,7 @@ ___
 
 • **ov_gso_P_INTEGRAL_17_60keV**: = "ov-gso/P/INTEGRAL/17-60keV"
 
-*Defined in [hips-service.ts:4958](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4958)*
+*Defined in [hips-service.ts:4958](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4958)*
 
 ov-gso/P/INTEGRAL/17-60keV
 
@@ -9896,7 +9896,7 @@ ___
 
 • **ov_gso_P_INTEGRAL_35_80keV**: = "ov-gso/P/INTEGRAL/35-80keV"
 
-*Defined in [hips-service.ts:4965](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4965)*
+*Defined in [hips-service.ts:4965](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4965)*
 
 ov-gso/P/INTEGRAL/35-80keV
 
@@ -9909,7 +9909,7 @@ ___
 
 • **ov_gso_P_IRIS_1**: = "ov-gso/P/IRIS/1"
 
-*Defined in [hips-service.ts:4973](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4973)*
+*Defined in [hips-service.ts:4973](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4973)*
 
 ov-gso/P/IRIS/1
 
@@ -9923,7 +9923,7 @@ ___
 
 • **ov_gso_P_IRIS_1_SIGMA**: = "ov-gso/P/IRIS/1/SIGMA"
 
-*Defined in [hips-service.ts:4981](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4981)*
+*Defined in [hips-service.ts:4981](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4981)*
 
 ov-gso/P/IRIS/1/SIGMA
 
@@ -9937,7 +9937,7 @@ ___
 
 • **ov_gso_P_IRIS_2**: = "ov-gso/P/IRIS/2"
 
-*Defined in [hips-service.ts:4989](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4989)*
+*Defined in [hips-service.ts:4989](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4989)*
 
 ov-gso/P/IRIS/2
 
@@ -9951,7 +9951,7 @@ ___
 
 • **ov_gso_P_IRIS_2_SIGMA**: = "ov-gso/P/IRIS/2/SIGMA"
 
-*Defined in [hips-service.ts:4997](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L4997)*
+*Defined in [hips-service.ts:4997](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L4997)*
 
 ov-gso/P/IRIS/2/SIGMA
 
@@ -9965,7 +9965,7 @@ ___
 
 • **ov_gso_P_IRIS_3**: = "ov-gso/P/IRIS/3"
 
-*Defined in [hips-service.ts:5005](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5005)*
+*Defined in [hips-service.ts:5005](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5005)*
 
 ov-gso/P/IRIS/3
 
@@ -9979,7 +9979,7 @@ ___
 
 • **ov_gso_P_IRIS_3_SIGMA**: = "ov-gso/P/IRIS/3/SIGMA"
 
-*Defined in [hips-service.ts:5013](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5013)*
+*Defined in [hips-service.ts:5013](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5013)*
 
 ov-gso/P/IRIS/3/SIGMA
 
@@ -9993,7 +9993,7 @@ ___
 
 • **ov_gso_P_IRIS_4**: = "ov-gso/P/IRIS/4"
 
-*Defined in [hips-service.ts:5021](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5021)*
+*Defined in [hips-service.ts:5021](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5021)*
 
 ov-gso/P/IRIS/4
 
@@ -10007,7 +10007,7 @@ ___
 
 • **ov_gso_P_IRIS_4_SIGMA**: = "ov-gso/P/IRIS/4/SIGMA"
 
-*Defined in [hips-service.ts:5029](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5029)*
+*Defined in [hips-service.ts:5029](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5029)*
 
 ov-gso/P/IRIS/4/SIGMA
 
@@ -10021,7 +10021,7 @@ ___
 
 • **ov_gso_P_IRTS_250**: = "ov-gso/P/IRTS/250"
 
-*Defined in [hips-service.ts:5037](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5037)*
+*Defined in [hips-service.ts:5037](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5037)*
 
 ov-gso/P/IRTS/250
 
@@ -10035,7 +10035,7 @@ ___
 
 • **ov_gso_P_IRTS_400**: = "ov-gso/P/IRTS/400"
 
-*Defined in [hips-service.ts:5045](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5045)*
+*Defined in [hips-service.ts:5045](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5045)*
 
 ov-gso/P/IRTS/400
 
@@ -10049,7 +10049,7 @@ ___
 
 • **ov_gso_P_IRTS_700**: = "ov-gso/P/IRTS/700"
 
-*Defined in [hips-service.ts:5053](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5053)*
+*Defined in [hips-service.ts:5053](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5053)*
 
 ov-gso/P/IRTS/700
 
@@ -10063,7 +10063,7 @@ ___
 
 • **ov_gso_P_Kingfish_250**: = "ov-gso/P/Kingfish/250"
 
-*Defined in [hips-service.ts:5061](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5061)*
+*Defined in [hips-service.ts:5061](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5061)*
 
 ov-gso/P/Kingfish/250
 
@@ -10077,7 +10077,7 @@ ___
 
 • **ov_gso_P_Kingfish_250_SIGMA**: = "ov-gso/P/Kingfish/250/SIGMA"
 
-*Defined in [hips-service.ts:5069](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5069)*
+*Defined in [hips-service.ts:5069](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5069)*
 
 ov-gso/P/Kingfish/250/SIGMA
 
@@ -10091,7 +10091,7 @@ ___
 
 • **ov_gso_P_Kingfish_350**: = "ov-gso/P/Kingfish/350"
 
-*Defined in [hips-service.ts:5077](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5077)*
+*Defined in [hips-service.ts:5077](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5077)*
 
 ov-gso/P/Kingfish/350
 
@@ -10105,7 +10105,7 @@ ___
 
 • **ov_gso_P_Kingfish_350_SIGMA**: = "ov-gso/P/Kingfish/350/SIGMA"
 
-*Defined in [hips-service.ts:5085](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5085)*
+*Defined in [hips-service.ts:5085](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5085)*
 
 ov-gso/P/Kingfish/350/SIGMA
 
@@ -10119,7 +10119,7 @@ ___
 
 • **ov_gso_P_Kingfish_500**: = "ov-gso/P/Kingfish/500"
 
-*Defined in [hips-service.ts:5093](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5093)*
+*Defined in [hips-service.ts:5093](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5093)*
 
 ov-gso/P/Kingfish/500
 
@@ -10133,7 +10133,7 @@ ___
 
 • **ov_gso_P_Kingfish_500_SIGMA**: = "ov-gso/P/Kingfish/500/SIGMA"
 
-*Defined in [hips-service.ts:5101](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5101)*
+*Defined in [hips-service.ts:5101](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5101)*
 
 ov-gso/P/Kingfish/500/SIGMA
 
@@ -10147,7 +10147,7 @@ ___
 
 • **ov_gso_P_LAB**: = "ov-gso/P/LAB"
 
-*Defined in [hips-service.ts:5109](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5109)*
+*Defined in [hips-service.ts:5109](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5109)*
 
 ov-gso/P/LAB
 
@@ -10161,7 +10161,7 @@ ___
 
 • **ov_gso_P_LG_mips1**: = "ov-gso/P/LG/mips1"
 
-*Defined in [hips-service.ts:5116](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5116)*
+*Defined in [hips-service.ts:5116](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5116)*
 
 ov-gso/P/LG/mips1
 
@@ -10174,7 +10174,7 @@ ___
 
 • **ov_gso_P_LG_mips2**: = "ov-gso/P/LG/mips2"
 
-*Defined in [hips-service.ts:5123](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5123)*
+*Defined in [hips-service.ts:5123](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5123)*
 
 ov-gso/P/LG/mips2
 
@@ -10187,7 +10187,7 @@ ___
 
 • **ov_gso_P_LG_mips3**: = "ov-gso/P/LG/mips3"
 
-*Defined in [hips-service.ts:5130](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5130)*
+*Defined in [hips-service.ts:5130](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5130)*
 
 ov-gso/P/LG/mips3
 
@@ -10200,7 +10200,7 @@ ___
 
 • **ov_gso_P_LVL_irac1**: = "ov-gso/P/LVL/irac1"
 
-*Defined in [hips-service.ts:5137](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5137)*
+*Defined in [hips-service.ts:5137](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5137)*
 
 ov-gso/P/LVL/irac1
 
@@ -10213,7 +10213,7 @@ ___
 
 • **ov_gso_P_LVL_irac2**: = "ov-gso/P/LVL/irac2"
 
-*Defined in [hips-service.ts:5144](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5144)*
+*Defined in [hips-service.ts:5144](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5144)*
 
 ov-gso/P/LVL/irac2
 
@@ -10226,7 +10226,7 @@ ___
 
 • **ov_gso_P_LVL_irac3**: = "ov-gso/P/LVL/irac3"
 
-*Defined in [hips-service.ts:5151](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5151)*
+*Defined in [hips-service.ts:5151](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5151)*
 
 ov-gso/P/LVL/irac3
 
@@ -10239,7 +10239,7 @@ ___
 
 • **ov_gso_P_LVL_irac4**: = "ov-gso/P/LVL/irac4"
 
-*Defined in [hips-service.ts:5158](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5158)*
+*Defined in [hips-service.ts:5158](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5158)*
 
 ov-gso/P/LVL/irac4
 
@@ -10252,7 +10252,7 @@ ___
 
 • **ov_gso_P_LVL_mips1**: = "ov-gso/P/LVL/mips1"
 
-*Defined in [hips-service.ts:5165](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5165)*
+*Defined in [hips-service.ts:5165](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5165)*
 
 ov-gso/P/LVL/mips1
 
@@ -10265,7 +10265,7 @@ ___
 
 • **ov_gso_P_LVL_mips2**: = "ov-gso/P/LVL/mips2"
 
-*Defined in [hips-service.ts:5172](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5172)*
+*Defined in [hips-service.ts:5172](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5172)*
 
 ov-gso/P/LVL/mips2
 
@@ -10278,7 +10278,7 @@ ___
 
 • **ov_gso_P_LVL_mips3**: = "ov-gso/P/LVL/mips3"
 
-*Defined in [hips-service.ts:5179](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5179)*
+*Defined in [hips-service.ts:5179](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5179)*
 
 ov-gso/P/LVL/mips3
 
@@ -10291,7 +10291,7 @@ ___
 
 • **ov_gso_P_M31_irac1**: = "ov-gso/P/M31/irac1"
 
-*Defined in [hips-service.ts:5186](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5186)*
+*Defined in [hips-service.ts:5186](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5186)*
 
 ov-gso/P/M31/irac1
 
@@ -10304,7 +10304,7 @@ ___
 
 • **ov_gso_P_M31_irac2**: = "ov-gso/P/M31/irac2"
 
-*Defined in [hips-service.ts:5193](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5193)*
+*Defined in [hips-service.ts:5193](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5193)*
 
 ov-gso/P/M31/irac2
 
@@ -10317,7 +10317,7 @@ ___
 
 • **ov_gso_P_MAIPU_MU**: = "ov-gso/P/MAIPU-MU"
 
-*Defined in [hips-service.ts:5201](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5201)*
+*Defined in [hips-service.ts:5201](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5201)*
 
 ov-gso/P/MAIPU-MU
 
@@ -10331,7 +10331,7 @@ ___
 
 • **ov_gso_P_MIPSGAL_mips1**: = "ov-gso/P/MIPSGAL/mips1"
 
-*Defined in [hips-service.ts:5208](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5208)*
+*Defined in [hips-service.ts:5208](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5208)*
 
 ov-gso/P/MIPSGAL/mips1
 
@@ -10344,7 +10344,7 @@ ___
 
 • **ov_gso_P_MITEoR**: = "ov-gso/P/MITEoR"
 
-*Defined in [hips-service.ts:5216](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5216)*
+*Defined in [hips-service.ts:5216](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5216)*
 
 ov-gso/P/MITEoR
 
@@ -10358,7 +10358,7 @@ ___
 
 • **ov_gso_P_MITEoR_SIGMA**: = "ov-gso/P/MITEoR/SIGMA"
 
-*Defined in [hips-service.ts:5224](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5224)*
+*Defined in [hips-service.ts:5224](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5224)*
 
 ov-gso/P/MITEoR/SIGMA
 
@@ -10372,7 +10372,7 @@ ___
 
 • **ov_gso_P_Madden_250**: = "ov-gso/P/Madden/250"
 
-*Defined in [hips-service.ts:5232](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5232)*
+*Defined in [hips-service.ts:5232](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5232)*
 
 ov-gso/P/Madden/250
 
@@ -10386,7 +10386,7 @@ ___
 
 • **ov_gso_P_Madden_250_SIGMA**: = "ov-gso/P/Madden/250/SIGMA"
 
-*Defined in [hips-service.ts:5240](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5240)*
+*Defined in [hips-service.ts:5240](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5240)*
 
 ov-gso/P/Madden/250/SIGMA
 
@@ -10400,7 +10400,7 @@ ___
 
 • **ov_gso_P_Madden_350**: = "ov-gso/P/Madden/350"
 
-*Defined in [hips-service.ts:5248](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5248)*
+*Defined in [hips-service.ts:5248](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5248)*
 
 ov-gso/P/Madden/350
 
@@ -10414,7 +10414,7 @@ ___
 
 • **ov_gso_P_Madden_350_SIGMA**: = "ov-gso/P/Madden/350/SIGMA"
 
-*Defined in [hips-service.ts:5256](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5256)*
+*Defined in [hips-service.ts:5256](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5256)*
 
 ov-gso/P/Madden/350/SIGMA
 
@@ -10428,7 +10428,7 @@ ___
 
 • **ov_gso_P_Madden_500**: = "ov-gso/P/Madden/500"
 
-*Defined in [hips-service.ts:5264](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5264)*
+*Defined in [hips-service.ts:5264](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5264)*
 
 ov-gso/P/Madden/500
 
@@ -10442,7 +10442,7 @@ ___
 
 • **ov_gso_P_Madden_500_SIGMA**: = "ov-gso/P/Madden/500/SIGMA"
 
-*Defined in [hips-service.ts:5272](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5272)*
+*Defined in [hips-service.ts:5272](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5272)*
 
 ov-gso/P/Madden/500/SIGMA
 
@@ -10456,7 +10456,7 @@ ___
 
 • **ov_gso_P_Meisenheimer_250**: = "ov-gso/P/Meisenheimer/250"
 
-*Defined in [hips-service.ts:5280](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5280)*
+*Defined in [hips-service.ts:5280](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5280)*
 
 ov-gso/P/Meisenheimer/250
 
@@ -10470,7 +10470,7 @@ ___
 
 • **ov_gso_P_Meisenheimer_250_SIGMA**: = "ov-gso/P/Meisenheimer/250/SIGMA"
 
-*Defined in [hips-service.ts:5288](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5288)*
+*Defined in [hips-service.ts:5288](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5288)*
 
 ov-gso/P/Meisenheimer/250/SIGMA
 
@@ -10484,7 +10484,7 @@ ___
 
 • **ov_gso_P_Meisenheimer_350**: = "ov-gso/P/Meisenheimer/350"
 
-*Defined in [hips-service.ts:5296](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5296)*
+*Defined in [hips-service.ts:5296](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5296)*
 
 ov-gso/P/Meisenheimer/350
 
@@ -10498,7 +10498,7 @@ ___
 
 • **ov_gso_P_Meisenheimer_350_SIGMA**: = "ov-gso/P/Meisenheimer/350/SIGMA"
 
-*Defined in [hips-service.ts:5304](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5304)*
+*Defined in [hips-service.ts:5304](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5304)*
 
 ov-gso/P/Meisenheimer/350/SIGMA
 
@@ -10512,7 +10512,7 @@ ___
 
 • **ov_gso_P_Meisenheimer_500**: = "ov-gso/P/Meisenheimer/500"
 
-*Defined in [hips-service.ts:5312](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5312)*
+*Defined in [hips-service.ts:5312](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5312)*
 
 ov-gso/P/Meisenheimer/500
 
@@ -10526,7 +10526,7 @@ ___
 
 • **ov_gso_P_Meisenheimer_500_SIGMA**: = "ov-gso/P/Meisenheimer/500/SIGMA"
 
-*Defined in [hips-service.ts:5320](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5320)*
+*Defined in [hips-service.ts:5320](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5320)*
 
 ov-gso/P/Meisenheimer/500/SIGMA
 
@@ -10540,7 +10540,7 @@ ___
 
 • **ov_gso_P_Nobeyama_3cm**: = "ov-gso/P/Nobeyama/3cm"
 
-*Defined in [hips-service.ts:5328](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5328)*
+*Defined in [hips-service.ts:5328](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5328)*
 
 ov-gso/P/Nobeyama/3cm
 
@@ -10554,7 +10554,7 @@ ___
 
 • **ov_gso_P_PARKES_150MHz**: = "ov-gso/P/PARKES/150MHz"
 
-*Defined in [hips-service.ts:5336](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5336)*
+*Defined in [hips-service.ts:5336](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5336)*
 
 ov-gso/P/PARKES/150MHz
 
@@ -10568,7 +10568,7 @@ ___
 
 • **ov_gso_P_PARKES_6cm**: = "ov-gso/P/PARKES/6cm"
 
-*Defined in [hips-service.ts:5344](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5344)*
+*Defined in [hips-service.ts:5344](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5344)*
 
 ov-gso/P/PARKES/6cm
 
@@ -10582,7 +10582,7 @@ ___
 
 • **ov_gso_P_PARKES_85MHz**: = "ov-gso/P/PARKES/85MHz"
 
-*Defined in [hips-service.ts:5352](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5352)*
+*Defined in [hips-service.ts:5352](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5352)*
 
 ov-gso/P/PARKES/85MHz
 
@@ -10596,7 +10596,7 @@ ___
 
 • **ov_gso_P_RASS**: = "ov-gso/P/RASS"
 
-*Defined in [hips-service.ts:5360](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5360)*
+*Defined in [hips-service.ts:5360](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5360)*
 
 ov-gso/P/RASS
 
@@ -10610,7 +10610,7 @@ ___
 
 • **ov_gso_P_RASS_EXP**: = "ov-gso/P/RASS/EXP"
 
-*Defined in [hips-service.ts:5368](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5368)*
+*Defined in [hips-service.ts:5368](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5368)*
 
 ov-gso/P/RASS/EXP
 
@@ -10624,7 +10624,7 @@ ___
 
 • **ov_gso_P_RASS_HardBand**: = "ov-gso/P/RASS/HardBand"
 
-*Defined in [hips-service.ts:5376](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5376)*
+*Defined in [hips-service.ts:5376](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5376)*
 
 ov-gso/P/RASS/HardBand
 
@@ -10638,7 +10638,7 @@ ___
 
 • **ov_gso_P_RASS_SoftBand**: = "ov-gso/P/RASS/SoftBand"
 
-*Defined in [hips-service.ts:5384](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5384)*
+*Defined in [hips-service.ts:5384](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5384)*
 
 ov-gso/P/RASS/SoftBand
 
@@ -10652,7 +10652,7 @@ ___
 
 • **ov_gso_P_S4G_irac1**: = "ov-gso/P/S4G/irac1"
 
-*Defined in [hips-service.ts:5391](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5391)*
+*Defined in [hips-service.ts:5391](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5391)*
 
 ov-gso/P/S4G/irac1
 
@@ -10665,7 +10665,7 @@ ___
 
 • **ov_gso_P_S4G_irac2**: = "ov-gso/P/S4G/irac2"
 
-*Defined in [hips-service.ts:5398](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5398)*
+*Defined in [hips-service.ts:5398](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5398)*
 
 ov-gso/P/S4G/irac2
 
@@ -10678,7 +10678,7 @@ ___
 
 • **ov_gso_P_SAG4_250**: = "ov-gso/P/SAG4/250"
 
-*Defined in [hips-service.ts:5406](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5406)*
+*Defined in [hips-service.ts:5406](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5406)*
 
 ov-gso/P/SAG4/250
 
@@ -10692,7 +10692,7 @@ ___
 
 • **ov_gso_P_SAG4_250_SIGMA**: = "ov-gso/P/SAG4/250/SIGMA"
 
-*Defined in [hips-service.ts:5414](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5414)*
+*Defined in [hips-service.ts:5414](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5414)*
 
 ov-gso/P/SAG4/250/SIGMA
 
@@ -10706,7 +10706,7 @@ ___
 
 • **ov_gso_P_SAG4_350**: = "ov-gso/P/SAG4/350"
 
-*Defined in [hips-service.ts:5422](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5422)*
+*Defined in [hips-service.ts:5422](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5422)*
 
 ov-gso/P/SAG4/350
 
@@ -10720,7 +10720,7 @@ ___
 
 • **ov_gso_P_SAG4_350_SIGMA**: = "ov-gso/P/SAG4/350/SIGMA"
 
-*Defined in [hips-service.ts:5430](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5430)*
+*Defined in [hips-service.ts:5430](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5430)*
 
 ov-gso/P/SAG4/350/SIGMA
 
@@ -10734,7 +10734,7 @@ ___
 
 • **ov_gso_P_SAG4_500**: = "ov-gso/P/SAG4/500"
 
-*Defined in [hips-service.ts:5438](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5438)*
+*Defined in [hips-service.ts:5438](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5438)*
 
 ov-gso/P/SAG4/500
 
@@ -10748,7 +10748,7 @@ ___
 
 • **ov_gso_P_SAG4_500_SIGMA**: = "ov-gso/P/SAG4/500/SIGMA"
 
-*Defined in [hips-service.ts:5446](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5446)*
+*Defined in [hips-service.ts:5446](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5446)*
 
 ov-gso/P/SAG4/500/SIGMA
 
@@ -10762,7 +10762,7 @@ ___
 
 • **ov_gso_P_SAGE_irac1**: = "ov-gso/P/SAGE/irac1"
 
-*Defined in [hips-service.ts:5453](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5453)*
+*Defined in [hips-service.ts:5453](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5453)*
 
 ov-gso/P/SAGE/irac1
 
@@ -10775,7 +10775,7 @@ ___
 
 • **ov_gso_P_SAGE_irac2**: = "ov-gso/P/SAGE_irac2"
 
-*Defined in [hips-service.ts:5495](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5495)*
+*Defined in [hips-service.ts:5495](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5495)*
 
 ov-gso/P/SAGE_irac2
 
@@ -10788,7 +10788,7 @@ ___
 
 • **ov_gso_P_SAGE_irac3**: = "ov-gso/P/SAGE/irac3"
 
-*Defined in [hips-service.ts:5460](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5460)*
+*Defined in [hips-service.ts:5460](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5460)*
 
 ov-gso/P/SAGE/irac3
 
@@ -10801,7 +10801,7 @@ ___
 
 • **ov_gso_P_SAGE_irac4**: = "ov-gso/P/SAGE/irac4"
 
-*Defined in [hips-service.ts:5467](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5467)*
+*Defined in [hips-service.ts:5467](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5467)*
 
 ov-gso/P/SAGE/irac4
 
@@ -10814,7 +10814,7 @@ ___
 
 • **ov_gso_P_SAGE_mips1**: = "ov-gso/P/SAGE/mips1"
 
-*Defined in [hips-service.ts:5474](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5474)*
+*Defined in [hips-service.ts:5474](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5474)*
 
 ov-gso/P/SAGE/mips1
 
@@ -10827,7 +10827,7 @@ ___
 
 • **ov_gso_P_SAGE_mips2**: = "ov-gso/P/SAGE/mips2"
 
-*Defined in [hips-service.ts:5481](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5481)*
+*Defined in [hips-service.ts:5481](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5481)*
 
 ov-gso/P/SAGE/mips2
 
@@ -10840,7 +10840,7 @@ ___
 
 • **ov_gso_P_SAGE_mips3**: = "ov-gso/P/SAGE/mips3"
 
-*Defined in [hips-service.ts:5488](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5488)*
+*Defined in [hips-service.ts:5488](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5488)*
 
 ov-gso/P/SAGE/mips3
 
@@ -10853,7 +10853,7 @@ ___
 
 • **ov_gso_P_SCANDELS_irac1**: = "ov-gso/P/SCANDELS/irac1"
 
-*Defined in [hips-service.ts:5502](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5502)*
+*Defined in [hips-service.ts:5502](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5502)*
 
 ov-gso/P/SCANDELS/irac1
 
@@ -10866,7 +10866,7 @@ ___
 
 • **ov_gso_P_SCANDELS_irac2**: = "ov-gso/P/SCANDELS/irac2"
 
-*Defined in [hips-service.ts:5509](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5509)*
+*Defined in [hips-service.ts:5509](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5509)*
 
 ov-gso/P/SCANDELS/irac2
 
@@ -10879,7 +10879,7 @@ ___
 
 • **ov_gso_P_SCOSMOS_irac1**: = "ov-gso/P/SCOSMOS/irac1"
 
-*Defined in [hips-service.ts:5516](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5516)*
+*Defined in [hips-service.ts:5516](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5516)*
 
 ov-gso/P/SCOSMOS/irac1
 
@@ -10892,7 +10892,7 @@ ___
 
 • **ov_gso_P_SCOSMOS_irac2**: = "ov-gso/P/SCOSMOS/irac2"
 
-*Defined in [hips-service.ts:5523](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5523)*
+*Defined in [hips-service.ts:5523](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5523)*
 
 ov-gso/P/SCOSMOS/irac2
 
@@ -10905,7 +10905,7 @@ ___
 
 • **ov_gso_P_SCOSMOS_irac3**: = "ov-gso/P/SCOSMOS/irac3"
 
-*Defined in [hips-service.ts:5530](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5530)*
+*Defined in [hips-service.ts:5530](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5530)*
 
 ov-gso/P/SCOSMOS/irac3
 
@@ -10918,7 +10918,7 @@ ___
 
 • **ov_gso_P_SCOSMOS_mips1**: = "ov-gso/P/SCOSMOS/mips1"
 
-*Defined in [hips-service.ts:5537](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5537)*
+*Defined in [hips-service.ts:5537](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5537)*
 
 ov-gso/P/SCOSMOS/mips1
 
@@ -10931,7 +10931,7 @@ ___
 
 • **ov_gso_P_SCOSMOS_mips2**: = "ov-gso/P/SCOSMOS/mips2"
 
-*Defined in [hips-service.ts:5544](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5544)*
+*Defined in [hips-service.ts:5544](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5544)*
 
 ov-gso/P/SCOSMOS/mips2
 
@@ -10944,7 +10944,7 @@ ___
 
 • **ov_gso_P_SCOSMOS_mips3**: = "ov-gso/P/SCOSMOS/mips3"
 
-*Defined in [hips-service.ts:5551](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5551)*
+*Defined in [hips-service.ts:5551](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5551)*
 
 ov-gso/P/SCOSMOS/mips3
 
@@ -10957,7 +10957,7 @@ ___
 
 • **ov_gso_P_SDWFS_irac1**: = "ov-gso/P/SDWFS/irac1"
 
-*Defined in [hips-service.ts:5558](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5558)*
+*Defined in [hips-service.ts:5558](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5558)*
 
 ov-gso/P/SDWFS/irac1
 
@@ -10970,7 +10970,7 @@ ___
 
 • **ov_gso_P_SDWFS_irac2**: = "ov-gso/P/SDWFS/irac2"
 
-*Defined in [hips-service.ts:5565](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5565)*
+*Defined in [hips-service.ts:5565](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5565)*
 
 ov-gso/P/SDWFS/irac2
 
@@ -10983,7 +10983,7 @@ ___
 
 • **ov_gso_P_SDWFS_irac3**: = "ov-gso/P/SDWFS/irac3"
 
-*Defined in [hips-service.ts:5572](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5572)*
+*Defined in [hips-service.ts:5572](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5572)*
 
 ov-gso/P/SDWFS/irac3
 
@@ -10996,7 +10996,7 @@ ___
 
 • **ov_gso_P_SDWFS_irac4**: = "ov-gso/P/SDWFS/irac4"
 
-*Defined in [hips-service.ts:5579](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5579)*
+*Defined in [hips-service.ts:5579](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5579)*
 
 ov-gso/P/SDWFS/irac4
 
@@ -11009,7 +11009,7 @@ ___
 
 • **ov_gso_P_SEP_mips1**: = "ov-gso/P/SEP/mips1"
 
-*Defined in [hips-service.ts:5586](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5586)*
+*Defined in [hips-service.ts:5586](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5586)*
 
 ov-gso/P/SEP/mips1
 
@@ -11022,7 +11022,7 @@ ___
 
 • **ov_gso_P_SEP_mips2**: = "ov-gso/P/SEP/mips2"
 
-*Defined in [hips-service.ts:5593](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5593)*
+*Defined in [hips-service.ts:5593](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5593)*
 
 ov-gso/P/SEP/mips2
 
@@ -11035,7 +11035,7 @@ ___
 
 • **ov_gso_P_SERVS_irac1**: = "ov-gso/P/SERVS/irac1"
 
-*Defined in [hips-service.ts:5600](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5600)*
+*Defined in [hips-service.ts:5600](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5600)*
 
 ov-gso/P/SERVS/irac1
 
@@ -11048,7 +11048,7 @@ ___
 
 • **ov_gso_P_SERVS_irac2**: = "ov-gso/P/SERVS/irac2"
 
-*Defined in [hips-service.ts:5607](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5607)*
+*Defined in [hips-service.ts:5607](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5607)*
 
 ov-gso/P/SERVS/irac2
 
@@ -11061,7 +11061,7 @@ ___
 
 • **ov_gso_P_SGPS_CONT**: = "ov-gso/P/SGPS/CONT"
 
-*Defined in [hips-service.ts:5615](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5615)*
+*Defined in [hips-service.ts:5615](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5615)*
 
 ov-gso/P/SGPS/CONT
 
@@ -11075,7 +11075,7 @@ ___
 
 • **ov_gso_P_SGPS_II**: = "ov-gso/P/SGPS/II"
 
-*Defined in [hips-service.ts:5623](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5623)*
+*Defined in [hips-service.ts:5623](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5623)*
 
 ov-gso/P/SGPS/II
 
@@ -11089,7 +11089,7 @@ ___
 
 • **ov_gso_P_SHASSA**: = "ov-gso/P/SHASSA"
 
-*Defined in [hips-service.ts:5630](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5630)*
+*Defined in [hips-service.ts:5630](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5630)*
 
 ov-gso/P/SHASSA
 
@@ -11102,7 +11102,7 @@ ___
 
 • **ov_gso_P_SHASSA_CONT**: = "ov-gso/P/SHASSA/CONT"
 
-*Defined in [hips-service.ts:5637](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5637)*
+*Defined in [hips-service.ts:5637](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5637)*
 
 ov-gso/P/SHASSA/CONT
 
@@ -11115,7 +11115,7 @@ ___
 
 • **ov_gso_P_SHASSA_HA**: = "ov-gso/P/SHASSA/HA"
 
-*Defined in [hips-service.ts:5644](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5644)*
+*Defined in [hips-service.ts:5644](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5644)*
 
 ov-gso/P/SHASSA/HA
 
@@ -11128,7 +11128,7 @@ ___
 
 • **ov_gso_P_SHASSA_SM**: = "ov-gso/P/SHASSA/SM"
 
-*Defined in [hips-service.ts:5651](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5651)*
+*Defined in [hips-service.ts:5651](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5651)*
 
 ov-gso/P/SHASSA/SM
 
@@ -11141,7 +11141,7 @@ ___
 
 • **ov_gso_P_SINGS_irac1**: = "ov-gso/P/SINGS/irac1"
 
-*Defined in [hips-service.ts:5658](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5658)*
+*Defined in [hips-service.ts:5658](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5658)*
 
 ov-gso/P/SINGS/irac1
 
@@ -11154,7 +11154,7 @@ ___
 
 • **ov_gso_P_SINGS_irac2**: = "ov-gso/P/SINGS/irac2"
 
-*Defined in [hips-service.ts:5665](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5665)*
+*Defined in [hips-service.ts:5665](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5665)*
 
 ov-gso/P/SINGS/irac2
 
@@ -11167,7 +11167,7 @@ ___
 
 • **ov_gso_P_SINGS_irac3**: = "ov-gso/P/SINGS/irac3"
 
-*Defined in [hips-service.ts:5672](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5672)*
+*Defined in [hips-service.ts:5672](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5672)*
 
 ov-gso/P/SINGS/irac3
 
@@ -11180,7 +11180,7 @@ ___
 
 • **ov_gso_P_SINGS_irac4**: = "ov-gso/P/SINGS/irac4"
 
-*Defined in [hips-service.ts:5679](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5679)*
+*Defined in [hips-service.ts:5679](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5679)*
 
 ov-gso/P/SINGS/irac4
 
@@ -11193,7 +11193,7 @@ ___
 
 • **ov_gso_P_SINGS_mips1**: = "ov-gso/P/SINGS/mips1"
 
-*Defined in [hips-service.ts:5686](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5686)*
+*Defined in [hips-service.ts:5686](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5686)*
 
 ov-gso/P/SINGS/mips1
 
@@ -11206,7 +11206,7 @@ ___
 
 • **ov_gso_P_SINGS_mips2**: = "ov-gso/P/SINGS/mips2"
 
-*Defined in [hips-service.ts:5693](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5693)*
+*Defined in [hips-service.ts:5693](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5693)*
 
 ov-gso/P/SINGS/mips2
 
@@ -11219,7 +11219,7 @@ ___
 
 • **ov_gso_P_SINGS_mips3**: = "ov-gso/P/SINGS/mips3"
 
-*Defined in [hips-service.ts:5700](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5700)*
+*Defined in [hips-service.ts:5700](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5700)*
 
 ov-gso/P/SINGS/mips3
 
@@ -11232,7 +11232,7 @@ ___
 
 • **ov_gso_P_SMOG_irac1**: = "ov-gso/P/SMOG/irac1"
 
-*Defined in [hips-service.ts:5707](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5707)*
+*Defined in [hips-service.ts:5707](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5707)*
 
 ov-gso/P/SMOG/irac1
 
@@ -11245,7 +11245,7 @@ ___
 
 • **ov_gso_P_SMOG_irac2**: = "ov-gso/P/SMOG/irac2"
 
-*Defined in [hips-service.ts:5714](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5714)*
+*Defined in [hips-service.ts:5714](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5714)*
 
 ov-gso/P/SMOG/irac2
 
@@ -11258,7 +11258,7 @@ ___
 
 • **ov_gso_P_SMOG_irac3**: = "ov-gso/P/SMOG/irac3"
 
-*Defined in [hips-service.ts:5721](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5721)*
+*Defined in [hips-service.ts:5721](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5721)*
 
 ov-gso/P/SMOG/irac3
 
@@ -11271,7 +11271,7 @@ ___
 
 • **ov_gso_P_SMOG_irac4**: = "ov-gso/P/SMOG/irac4"
 
-*Defined in [hips-service.ts:5728](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5728)*
+*Defined in [hips-service.ts:5728](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5728)*
 
 ov-gso/P/SMOG/irac4
 
@@ -11284,7 +11284,7 @@ ___
 
 • **ov_gso_P_SMUVS_irac1**: = "ov-gso/P/SMUVS/irac1"
 
-*Defined in [hips-service.ts:5735](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5735)*
+*Defined in [hips-service.ts:5735](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5735)*
 
 ov-gso/P/SMUVS/irac1
 
@@ -11297,7 +11297,7 @@ ___
 
 • **ov_gso_P_SMUVS_irac2**: = "ov-gso/P/SMUVS/irac2"
 
-*Defined in [hips-service.ts:5742](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5742)*
+*Defined in [hips-service.ts:5742](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5742)*
 
 ov-gso/P/SMUVS/irac2
 
@@ -11310,7 +11310,7 @@ ___
 
 • **ov_gso_P_SRELICS_irac1**: = "ov-gso/P/SRELICS/irac1"
 
-*Defined in [hips-service.ts:5749](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5749)*
+*Defined in [hips-service.ts:5749](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5749)*
 
 ov-gso/P/SRELICS/irac1
 
@@ -11323,7 +11323,7 @@ ___
 
 • **ov_gso_P_SRELICS_irac2**: = "ov-gso/P/SRELICS/irac2"
 
-*Defined in [hips-service.ts:5756](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5756)*
+*Defined in [hips-service.ts:5756](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5756)*
 
 ov-gso/P/SRELICS/irac2
 
@@ -11336,7 +11336,7 @@ ___
 
 • **ov_gso_P_STOCKERT_11cm**: = "ov-gso/P/STOCKERT/11cm"
 
-*Defined in [hips-service.ts:5772](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5772)*
+*Defined in [hips-service.ts:5772](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5772)*
 
 ov-gso/P/STOCKERT/11cm
 
@@ -11350,7 +11350,7 @@ ___
 
 • **ov_gso_P_STOCKERT_VILLAELISA_1420MHz**: = "ov-gso/P/STOCKERT+VILLAELISA/1420MHz"
 
-*Defined in [hips-service.ts:5764](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5764)*
+*Defined in [hips-service.ts:5764](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5764)*
 
 ov-gso/P/STOCKERT+VILLAELISA/1420MHz
 
@@ -11364,7 +11364,7 @@ ___
 
 • **ov_gso_P_SUMSS**: = "ov-gso/P/SUMSS"
 
-*Defined in [hips-service.ts:5780](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5780)*
+*Defined in [hips-service.ts:5780](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5780)*
 
 ov-gso/P/SUMSS
 
@@ -11378,7 +11378,7 @@ ___
 
 • **ov_gso_P_SWIRE_irac1**: = "ov-gso/P/SWIRE/irac1"
 
-*Defined in [hips-service.ts:5787](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5787)*
+*Defined in [hips-service.ts:5787](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5787)*
 
 ov-gso/P/SWIRE/irac1
 
@@ -11391,7 +11391,7 @@ ___
 
 • **ov_gso_P_SWIRE_irac2**: = "ov-gso/P/SWIRE/irac2"
 
-*Defined in [hips-service.ts:5794](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5794)*
+*Defined in [hips-service.ts:5794](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5794)*
 
 ov-gso/P/SWIRE/irac2
 
@@ -11404,7 +11404,7 @@ ___
 
 • **ov_gso_P_SWIRE_irac3**: = "ov-gso/P/SWIRE/irac3"
 
-*Defined in [hips-service.ts:5801](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5801)*
+*Defined in [hips-service.ts:5801](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5801)*
 
 ov-gso/P/SWIRE/irac3
 
@@ -11417,7 +11417,7 @@ ___
 
 • **ov_gso_P_SWIRE_irac4**: = "ov-gso/P/SWIRE/irac4"
 
-*Defined in [hips-service.ts:5808](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5808)*
+*Defined in [hips-service.ts:5808](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5808)*
 
 ov-gso/P/SWIRE/irac4
 
@@ -11430,7 +11430,7 @@ ___
 
 • **ov_gso_P_SWIRE_mips2**: = "ov-gso/P/SWIRE/mips2"
 
-*Defined in [hips-service.ts:5815](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5815)*
+*Defined in [hips-service.ts:5815](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5815)*
 
 ov-gso/P/SWIRE/mips2
 
@@ -11443,7 +11443,7 @@ ___
 
 • **ov_gso_P_SWIRE_mips3**: = "ov-gso/P/SWIRE/mips3"
 
-*Defined in [hips-service.ts:5822](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5822)*
+*Defined in [hips-service.ts:5822](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5822)*
 
 ov-gso/P/SWIRE/mips3
 
@@ -11456,7 +11456,7 @@ ___
 
 • **ov_gso_P_SpIES_irac1**: = "ov-gso/P/SpIES/irac1"
 
-*Defined in [hips-service.ts:5829](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5829)*
+*Defined in [hips-service.ts:5829](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5829)*
 
 ov-gso/P/SpIES/irac1
 
@@ -11469,7 +11469,7 @@ ___
 
 • **ov_gso_P_SpIES_irac2**: = "ov-gso/P/SpIES/irac2"
 
-*Defined in [hips-service.ts:5836](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5836)*
+*Defined in [hips-service.ts:5836](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5836)*
 
 ov-gso/P/SpIES/irac2
 
@@ -11482,7 +11482,7 @@ ___
 
 • **ov_gso_P_SpUDS_irac1**: = "ov-gso/P/SpUDS/irac1"
 
-*Defined in [hips-service.ts:5843](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5843)*
+*Defined in [hips-service.ts:5843](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5843)*
 
 ov-gso/P/SpUDS/irac1
 
@@ -11495,7 +11495,7 @@ ___
 
 • **ov_gso_P_SpUDS_irac2**: = "ov-gso/P/SpUDS/irac2"
 
-*Defined in [hips-service.ts:5850](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5850)*
+*Defined in [hips-service.ts:5850](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5850)*
 
 ov-gso/P/SpUDS/irac2
 
@@ -11508,7 +11508,7 @@ ___
 
 • **ov_gso_P_SpUDS_irac3**: = "ov-gso/P/SpUDS/irac3"
 
-*Defined in [hips-service.ts:5857](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5857)*
+*Defined in [hips-service.ts:5857](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5857)*
 
 ov-gso/P/SpUDS/irac3
 
@@ -11521,7 +11521,7 @@ ___
 
 • **ov_gso_P_SpUDS_irac4**: = "ov-gso/P/SpUDS/irac4"
 
-*Defined in [hips-service.ts:5864](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5864)*
+*Defined in [hips-service.ts:5864](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5864)*
 
 ov-gso/P/SpUDS/irac4
 
@@ -11534,7 +11534,7 @@ ___
 
 • **ov_gso_P_SpUDS_mips1**: = "ov-gso/P/SpUDS/mips1"
 
-*Defined in [hips-service.ts:5871](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5871)*
+*Defined in [hips-service.ts:5871](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5871)*
 
 ov-gso/P/SpUDS/mips1
 
@@ -11547,7 +11547,7 @@ ___
 
 • **ov_gso_P_Taurus_irac1**: = "ov-gso/P/Taurus/irac1"
 
-*Defined in [hips-service.ts:5878](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5878)*
+*Defined in [hips-service.ts:5878](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5878)*
 
 ov-gso/P/Taurus/irac1
 
@@ -11560,7 +11560,7 @@ ___
 
 • **ov_gso_P_Taurus_irac2**: = "ov-gso/P/Taurus/irac2"
 
-*Defined in [hips-service.ts:5885](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5885)*
+*Defined in [hips-service.ts:5885](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5885)*
 
 ov-gso/P/Taurus/irac2
 
@@ -11573,7 +11573,7 @@ ___
 
 • **ov_gso_P_Taurus_irac3**: = "ov-gso/P/Taurus/irac3"
 
-*Defined in [hips-service.ts:5892](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5892)*
+*Defined in [hips-service.ts:5892](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5892)*
 
 ov-gso/P/Taurus/irac3
 
@@ -11586,7 +11586,7 @@ ___
 
 • **ov_gso_P_Taurus_irac4**: = "ov-gso/P/Taurus/irac4"
 
-*Defined in [hips-service.ts:5899](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5899)*
+*Defined in [hips-service.ts:5899](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5899)*
 
 ov-gso/P/Taurus/irac4
 
@@ -11599,7 +11599,7 @@ ___
 
 • **ov_gso_P_Taurus_mips1**: = "ov-gso/P/Taurus/mips1"
 
-*Defined in [hips-service.ts:5906](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5906)*
+*Defined in [hips-service.ts:5906](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5906)*
 
 ov-gso/P/Taurus/mips1
 
@@ -11612,7 +11612,7 @@ ___
 
 • **ov_gso_P_Taurus_mips2**: = "ov-gso/P/Taurus/mips2"
 
-*Defined in [hips-service.ts:5913](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5913)*
+*Defined in [hips-service.ts:5913](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5913)*
 
 ov-gso/P/Taurus/mips2
 
@@ -11625,7 +11625,7 @@ ___
 
 • **ov_gso_P_Taurus_mips3**: = "ov-gso/P/Taurus/mips3"
 
-*Defined in [hips-service.ts:5920](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5920)*
+*Defined in [hips-service.ts:5920](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5920)*
 
 ov-gso/P/Taurus/mips3
 
@@ -11638,7 +11638,7 @@ ___
 
 • **ov_gso_P_URUMQI**: = "ov-gso/P/URUMQI"
 
-*Defined in [hips-service.ts:5928](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5928)*
+*Defined in [hips-service.ts:5928](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5928)*
 
 ov-gso/P/URUMQI
 
@@ -11652,7 +11652,7 @@ ___
 
 • **ov_gso_P_URUMQI_POLQ**: = "ov-gso/P/URUMQI/POLQ"
 
-*Defined in [hips-service.ts:5936](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5936)*
+*Defined in [hips-service.ts:5936](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5936)*
 
 ov-gso/P/URUMQI/POLQ
 
@@ -11666,7 +11666,7 @@ ___
 
 • **ov_gso_P_URUMQI_POLU**: = "ov-gso/P/URUMQI/POLU"
 
-*Defined in [hips-service.ts:5944](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5944)*
+*Defined in [hips-service.ts:5944](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5944)*
 
 ov-gso/P/URUMQI/POLU
 
@@ -11680,7 +11680,7 @@ ___
 
 • **ov_gso_P_VELACAR_irac1**: = "ov-gso/P/VELACAR_irac1"
 
-*Defined in [hips-service.ts:5972](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5972)*
+*Defined in [hips-service.ts:5972](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5972)*
 
 ov-gso/P/VELACAR_irac1
 
@@ -11693,7 +11693,7 @@ ___
 
 • **ov_gso_P_VELACAR_irac2**: = "ov-gso/P/VELACAR/irac2"
 
-*Defined in [hips-service.ts:5951](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5951)*
+*Defined in [hips-service.ts:5951](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5951)*
 
 ov-gso/P/VELACAR/irac2
 
@@ -11706,7 +11706,7 @@ ___
 
 • **ov_gso_P_VELACAR_irac3**: = "ov-gso/P/VELACAR/irac3"
 
-*Defined in [hips-service.ts:5958](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5958)*
+*Defined in [hips-service.ts:5958](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5958)*
 
 ov-gso/P/VELACAR/irac3
 
@@ -11719,7 +11719,7 @@ ___
 
 • **ov_gso_P_VELACAR_irac4**: = "ov-gso/P/VELACAR/irac4"
 
-*Defined in [hips-service.ts:5965](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5965)*
+*Defined in [hips-service.ts:5965](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5965)*
 
 ov-gso/P/VELACAR/irac4
 
@@ -11732,7 +11732,7 @@ ___
 
 • **ov_gso_P_VNGS_250**: = "ov-gso/P/VNGS/250"
 
-*Defined in [hips-service.ts:5980](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5980)*
+*Defined in [hips-service.ts:5980](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5980)*
 
 ov-gso/P/VNGS/250
 
@@ -11746,7 +11746,7 @@ ___
 
 • **ov_gso_P_VNGS_250_SIGMA**: = "ov-gso/P/VNGS/250/SIGMA"
 
-*Defined in [hips-service.ts:5988](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5988)*
+*Defined in [hips-service.ts:5988](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5988)*
 
 ov-gso/P/VNGS/250/SIGMA
 
@@ -11760,7 +11760,7 @@ ___
 
 • **ov_gso_P_VNGS_350**: = "ov-gso/P/VNGS/350"
 
-*Defined in [hips-service.ts:5996](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L5996)*
+*Defined in [hips-service.ts:5996](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L5996)*
 
 ov-gso/P/VNGS/350
 
@@ -11774,7 +11774,7 @@ ___
 
 • **ov_gso_P_VNGS_350_SIGMA**: = "ov-gso/P/VNGS/350/SIGMA"
 
-*Defined in [hips-service.ts:6004](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6004)*
+*Defined in [hips-service.ts:6004](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6004)*
 
 ov-gso/P/VNGS/350/SIGMA
 
@@ -11788,7 +11788,7 @@ ___
 
 • **ov_gso_P_VNGS_500**: = "ov-gso/P/VNGS/500"
 
-*Defined in [hips-service.ts:6012](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6012)*
+*Defined in [hips-service.ts:6012](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6012)*
 
 ov-gso/P/VNGS/500
 
@@ -11802,7 +11802,7 @@ ___
 
 • **ov_gso_P_VNGS_500_SIGMA**: = "ov-gso/P/VNGS/500/SIGMA"
 
-*Defined in [hips-service.ts:6020](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6020)*
+*Defined in [hips-service.ts:6020](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6020)*
 
 ov-gso/P/VNGS/500/SIGMA
 
@@ -11816,7 +11816,7 @@ ___
 
 • **ov_gso_P_VTSS_CONT**: = "ov-gso/P/VTSS/CONT"
 
-*Defined in [hips-service.ts:6028](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6028)*
+*Defined in [hips-service.ts:6028](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6028)*
 
 ov-gso/P/VTSS/CONT
 
@@ -11830,7 +11830,7 @@ ___
 
 • **ov_gso_P_VTSS_Ha**: = "ov-gso/P/VTSS/Ha"
 
-*Defined in [hips-service.ts:6036](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6036)*
+*Defined in [hips-service.ts:6036](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6036)*
 
 ov-gso/P/VTSS/Ha
 
@@ -11844,7 +11844,7 @@ ___
 
 • **ov_gso_P_WHAM**: = "ov-gso/P/WHAM"
 
-*Defined in [hips-service.ts:6044](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6044)*
+*Defined in [hips-service.ts:6044](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6044)*
 
 ov-gso/P/WHAM
 
@@ -11858,7 +11858,7 @@ ___
 
 • **wfau_roe_ac_uk_P_UHSDR1_J**: = "wfau.roe.ac.uk/P/UHSDR1/J"
 
-*Defined in [hips-service.ts:6051](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6051)*
+*Defined in [hips-service.ts:6051](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6051)*
 
 wfau.roe.ac.uk/P/UHSDR1/J
 
@@ -11871,7 +11871,7 @@ ___
 
 • **wfau_roe_ac_uk_P_UKIDSS_GCS_H**: = "wfau.roe.ac.uk/P/UKIDSS/GCS/H"
 
-*Defined in [hips-service.ts:6058](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6058)*
+*Defined in [hips-service.ts:6058](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6058)*
 
 wfau.roe.ac.uk/P/UKIDSS/GCS/H
 
@@ -11884,7 +11884,7 @@ ___
 
 • **wfau_roe_ac_uk_P_UKIDSS_GCS_J**: = "wfau.roe.ac.uk/P/UKIDSS/GCS/J"
 
-*Defined in [hips-service.ts:6065](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6065)*
+*Defined in [hips-service.ts:6065](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6065)*
 
 wfau.roe.ac.uk/P/UKIDSS/GCS/J
 
@@ -11897,7 +11897,7 @@ ___
 
 • **wfau_roe_ac_uk_P_UKIDSS_GCS_K1**: = "wfau.roe.ac.uk/P/UKIDSS/GCS/K1"
 
-*Defined in [hips-service.ts:6072](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6072)*
+*Defined in [hips-service.ts:6072](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6072)*
 
 wfau.roe.ac.uk/P/UKIDSS/GCS/K1
 
@@ -11910,7 +11910,7 @@ ___
 
 • **wfau_roe_ac_uk_P_UKIDSS_GCS_K2**: = "wfau.roe.ac.uk/P/UKIDSS/GCS/K2"
 
-*Defined in [hips-service.ts:6079](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6079)*
+*Defined in [hips-service.ts:6079](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6079)*
 
 wfau.roe.ac.uk/P/UKIDSS/GCS/K2
 
@@ -11923,7 +11923,7 @@ ___
 
 • **wfau_roe_ac_uk_P_UKIDSS_GCS_Y**: = "wfau.roe.ac.uk/P/UKIDSS/GCS/Y"
 
-*Defined in [hips-service.ts:6086](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6086)*
+*Defined in [hips-service.ts:6086](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6086)*
 
 wfau.roe.ac.uk/P/UKIDSS/GCS/Y
 
@@ -11936,7 +11936,7 @@ ___
 
 • **wfau_roe_ac_uk_P_UKIDSS_GCS_Z**: = "wfau.roe.ac.uk/P/UKIDSS/GCS/Z"
 
-*Defined in [hips-service.ts:6093](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6093)*
+*Defined in [hips-service.ts:6093](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6093)*
 
 wfau.roe.ac.uk/P/UKIDSS/GCS/Z
 
@@ -11949,7 +11949,7 @@ ___
 
 • **wfau_roe_ac_uk_P_UKIDSS_LAS_H**: = "wfau.roe.ac.uk/P/UKIDSS/LAS/H"
 
-*Defined in [hips-service.ts:6100](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6100)*
+*Defined in [hips-service.ts:6100](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6100)*
 
 wfau.roe.ac.uk/P/UKIDSS/LAS/H
 
@@ -11962,7 +11962,7 @@ ___
 
 • **wfau_roe_ac_uk_P_UKIDSS_LAS_J1**: = "wfau.roe.ac.uk/P/UKIDSS/LAS/J1"
 
-*Defined in [hips-service.ts:6107](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6107)*
+*Defined in [hips-service.ts:6107](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6107)*
 
 wfau.roe.ac.uk/P/UKIDSS/LAS/J1
 
@@ -11975,7 +11975,7 @@ ___
 
 • **wfau_roe_ac_uk_P_UKIDSS_LAS_J2**: = "wfau.roe.ac.uk/P/UKIDSS/LAS/J2"
 
-*Defined in [hips-service.ts:6114](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6114)*
+*Defined in [hips-service.ts:6114](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6114)*
 
 wfau.roe.ac.uk/P/UKIDSS/LAS/J2
 
@@ -11988,7 +11988,7 @@ ___
 
 • **wfau_roe_ac_uk_P_UKIDSS_LAS_K**: = "wfau.roe.ac.uk/P/UKIDSS/LAS/K"
 
-*Defined in [hips-service.ts:6121](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6121)*
+*Defined in [hips-service.ts:6121](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6121)*
 
 wfau.roe.ac.uk/P/UKIDSS/LAS/K
 
@@ -12001,7 +12001,7 @@ ___
 
 • **wfau_roe_ac_uk_P_UKIDSS_LAS_Y**: = "wfau.roe.ac.uk/P/UKIDSS/LAS/Y"
 
-*Defined in [hips-service.ts:6128](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6128)*
+*Defined in [hips-service.ts:6128](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6128)*
 
 wfau.roe.ac.uk/P/UKIDSS/LAS/Y
 
@@ -12014,7 +12014,7 @@ ___
 
 • **xcatdb_P_XMM_PN_color**: = "xcatdb/P/XMM/PN/color"
 
-*Defined in [hips-service.ts:6135](https://github.com/lloydevans/node-hips2fits/blob/6627b8c/src/hips-service.ts#L6135)*
+*Defined in [hips-service.ts:6135](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/hips-service.ts#L6135)*
 
 xcatdb/P/XMM/PN/color
 
