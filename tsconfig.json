@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "preserveConstEnums": true,
+    "noImplicitReturns": true,
+    "noUnusedParameters": false,
+    "removeComments": false,
+    "importHelpers": true,
+    "strictFunctionTypes": true,
+    "moduleResolution": "node",
+    "lib": ["ES2020"],
+    "target": "ES5",
+    "module": "CommonJS",
+    "outDir": "dist",
+    "rootDir": "./src",
+    "sourceMap": true,
+    "declarationDir": "dist/dts",
+    "declaration": true
+  },
+
+  "include": ["src/index.ts"]
+}

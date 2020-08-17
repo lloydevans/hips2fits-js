@@ -1,0 +1,7 @@
+src
+data
+build
+docs
+tsconfig.json
+.eslintrc.json
+.vscode

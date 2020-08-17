@@ -1,0 +1,53 @@
+{
+  "name": "hips2fits-js",
+  "version": "0.1.0",
+  "description": "Simple NodeJS utility for requesting data from the EDS hips2fits service.",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
+  "types": "dist/dts/index.d.ts",
+  "scripts": {
+    "start": "npm run watch",
+    "build": "npm run build-es && npm run build-cjs",
+    "build-es": "tsc --outDir dist/es --target es5 --module es2015",
+    "build-cjs": "tsc --outDir dist/cjs  --target es6 --module commonjs",
+    "watch-es": "npm run build-es -- -w",
+    "watch-cjs": "npm run build-cjs -- -w",
+    "docs": "npm run docs-md && npm run docs-readme",
+    "hips-service": "node build/hips-service-dts.js",
+    "docs-md": "npx typedoc --options build/typedoc.md.js --plugin typedoc-plugin-markdown",
+    "docs-html": "npx typedoc --options build/typedoc.html.js --plugin none",
+    "docs-readme": "node ./build/build-readme.js",
+    "eslint": "npx --no-install eslint src/**/*.{js,ts}"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lloydevans/node-hips2fits.git"
+  },
+  "keywords": [
+    "hips2fits",
+    "astronomy",
+    "image",
+    "space"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "author": "Lloyd Evans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lloydevans/node-hips2fits/issues"
+  },
+  "homepage": "https://github.com/lloydevans/node-hips2fits#readme",
+  "dependencies": {
+    "@types/node": "^14.0.27",
+    "tslib": "^2.0.1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "2.14.0",
+    "@typescript-eslint/parser": "2.14.0",
+    "eslint": "^6.8.0",
+    "typedoc": "^0.18.0",
+    "typedoc-plugin-markdown": "^2.4.0",
+    "typescript": "^3.9.7"
+  }
+}
