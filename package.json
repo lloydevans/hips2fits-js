@@ -17,7 +17,8 @@
     "docs-md": "npx typedoc --options build/typedoc.md.js --plugin typedoc-plugin-markdown",
     "docs-html": "npx typedoc --options build/typedoc.html.js --plugin none",
     "docs-readme": "node ./build/build-readme.js",
-    "eslint": "npx --no-install eslint src/**/*.{js,ts}"
+    "eslint": "npx --no-install eslint src/**/*.{js,ts}",
+    "version": "npm run build && npm run docs && npm i && git add ."
   },
   "repository": {
     "type": "git",
