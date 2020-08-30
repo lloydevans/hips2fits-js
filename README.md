@@ -46,7 +46,7 @@ Documentions on the service can be found [here](http://alasky.u-strasbg.fr/hips-
 
 ▸ **getImage**(`options`: [HipsOptions](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md), `endPoint?`: string): *Promise‹Uint8Array›*
 
-*Defined in [get-image.ts:59](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/get-image.ts#L59)*
+*Defined in [get-image.ts:59](https://github.com/lloydevans/node-hips2fits/blob/d65782e/src/get-image.ts#L59)*
 
 Get an image from the hips2fits service.
 
@@ -105,7 +105,7 @@ ___
 
 ▸ **getImageUrl**(`options`: [HipsOptions](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/hipsoptions.md), `endPoint`: string): *string*
 
-*Defined in [get-image-url.ts:56](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/get-image-url.ts#L56)*
+*Defined in [get-image-url.ts:56](https://github.com/lloydevans/node-hips2fits/blob/d65782e/src/get-image-url.ts#L56)*
 
 Get an image URL from the hips2fits service.
 
@@ -163,7 +163,7 @@ ___
 
 ▸ **parseWcs**(`wcsString`: string): *[WcsDict](https://github.com/lloydevans/hips2fits-js/blob/master/docs/md/interfaces/wcsdict.md)*
 
-*Defined in [parse-wcs.ts:30](https://github.com/lloydevans/node-hips2fits/blob/7b0ca47/src/parse-wcs.ts#L30)*
+*Defined in [parse-wcs.ts:30](https://github.com/lloydevans/node-hips2fits/blob/d65782e/src/parse-wcs.ts#L30)*
 
 Parse a WCS configuration string.
 
