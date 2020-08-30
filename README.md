@@ -3,7 +3,7 @@
 # hips2fits-js
 
 
-Simple utility for requesting data from the EDS hips2fits service.
+Simple utility for requesting data from the CDS hips2fits service.
 
 This package provides both ES and CJS module formats.
 

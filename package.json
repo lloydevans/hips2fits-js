@@ -1,7 +1,7 @@
 {
   "name": "hips2fits-js",
   "version": "0.1.2",
-  "description": "Simple utility for requesting data from the EDS hips2fits service.",
+  "description": "Simple utility for requesting data from the CDS hips2fits service.",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
   "types": "dist/dts/index.d.ts",
